@@ -1,0 +1,2 @@
+agency_phone,agency_fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+(918)582-2100,,http://www.tulsatransit.org,Tulsa,Metropolitan Tulsa Transit Authority,America/Mexico_City,en

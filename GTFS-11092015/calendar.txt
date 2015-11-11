@@ -1,0 +1,5 @@
+service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+2_merged_140557,20151207,20160410,0,0,0,0,0,1,0
+1_merged_140558,20150302,20151206,1,1,1,1,1,0,0
+1_merged_140555,20151207,20160410,1,1,1,1,1,0,0
+2_merged_140560,20150302,20151206,0,0,0,0,0,1,0

@@ -1,0 +1,53 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+1 Union/Southwest Blvd,3,000000,a56e3a,Tulsa,3593,,,117
+1 Charles Page/SAND SPRINGS,3,000000,808000,Tulsa,3592,,,114
+1 Lewis/Jenks,3,FFFFFF,800080,Tulsa,3591,,,112
+1 11th Street,3,000000,008080,Tulsa,3590,,,111
+1 15th Street,3,000000,ffff00,Tulsa,3597,,,215
+1 Harvard,3,000000,808000,Tulsa,3596,,,210
+1 Airport,3,000000,00ffff,Tulsa,3595,,,203
+1 33rd W Ave,3,FFFFFF,800080,Tulsa,3594,,,118
+1 Broken Arrow Express,3,000000,00ff00,Tulsa,3618,,,902
+1 Union Express,3,000000,0080ff,Tulsa,3619,,,909
+1 PINE/41ST STREET,3,000000,00ffff,Tulsa,3599,,,222C
+1 21st Street,3,000000,a4a0a0,Tulsa,3598,,,221
+1 South Nightline,3,FFFFFF,800000,Tulsa,3612,,,870
+15th Street,3,000000,ffff00,Tulsa,3531,,,215
+Harvard,3,000000,808000,Tulsa,3530,,,210
+PINE/41ST STREET,3,000000,00ffff,Tulsa,3533,,,222C
+21st Street,3,000000,a4a0a0,Tulsa,3532,,,221
+1 Southeast Industrial,3,000000,c0c0c0,Tulsa,3535,,,306
+1 Fast Track,3,000000,00ff00,Tulsa,3534,,,251
+1 71st Street,3,FFFFFF,800080,Tulsa,3537,,,471
+1 Memorial,3,000000,80ff00,Tulsa,3536,,,318
+1 Southeast Nightline,3,FFFFFF,800000,Tulsa,3614,,,880
+1 Broken Arrow Connection,3,FFFFFF,800000,Tulsa,3538,,,508
+Union Express,3,000000,0080ff,Tulsa,3553,,,909
+1 West Nightline,3,FFFFFF,800000,Tulsa,3616,,,890
+West Nightline,3,FFFFFF,800000,Tulsa,3550,,,890
+1 Admiral,3,000000,c4ffc4,Tulsa,3587,,,100
+1 860 Saturday,3,FFFFFF,800000,Tulsa,3610,,,860S
+Airport,3,000000,00ffff,Tulsa,3529,,,203
+71st Street,3,FFFFFF,800080,Tulsa,3603,,,471
+Memorial,3,000000,80ff00,Tulsa,3602,,,318
+Southeast Industrial,3,000000,c0c0c0,Tulsa,3601,,,306
+Fast Track,3,000000,00ff00,Tulsa,3600,,,251
+1 North Nightline,3,FFFFFF,800000,Tulsa,3606,,,840
+Broken Arrow Connection,3,FFFFFF,800000,Tulsa,3604,,,508
+1 Suburban Acres,3,FFFFFF,000080,Tulsa,3588,,,101
+1 Peoria,3,000000,ff00ff,Tulsa,3589,,,105
+1 East Nightline,3,FFFFFF,800000,Tulsa,3608,,,860
+Charles Page/SAND SPRINGS,3,000000,808000,Tulsa,3526,,,114
+Union/Southwest Blvd,3,000000,a56e3a,Tulsa,3527,,,117
+11th Street,3,000000,008080,Tulsa,3524,,,111
+Lewis/Jenks,3,FFFFFF,800080,Tulsa,3525,,,112
+Suburban Acres,3,FFFFFF,000080,Tulsa,3522,,,101
+Peoria,3,000000,ff00ff,Tulsa,3523,,,105
+Admiral,3,000000,c4ffc4,Tulsa,3521,,,100
+33rd W Ave,3,FFFFFF,800080,Tulsa,3528,,,118
+Broken Arrow Express,3,000000,00ff00,Tulsa,3552,,,902
+860 Saturday,3,FFFFFF,800000,Tulsa,3544,,,860S
+South Nightline,3,FFFFFF,800000,Tulsa,3546,,,870
+North Nightline,3,FFFFFF,800000,Tulsa,3540,,,840
+East Nightline,3,FFFFFF,800000,Tulsa,3542,,,860
+Southeast Nightline,3,FFFFFF,800000,Tulsa,3548,,,880
