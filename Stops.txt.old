@@ -1,0 +1,1741 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
+1,Ci61SB,MLK Jr Blvd  & 61st St N,N.CINCINNATI AVE & E 61ST ST N,36.243002,-95.993561,,,,,0
+63,Ch5S,Cheyenne/5th S-NW,,36.150329,-95.992557,,,,,0
+133,WHM,Woodland Hills Mall,WOODLAND HILLS MALL & E 68TH ST S,36.065248,-95.882372,,,,,0
+153,Me21N,S Memorial Dr&E 21st St S,N MEMORIAL DR & E 21ST ST S,36.133224,-95.886407,,,,,0
+257,Me32S,S Memorial Dr&E 31st St S,S MEMORIAL DR & E 31ST PL S,36.117131,-95.886759,,,,,0
+267,Me51S,S Memorial Dr&E 51St St S,S MEMORIAL DR & E 51ST ST S,36.089664,-95.886645,,,,,0
+276,WLM 81ST,81st Street Wal-Mart,S YORKTOWN AVE & E 81ST ST S,36.046921,-95.960904,,,,,0
+287,InPlNB,Inhofe Plaza,S NEWPORT AVE & E 66TH PL S,36.067526,-95.977872,,,,,0
+304,Pe41NB,S Peoria Ave&E 41St  St S,S PEORIA AVE & E 41ST ST S,36.104536,-95.97551,,,,,0
+320,Pe11NB,S Peoria Ave&E 11Th St S,S PEORIA AVE & E 11TH ST S,36.14771,-95.975433,,,,,0
+343,PeViNB,Peoria & Virgin,N PEORIA AVE & E VIRGIN ST,36.184149,-95.975668,,,,,0
+396,6BosEB,E 6Th St S&S Boston Ave,S BOSTON AVE & E 6TH ST S,36.150903,-95.98823,,,,,0
+403,Pe6S,Peoria/6th S-SW,,36.151968,-95.975762,,,,,0
+406,Pe11SB,Peoria & 11th St S,S PEORIA AVE & E 11TH ST S,36.147637,-95.975836,,,,,0
+426,Pe41SB,S Peoria Ave&E 41st St S,S PEORIA AVE & E 41ST ST S,36.104151,-95.975878,,,,,0
+530,11thGarn,11th & Garnett,S GARNETT RD & E 11TH ST S,36.147697,-95.850881,,,,,0
+548,11/SherW,E 11th St S&S Sheridan Rd,S SHERIDAN AVE & E 11TH ST S,36.148086,-95.904735,,,,,0
+555,11YalWB,E 11th St S&S Yale Ave,S YALE AVE & E 11TH ST S,36.147875,-95.922387,,,,,0
+575,11UtWB,E 11th St S&S Utica Ave,S UTICA AVE & E 11TH ST S,36.147916,-95.967325,,,,,0
+579,11PeWB,11th/Peoria W-NW,,36.148119,-95.975928,,,,,0
+732,Le81NB,Lewis & 81st St S,S LEWIS AVE & E 81ST ST S,36.046443,-95.957487,,,,,0
+745,Le51N,Lewis & 51st St S,S LEWIS AVE & E 51ST ST S,36.089868,-95.957469,,,,,0
+764,Le21NB,Lewis & 21st St S,S LEWIS AVE & E 21ST ST S,36.132827,-95.957809,,,,,0
+791,ApLeEB,Apache & Lewis,N LEWIS AVE & E APACHE ST,36.191286,-95.957515,,,,,0
+795,TCC NE,Tulsa Community College - NE Campus,N HARVARD AVE & E 30TH ST N,36.193949,-95.938692,,,,,0
+826,Le21SB,Lewis & 21st St S,S LEWIS AVE & E 22ND ST S,36.13255,-95.957798,,,,,0
+849,Le81SB,Lewis & 81st St S,S LEWIS AVE & E 81ST ST S,36.046166,-95.957498,,,,,0
+1033,15Bu,15th & Boulder,S BOULDER AVE & E 15TH ST S,36.140398,-95.98782,,,,,0
+1063,15/ShE,S Sheridan Rd&E 15th St S,S SHERIDAN AVE & E 15TH ST S,36.140194,-95.904389,,,,,0
+1208,SW25,Southwest Bld/25th,,36.125949,-96.006588,,,,,0
+1244,49/Jack,49th/Jackson EB,,36.092065,-95.999786,,,,,0
+1286,StFrSB,St. Francis Hospital,,36.073116,-95.918109,,,,,0
+1322,21UtEB,21st St S & Utica,S UTICA AVE & E 21ST ST S,36.133227,-95.96679,,,,,0
+1455,PiYaWB,E Pine St&N Yale Ave,N YALE AVE & E PINE ST,36.177207,-95.922676,,,,,0
+1469,PiLeWB,E Pine St&N Lewis Ave,N LEWIS AVE & E PINE ST,36.177268,-95.958376,,,,,0
+1490,21UtSB,E 21st St S&S Utica Ave,S UTICA AVE & E 21ST ST S,36.132798,-95.96679,,,,,0
+1593,21BoEB,S Boulder Ave&W 21st St S,W 21ST ST S & S BOULDER AVE,36.133328,-95.988813,,,,,0
+1601,Ut21NB,S Utica Ave&E 21st St S,S UTICA AVE & E 21ST ST S,36.133093,-95.966611,,,,,0
+1655,MeAPN,Memorial & Admiral,N MEMORIAL DR & E ADMIRAL PL,36.160635,-95.886194,,,,,0
+1697,Ha41NB,S Harvard Ave&E 41st St S,S HARVARD AVE & E 41ST ST S,36.104247,-95.939697,,,,,0
+1857,PiCiWB,E Pine St & Martin Luther King Jr Blvd,N CINCINNATI AVE & E PINE ST,36.177018,-95.994985,,,,,0
+1890,Ha21SB,S Harvard Ave&E 21st St S,S HARVARD AVE & E 21ST ST S,36.133027,-95.940493,,,,,0
+1944,Pine/Mem,Pine & Memorial,N MEMORIAL DR & E PINE ST,36.176957,-95.886448,,,,,0
+1952,137/24pl,S 137th E Ave &E 24th Pl,S 137TH E AVE & E 24TH PL,36.127287,-95.823415,,,,,0
+1968,31MeWB,S Memorial Dr&E 31st St S,S MEMORIAL DR & E 31ST ST S,36.118595,-95.886717,,,,,0
+2151,ViRoEB,Virgin & Rockford,,36.184221,-95.971741,,,,,0
+2179,36NPeEB,36th St N & Peoria,N PEORIA AVE & E 36TH ST N,36.205791,-95.975209,,,,,0
+2264,Adm/129,E Admiral Pl&N 129th E Ave,S 129TH E AVE & E ADMIRAL PL,36.16043,-95.833195,,,,,0
+2280,Bos6N,Boston/6th N-NE,,36.151202,-95.988344,,,,,0
+2454,Ba  145,Battle Creek Church,S 145TH E AVE & W GRANGER ST N,36.08521,-95.814026,,,,,0
+2456,Bo7NB,S Boston Ave&E 7th St S,S BOSTON AVE & E 7TH ST S,36.149559,-95.987468,,,,,0
+2457,1MaiWB,1st St S & Main,S MAIN ST & E 1ST ST S,36.155623,-95.991511,,,,,0
+2458,Ma10SB,S Main St&W 10th St S,S MAIN ST & E 10TH ST S,36.146416,-95.987252,,,,,0
+2645,TCC  SE,Tulsa Community College South Campus,,36.045621,-95.863307,,,,,0
+2646,Ci-61NB,Martin Luther King Jr Blvd & 61st St N,N CINCINNATI AVE & E 61ST ST N,36.243087,-95.993096,,,,,0
+2649,WeViEW,Westview Clinic,N CINCINNATI AVE & E 36TH ST N,36.206349,-95.995284,,,,,0
+2713,10MaWB,10th & Main,S MAIN ST & E 10TH ST S,36.146416,-95.987252,,,,,0
+2740,Chy5SB,5th & Cheyenne,S CHEYENNE AVE & W 5TH ST S,36.150361,-95.992111,,,,,0
+2745,Ma10EB,Main & 10th St S,S MAIN ST & E 10TH ST S,36.146416,-95.987252,,,,,0
+2757,InhofePl,Inhofe Plaza,S NEWPORT AVE & E 64TH ST S,36.070258,-95.977916,,,,,0
+2786,Un41NB,Union/41st N-NE,W 41ST ST & S UNION AVE,36.104287,-96.01114,,,,,0
+2896,DBAY11,DAS BAY 11,,36.15199,-95.993254,,,,,0
+3107,Le36NN,36th St N & Lewis Ave,N LEWIS AVE & E 36 ST N,36.205994,-95.957892,,,,,0
+3130,ApYaEB,Yale & Apache,N YALE AVE & E APACHE ST,36.191645,-95.922641,,,,,0
+3164,51  129,51ST/129TH E AV E-NE,E 51ST ST & S 129 EAST AVE,36.089692,-95.832799,,,,,0
+3175,61  MENE,S Memorial Dr&E 61st St S,E 61ST ST & S MEMORIAL DR,36.075368,-95.886273,,,,,0
+3194,YA41SB,S Yale Ave&E 41st St S,S YALE AVE & E 41ST ST S,36.10414,-95.921842,,,,,0
+3200,Le88SB,S Lewis Ave & E 88th St S,S LEWIS AVE & E MAGNOLIA DR,36.036109,-95.954687,,,,,0
+3212,49Den-W,49th St N & Denver,N DENVER AVE & W 49 ST N,36.224094,-95.997089,,,,,0
+3213,Hart56NB,Hartford & 56th St N,E 56 ST N & N GARRISON PL,36.235013,-95.985345,,,,,0
+3224,49WWMSB,49th W Ave Warehouse Mkt,S 49TH W AVE & E CHARLES PAGE BLVD,36.14988,-96.046669,,,,,0
+3237,EdGiWB,Gilcrease Dr & Edison,N 125TH W AVE & W EDISON ST,36.161224,-96.019778,,,,,0
+3238,GiCPBSB,Charles Page Blvd & 25th W Ave,S 25TH W AVE & E CHARLES PAGE BLVD,36.15174,-96.020164,,,,,0
+3239,CP65WB,65th W Ave. & Charles Page Blvd,S 65TH W AVE & E CHARLES PAGE BLVD,36.147343,-96.064803,,,,,0
+3250,Bd21SB,S Boulder Ave W & W 21st St S,S BOULDER AVE & W 21ST ST S,36.132882,-95.98871,,,,,0
+3257,PiYaEB,E Pine St&N Yale Ave,N YALE AVE & E PINE ST,36.177029,-95.922115,,,,,0
+3260,41GaEB,E 41st St S&S Garnett Rd,,36.104574,-95.850938,,,,,0
+3282,21BoWB,W 21st St S&S Boulder,S BOULDER AVE & W 21ST ST S,36.132972,-95.988598,,,,,0
+3299,Sh51SB,S Sheridan Rd&E 51st St S,,36.090437,-95.904678,,,,,0
+3590,Wh73N,73rd St S & Wheeling Ave,S WHEELING AVE & E 73RD ST S,36.057539,-95.963587,,,,,0
+3612,137/24S,137th EA/24th S-SW,S 137TH E AVE & E 24TH ST S,36.128894,-95.823059,,,,,0
+3641,StFrNB,St. Francis Hospital,S ST FRANCIS DR & E 63RD ST S,36.073116,-95.918109,,,,,0
+3732,Ch5SB,Cheyenne Ave & 5th St S,S CHEYENNE AVE & W 5TH ST S,36.150491,-95.992378,,,,,0
+3747,3Lew-WB,3rd/Lewis W-NW,,36.156747,-95.959169,,,,,0
+3805,PiMeW,E Pine St&Memorial,N MEMORIAL DR & E PINE ST,36.177144,-95.886808,,,,,0
+3912,49WTaW,49th W/Tacoma W-NW,,36.092423,-96.009847,,,,,0
+3915,Un61S,Union/61st W S-SW,,36.075804,-96.011556,,,,,0
+3918,71ShE,E 71St St S&S Sheridan Rd,71st & Sheridan E -SE,36.061006,-95.905176,,,,,0
+4012,OsFa,Fairview Osage,N OSAGE DR & W FAIRVIEW ST,36.162763,-96.001725,,,,,0
+4037,Pitt4 th,E 4Th St S& Pittsburgh Ave,S PITTSBURGH AVE & E 4TH ST S,36.155965,-95.931395,,,,,0
+4085,Pe  46N,46th St N & Peoria,N PEORIA AVE & E 46TH ST N,36.220312,-95.975329,,,,,0
+4109,AquJ,Jenks Aquarium,AQUARIUM DR & E 101ST ST S,36.019758,-95.959349,,,,,0
+4114,MainElJ,Main & Elm,S ELM ST & E MAIN ST,36.022435,-95.975511,,,,,0
+4116,JaCC,Country Club Dr &W Jasper St,COUNTRY CLUB DR & W JASPER ST,36.167117,-96.002999,,,,,0
+4120,Union ,73rd St s & 112th E AVE,S GARNETT RD & E 75TH PL S,36.053196,-95.851137,,,,,0
+4123,73rd 112,73rd St S & 112th E Ave,E 73RD ST & S 109 EAST AVE,36.058797,-95.853164,,,,,0
+4129,46th Min,S Mingo Rd&E 46th St S,,36.094637,-95.868984,,,,,0
+4131,101/Elm,101st S & Elm,S ELM PL & W NEW ORLEANS ST,36.016565,-95.797626,,,,,0
+4132,Ken/Aspe,N Aspen Ave&W Kenosha,N ASPEN AVE & W KENOSHA ST,36.060877,-95.814779,,,,,0
+4133,Ken/Main,Kenosha & Main,N MAIN ST & E KENOSHA ST,36.06089,-95.79037,,,,,0
+4134,TreeTop,TreeTop Apartments,S HICKORY AVE & E JEFFERSON ST,36.000792,-95.800706,,,,,0
+4135,SC/TCC,Tulsa Community College South Campus,,36.045594,-95.863307,,,,,0
+4156,11Uti,E 11th St S&S Utica Ave,S UTICA AVE & E 11TH ST S,36.148139,-95.967461,,,,,0
+4238,121/Elm,121st St S& Elm,,35.991728,-95.800436,,,,,0
+4244,Osage,Osage Casino,36 th street North,36.207983,-96.00228,,,,,0
+4245,Wal mart,Sand Springs Wal-Mart,,36.133974,-96.120167,,,,,0
+4254,GilEstat,Gilcrease Estates,N 24TH W AVE & N YUKON CIRCLE,36.16956,-96.01803,,,,,0
+4263,STFR SOU,Saint Francis South Hospital,ST FRANCIS SOUTH & E 91ST ST S,36.033371,-95.855844,,,,,0
+4264,T Hil,Tulsa Hills Shopping Center,S OLYMPIA AVE & E 71ST ST S,36.05833,-96.002448,,,,,0
+4265,gar61,S Garnett Rd & E 61st St S,S GARNETT RD & E 60TH ST S,36.076666,-95.851154,,,,,0
+4267,T Hill,Tulsa Hills Shopping Center,S OLYMPIA AVE & E 71ST ST S,36.058517,-96.002606,,,,,0
+4268,1Cin,1st and Cincinnati,S CINCINNATI AVE & E 1ST ST S,36.156247,-95.990034,,,,,0
+4269,2Cin,2nd and Cincinnati,S CINCINNATI AVE & E 2ND ST S,36.154998,-95.989468,,,,,0
+4271,1/Cin,1st & S Cincinnati,S CINCINNATI AVE & E 1ST ST S,36.156287,-95.989435,,,,,0
+4272,2/Cin,2nd & S Cincinnati,S CINCINNATI AVE & E 2ND ST S,36.154962,-95.989468,,,,,0
+5000,21stDar,E 21st St S&S Darlington Ave,5275 E 21st St S & S Darlington Ave,36.133423,-95.917512,,,,,0
+5001,31st85av,E 31st St S&S 85th E Ave,8460 E 31st St S & S 85th E Ave,36.118851,-95.882033,,,,,0
+5002,31st89av,E 31st St S&S 89th E Ave,8930 E 31st St S & S 89th E Ave,36.118876,-95.875804,,,,,0
+5003,31st88av,E 31st St S&S 88th E Ave,8777 E 31st St S & S 88th E Ave,36.119015,-95.878479,,,,,0
+5004,137a24st,S 137th E Ave & E 24th St S,2391 S 137th E Ave & E 24th St S,36.129126,-95.823549,,,,,0
+5005,11st65av,W 11th St S&S 65Th W Ave,6128 W 11th St S & S 65Th W Ave,36.14439,-96.061933,,,,,0
+5006,CPB33av,Charles Page Blvd&S 33Rd W Ave,2762 Charles Page Blvd & S 33Rd W Ave,36.151509,-96.023376,,,,,0
+5007,CPB58av,Charles Page Blvd&S 58Th W Ave,5710 Charles Page Blvd & S 58Th W Ave,36.148057,-96.056206,,,,,0
+5008,eCPBAdam,E Charles Page Blvd&S Adams Rd,9132 E Charles Page Blvd & S Adams Rd,36.137675,-96.097877,,,,,0
+5009,CPBGiRd,Gilcrease Drive & Charles Page Blvd,2527 Charles Page Blvd & Gilcrease Museum Rd/S 25Th W Ave,36.151949,-96.020669,,,,,0
+5010,CPB28av,Charles Page Blvd&S 28th W Ave,2751 Charles Page Blvd & S 28th W Ave,36.151676,-96.023285,,,,,0
+5011,CPB31av,5028 E 11th St S&S 93rd E Ave,2974 Charles Page Blvd & S 31st W Ave,36.151155,-96.02584,,,,,0
+5012,CPB31av,Charles Page Blvd&S 31st W Ave,3110 Charles Page Blvd & S 31st W Ave,36.151193,-96.026369,,,,,0
+5013,CPB33av,Charles Page Blvd & 33rd W Ave,3184 Charles Page Blvd & Charles Page Blvd/S 33rd W Ave,36.150789,-96.028232,,,,,0
+5014,CPB31av,Charles Page Blvd&S 31St W Ave,3187 Charles Page Blvd & S 31St W Ave,36.150817,-96.028979,,,,,0
+5015,CPB49av,Charles Page Blvd&S 49th W Ave,4924 Charles Page Blvd & S 49th W Ave,36.148089,-96.04754,,,,,0
+5016,CPB51av,Charles Page Blvd&S 51st W Ave,5084 Charles Page Blvd & S 51st W Ave,36.147971,-96.049371,,,,,0
+5017,CPB51av,Charles Page Blvd&S 51st W Ave,5106 Charles Page Blvd & S 51st W Ave,36.148104,-96.049789,,,,,0
+5018,CPB53av,Charles Page Blvd&S 53rd W Ave,5230 Charles Page Blvd & S 53rd W Ave,36.148126,-96.052001,,,,,0
+5019,CPB54av,Charles Page Blvd&S 54th W Ave,5350 Charles Page Blvd & S 54th W Ave,36.148005,-96.052938,,,,,0
+5020,CPB54av,Charles Page Blvd&S 54th W Ave,5408 Charles Page Blvd & S 54th W Ave,36.148139,-96.053603,,,,,0
+5021,CPB59av,Charles Page Blvd&S 59th W Ave,5880 Charles Page Blvd & S 59th W Ave,36.148098,-96.058389,,,,,0
+5022,CPB59av,Charles Page Blvd&S 59th W Ave,5904 Charles Page Blvd & S 59th W Ave,36.14823,-96.058744,,,,,0
+5023,CPBAdam,Charles Page Blvd&S Adams Rd,8422 Charles Page Blvd & S Adams Rd,36.140177,-96.089447,,,,,0
+5025,11stDel,E 11th St S&S Delaware Ave,2806 E 11th St S & S Delaware Ave,36.147758,-95.949038,,,,,0
+5026,15stDel,E 15th St S&S Delaware Ave,2784 E 15th St S & S Delaware Ave,36.140633,-95.949519,,,,,0
+5027,11st87av,E 11th St S&S 87th E Ave,8579 E 11th St S & S 87th E Ave,36.148129,-95.880419,,,,,0
+5028,11st93av,E 11th St S&S 93rd E Ave,,36.147849,-95.872991,,,,,0
+5029,11st11st,E 11th St S&E 11Th St,450 E 11th St S & E 11Th St,36.147806,-95.981998,,,,,0
+5030,11stSkDr,E 11th St S&E Skelly Dr,11734 E 11th St S & E Skelly Dr,36.147884,-95.846026,,,,,0
+5031,11st119a,E 11th St S&S 119Th E Ave,11762 E 11th St S & S 119Th E Ave,36.148121,-95.845456,,,,,0
+5032,11stPeo,E 11th St S&S Peoria Ave,,36.147984,-95.975924,,,,,0
+5033,11st98AN,E 11th St S&S 101st E Ave,9975 E 11th St S & S 101st E Ave,36.148148,-95.864916,,,,,0
+5034,11st101a,E 11th St S&S 101st E Ave,10354 E 11th St S & S 101st E Ave,36.14785,-95.862029,,,,,0
+5035,11st107a,E 11th St S&S 107th E Ave,10722 E 11th St S & S 107th E Ave,36.147862,-95.857477,,,,,0
+5036,11stGntt,E 11th St S&S Garnett Rd,11032 E 11th St S & S Garnett Rd,36.148149,-95.853167,,,,,0
+5037,11st111a,E 11th St S&S 111th E Ave,11100 E 11th St S & S 111th E Ave,36.147873,-95.8527,,,,,0
+5038,11st119a,E 11th St S&S 119th E Ave,11906 E 11th St S & S 119th E Ave,36.147953,-95.844157,,,,,0
+5039,11st120a,E 11th St S&S 120th E Ave,11918 E 11th St S & S 120th E Ave,36.148121,-95.843572,,,,,0
+5040,11st120a,E 11th St S&S 120th E Ave,11948 E 11th St S & S 120th E Ave,36.147939,-95.842937,,,,,0
+5041,11st124a,E 11th St S&S 124th E Ave,,36.147952,-95.837027,,,,,0
+5042,11st127a,E 11th St S&S 127th E Ave,,36.14811,-95.835757,,,,,0
+5043,11st67av,E 11th St S&S 67th E Ave,6588 E 11th St S & S 67th E Ave,36.148052,-95.902568,,,,,0
+5044,11st71av,E 11th St S&S 71St E Ave,6904 E 11th St S & S 71St E Ave,36.148061,-95.900003,,,,,0
+5045,11st69av,E 11th St S&S 69th E Ave,6916 E 11th St S & S 69th E Ave,36.147873,-95.899748,,,,,0
+5046,11st71av,E 11th St S&S 71st E Ave,6988 E 11th St S & S 71st E Ave,36.148048,-95.898149,,,,,0
+5047,11st71av,E 11th St S&S 71st E Ave,7118 E 11th St S & S 71st E Ave,36.147867,-95.897033,,,,,0
+5048,11st73av,E 11th St S&S 73rd E Ave,7172 E 11th St S & S 73rd E Ave,36.148071,-95.896095,,,,,0
+5049,11st73av,E 11th St S&S 73rd E Ave,7352 E 11th St S & S 73rd E Ave,36.147868,-95.89504,,,,,0
+5050,11st75av,E 11th St S&S 75th E Ave,7522 E 11th St S & S 75th E Ave,36.147906,-95.89313,,,,,0
+5051,11st76av,E 11th St S&S 76th E Ave,7569 E 11th St S & S 76th E Ave,36.148205,-95.892641,,,,,0
+5052,11st77av,E 11th St S&S 77th E Ave,7730 E 11th St S & S 77th E Ave,36.147913,-95.890822,,,,,0
+5053,11st79av,E 11th St S&S 79th E Ave,7877 E 11th St S & S 79th E Ave,36.14819,-95.889169,,,,,0
+5054,11st85av,E 11th St S&S 85Th E Ave,8311 E 11th St S & S 85Th E Ave,36.148115,-95.884279,,,,,0
+5055,11st83av,E 11th St S&S 83rd E Ave,8310 E 11th St S & S 83rd E Ave,36.147826,-95.884219,,,,,0
+5056,11st85av,E 11th St S&S 85th E Ave,8390 E 11th St S & S 85th E Ave,36.148116,-95.882447,,,,,0
+5057,11st85av,E 11th St S&S 85th E Ave,8512 E 11th St S & S 85th E Ave,36.147827,-95.881978,,,,,0
+5058,11st87av,E 11th St S&S 87th E Ave,8702 E 11th St S & S 87th E Ave,36.147835,-95.879926,,,,,0
+5059,11st89av,E 11th St S&S 89th E Ave,8789 E 11th St S & S 89th E Ave,36.14813,-95.878029,,,,,0
+5060,11st89av,E 11th St S&S 89th E Ave,8911 E 11th St S & S 89th E Ave,36.147848,-95.877412,,,,,0
+5061,11st91av,E 11th St S&S 91st E Ave,8987 E 11th St S & S 91st E Ave,36.148141,-95.875265,,,,,0
+5062,11st89av,E 11th St S&S 89Th E Ave,8994 E 11th St S & S 89Th E Ave,36.14785,-95.875039,,,,,0
+5063,11stMngo,E 11th St S&S Mingo Rd,9511 E 11th St S & S Mingo Rd,36.148143,-95.870581,,,,,0
+5064,11st93av,E 11th St S&S 93rd E Ave,9171 E 11th St S & S 93rd E Ave,36.148134,-95.873701,,,,,0
+5065,11stBrdn,E 11th St S&S Braden Ave,5017 E 11th St S & S Braden Ave,36.147888,-95.921249,,,,,0
+5066,11stAtl,E 11th St S&S Atlanta Ave,2484 E 11th St S & S Atlanta Ave,36.147889,-95.956211,,,,,0
+5067,11stBmAv,E 11th St S&S Birmingham Ave,2606 E 11th St S & S Birmingham Ave,36.147756,-95.953466,,,,,0
+5068,11stBmPl,E 11th St S&S Birmingham Pl,2611 E 11th St S & S Birmingham Pl,36.147879,-95.953158,,,,,0
+5069,11stBrdn,E 11th St S&S Braden Ave,5146 E 11th St S & S Braden Ave,36.147771,-95.919707,,,,,0
+5070,11stCant,E 11th St S&S Canton Ave,5169 E 11th St S & S Canton Ave,36.147894,-95.919389,,,,,0
+5072,11stColu,E 11th St S&S Columbia Ave,2669 E 11th St S & S Columbia Ave,36.147883,-95.951969,,,,,0
+5073,11stColu,E 11th St S&S Columbia Ave,2710 E 11th St S & S Columbia Ave,36.147757,-95.951268,,,,,0
+5074,11stCant,E 11th St S&S Canton Ave,5288 E 11th St S & S Canton Ave/S Darlington Ave,36.147817,-95.917933,,,,,0
+5075,11stDel,E 11th St S&S Delaware Ave,2789 E 11th St S & S Delaware Ave,36.147886,-95.949501,,,,,0
+5076,10stElg,E 10Th St S&S Elgin Ave,307 E 10Th St S & S Elgin Ave,36.148059,-95.983895,,,,,0
+5077,10stDet,E 10Th St S&S Detroit Ave,318 E 10Th St S & S Detroit Ave,36.148,-95.983452,,,,,0
+5078,11stErie,E 11th St S&S Erie Ave,5375 E 11th St S & S Erie Ave,36.147917,-95.91707,,,,,0
+5079,11stEvan,E 11th St S&S Evanston Ave,2984 E 11th St S & S Evanston Ave,36.147741,-95.947201,,,,,0
+5080,11stFlor,E 11th St S&S Florance Ave,3069 E 11th St S & S Florance Ave,36.147895,-95.945274,,,,,0
+5081,11stFlor,E 11th St S&S Florence Ave,3108 E 11th St S & S Florence Ave,36.147765,-95.944492,,,,,0
+5082,11stNorf,E 11th St S&S Norfolk Ave,507 E 11th St S & S Norfolk Ave/S Frankfort Ave,36.147963,-95.981422,,,,,0
+5083,11stFul,E 11th St S&S Fulton Ave,5504 E 11th St S & S Fulton Ave,36.1478,-95.915608,,,,,0
+5084,11stGntt,E 11th St S&S Garnett Rd,11229 E 11th St S & S Garnett Rd,36.148152,-95.851753,,,,,0
+5085,11stGntt,E 11th St S&S Garnett Rd,11332 E 11th St S & S Garnett Rd,36.147893,-95.85025,,,,,0
+5086,11stGary,E 11th St S&S Gary Ave,3179 E 11th St S & S Gary Ave,36.147896,-95.942854,,,,,0
+5087,11stGary,E 11th St S&S Gary Ave,3204 E 11th St S & S Gary Ave,36.147757,-95.942376,,,,,0
+5088,11stHarv,E 11th St S&S Harvard Ave,3265 E 11th St S & S Harvard Ave,36.147917,-95.940854,,,,,0
+5089,11stIndy,E 11th St S&S Indiannapolis Ave,3344 E 11th St S & S Indiannapolis Ave,36.147749,-95.939761,,,,,0
+5090,11stHud,E 11th St S&S Hudson Ave,5583 E 11th St S & S Hudson Ave,36.147948,-95.913861,,,,,0
+5091,11stHud,E 11th St S&S Hudson Ave,5708 E 11th St S & S Hudson Ave,36.14782,-95.913268,,,,,0
+5092,11stJamt,E 11th St S&S Jamestown Ave,3475 E 11th St S & S Jamestown Ave,36.147898,-95.938394,,,,,0
+5093,11stJop,E 11th St S&S Joplin Ave,5789 E 11th St S & S Joplin Ave,36.147967,-95.911537,,,,,0
+5094,11stJop,E 11th St S&S Joplin Ave,5910 E 11th St S & S Joplin Ave,36.147837,-95.91106,,,,,0
+5095,11stLew,11th & Lewis,2259 E 11th St S & S Lewis Ave,36.147897,-95.958983,,,,,0
+5096,11stLew,11th & Lewis,2404 E 11th St S & S Lewis Ave,36.147755,-95.957893,,,,,0
+5097,11stLou,E 11th St S&S Louisville Ave,3679 E 11th St S & S Louisville Ave,36.147883,-95.936171,,,,,0
+5098,11stLou,E 11th St S&S Louisville Ave,3726 E 11th St S & S Louisville Ave,36.147757,-95.935283,,,,,0
+5099,11stMpwd,E 11th St S&S Maplewood Ave,6159 E 11th St S & S Maplewood Ave,36.147987,-95.908403,,,,,0
+5100,11stMpwd,E 11th St S&S Maplewood Ave,6236 E 11th St S & S Maplewood Ave,36.147867,-95.907506,,,,,0
+5101,11stMem,11th St S & Memorial,1085 E 11th St S & S Memorial Dr,36.148125,-95.887187,,,,,0
+5102,11stMem,11th & Memorial,E 11th St S & S Memorial Dr,36.147833,-95.886339,,,,,0
+5103,11st101a,E 11th St S&S 101St E Ave,9799 E 11th St S & S 101St E Ave,36.14815,-95.867425,,,,,0
+5104,11stMngo,E 11th St S&S Mingo Rd,9724 E 11th St S & S Mingo Rd,36.147856,-95.868365,,,,,0
+5105,11stNHvn,E 11th St S&S New Haven Ave,3781 E 11th St S & S New Haven Ave,36.14789,-95.933985,,,,,0
+5106,11stNorf,E 11th St S&S Norfolk Ave,,36.147987,-95.979412,,,,,0
+5107,11stNorf,E 11th St S&S Norfolk Ave,1110 E 11th St S & S Norfolk Ave,36.147808,-95.978851,,,,,0
+5108,11stNwdA,E 11th St S&S Norwood Ave,6332 E 11th St S & S Norwood Ave,36.147866,-95.906432,,,,,0
+5109,11stPeo,11th & Peoria,1308 E 11th St S & S Peoria Ave,36.147825,-95.975297,,,,,0
+5110,11stPit,E 11th St S&S Pittsburg Ave,4118 E 11th St S & S Pittsburg Ave,36.147755,-95.9312,,,,,0
+5111,11stQuak,E 11th St S&S Quaker Ave,1317 E 11th St S & S Quaker Ave,36.147962,-95.97481,,,,,0
+5112,11stQuak,E 11th St S&S Quaker Ave,1348 E 11th St S & S Quaker Ave,36.147822,-95.97415,,,,,0
+5113,11stRich,E 11th St S&S Richmond Ave,4338 E 11th St S & S Richmond Ave,36.147748,-95.928778,,,,,0
+5114,11stSand,E 11th St S&S Sandusky Ave,4317 E 11th St S & S Sandusky Ave,36.147877,-95.928936,,,,,0
+5115,11stRock,E 11th St S&S Rockford Ave,1469 E 11th St S & S Rockford Ave,36.147962,-95.972499,,,,,0
+5116,11stSher,E 11th St S&S Sheridan Rd,6449 E 11th St S & S Sheridan Rd,36.148039,-95.9051,,,,,0
+5117,11stSher,E 11th St S&S Sheridan Rd,6524 E 11th St S & S Sheridan Rd,36.147852,-95.903956,,,,,0
+5118,11stTren,E 11th St S&S Trenton Ave,1531 E 11th St S & S Trenton Ave,36.147948,-95.970908,,,,,0
+5119,11stStLu,E 11th St S&S St Louis Ave,1540 E 11th St S & S St Louis Ave,36.147803,-95.970752,,,,,0
+5120,11stTol,E 11th St S&S Toledo Ave,4473 E 11th St S & S Toledo Ave,36.147887,-95.927221,,,,,0
+5121,11stTol,E 11th St S&S Toledo Ave,4516 E 11th St S & S Toledo Ave,36.147748,-95.926708,,,,,0
+5122,11stTren,E 11th St S&S Trenton Ave,1606 E 11th St S & S Trenton Ave,36.14781,-95.969513,,,,,0
+5123,11stUtic,S Utica Ave&E 11th St,1669 E 11th St S & S Utica Ave,36.147952,-95.967788,,,,,0
+5124,11stUtic,E 11th St S&S Utica Ave,1706 E 11th St S & S Utica Ave,36.147773,-95.966769,,,,,0
+5125,11stVand,E 11th St S&S Vandalia Ave,4730 E 11th St S & S Vandalia Ave,36.14776,-95.924427,,,,,0
+5126,11stVict,E 11th St S&S Victor Ave,1721 E 11th St S & S Victor Ave,36.147931,-95.965968,,,,,0
+5127,11stVict,E 11th St S&S Victor Ave,1804 E 11th St S & S Victor Ave,36.147767,-95.965049,,,,,0
+5128,11stWins,E 11th St S&S Winston Ave,4729 E 11th St S & S Winston Ave,36.14788,-95.924433,,,,,0
+5129,11stYork,E 11th St S&S Yorktown Ave,2058 E 11th St S & S Yorktown Ave,36.147818,-95.962162,,,,,0
+5130,11stXanP,E 11th St S&S Xanthus Pl,2021 E 11th St S & S Xanthus Pl,36.14791,-95.962925,,,,,0
+5131,11stYa,E 11th St S&S Yale Ave,4855 E 11th St S & S Yale Ave,36.147908,-95.923008,,,,,0
+5132,11stYa,E 11th St S&S Yale Ave,4928 E 11th St S & S Yale Ave,36.147736,-95.922099,,,,,0
+5133,11stYork,E 11th St S&S Yorktown Ave,2124 E 11th St S & S Yorktown Ave,36.147759,-95.961301,,,,,0
+5134,Jasp152a,W Jasper St&S 152nd E Av,15187 W Jasper St/E 131st St & S 152nd E Ave,35.973884,-95.807464,,,,,0
+5135,15stFloP,E 15th St S&S Florence Pl,3109 E 15th St S & S Florence Pl,36.140617,-95.944308,,,,,0
+5136,15stAlgh,E 15th St S&S Allegheny Ave,4981 E 15th St S & S Allegheny Ave,36.140654,-95.921608,,,,,0
+5137,15stAtl,E 15th St S&S Atlanta Ave,2483 E 15th St S & S Atlanta Ave,36.140622,-95.956252,,,,,0
+5138,15stAtl,E 15th St S&S Atlanta Ave,2512 E 15th St S & S Atlanta Ave,36.140475,-95.955766,,,,,0
+5139,15stBalt,E 15th St S&S Baltimore Ave,64 E 15th St S & S Baltimore Ave,36.14057,-95.985953,,,,,0
+5141,15stCin,E 15th St S&S Cincinnati Ave,230 E 15th St S & S Cincinnati Ave,36.140551,-95.983616,,,,,0
+5142,15stBrdn,E 15th St S&S Braden Ave,5073 E 15th St S & S Braden Ave,36.14065,-95.920537,,,,,0
+5143,15stBrdn,E 15th St S&S Braden Ave,5110 E 15th St S & S Braden Ave,36.140495,-95.920087,,,,,0
+5144,15stCin,E 15th St S&S Cincinnati Ave,165 E 15th St S & S Cincinnati Ave,36.140704,-95.984369,,,,,0
+5145,15stColl,E 15th St S&S College Ave,2975 E 15th St S & S College Ave,36.140642,-95.946177,,,,,0
+5146,15stCuP,E 15th St S&S Columbia Pl,2701 E 15th St S & S Columbia Pl,36.140625,-95.951427,,,,,0
+5147,15stColu,E 15th St S&S Columbia Ave,2704 E 15th St S & S Columbia Ave,36.140463,-95.9513,,,,,0
+5148,15stDar,E 15th St S&S Darlington Ave,5275 E 15th St S & S Darlington Ave,36.140663,-95.918304,,,,,0
+5149,15stDar,E 15th St S&S Darlington Ave,,36.14054,-95.917889,,,,,0
+5150,15stDel,E 15th St S&S Delaware Ave,2804 E 15th St S & S Delaware Ave,36.140499,-95.949025,,,,,0
+5151,15stEvan,E 15th St S&S Evanston Ave,2867 E 15th St S & S Evanston Ave,36.140633,-95.947514,,,,,0
+5152,15stEvan,E 15th St S&S Evanston Ave,2920 E 15th St S & S Evanston Ave,36.140508,-95.946865,,,,,0
+5153,15stFlor,E 15th St S&S Florence Ave,3104 E 15th St S & S Florence Ave,36.140494,-95.944622,,,,,0
+5154,15stErie,E 15th St S&S Erie Ave,,36.140542,-95.915943,,,,,0
+5155,15stGary,E 15th St S&S Gary Ave,3177 E 15th St S & S Gary Ave,36.140628,-95.942863,,,,,0
+5156,15stGary,E 15th St S&S Gary Ave,3208 E 15th St S & S Gary Ave,36.140503,-95.942248,,,,,0
+5157,15stHarv,E 15th St S&S Harvard Ave,3255 E 15th St S & S Harvard Ave,36.140631,-95.940939,,,,,0
+5158,15stHarv,E 15th St S&S Harvard Ave,3360 E 15th St S & S Harvard Ave,36.140485,-95.939677,,,,,0
+5159,15stJamt,E 15th St S&S Jamestown Ave,,36.140684,-95.938388,,,,,0
+5160,15stLew,E 15th St S&S Lewis Ave,2349 E 15th St S & S Lewis Ave,36.14061,-95.958818,,,,,0
+5161,15stLew,E 15th St S&S Lewis Ave,2410 E 15th St S & S Lewis Ave,36.140479,-95.957797,,,,,0
+5162,15stLou,E 15th St S&S Louisville Ave,3669 E 15th St S & S Louisville Ave,36.140697,-95.936191,,,,,0
+5163,15stLou,E 15th St S&S Louisville Ave,3734 E 15th St S & S Louisville Ave,36.140472,-95.935471,,,,,0
+5164,15stMad,E 15th St S&S Madison Ave,1024 E 15th St S & S Madison Ave,36.140565,-95.980032,,,,,0
+5165,15stNHvn,E 15th St S&S New Haven Ave,3857 E 15th St S & S New Haven Ave,36.140695,-95.934136,,,,,0
+5166,15stNHvn,E 15th St S&S New Haven Ave,3922 E 15th St S & S New Haven Ave,36.140469,-95.933336,,,,,0
+5167,15stNewP,E 15th St S&S Newport Ave,1142 E 15th St S & S Newport Ave,36.140578,-95.977741,,,,,0
+5168,15stNorf,E 15th St S&S Norfolk Ave,1079 E 15th St S & S Norfolk Ave,36.1407,-95.979336,,,,,0
+5169,15stNorf,E 15th St S&S Norfolk Ave,1104 E 15th St S & S Norfolk Ave,36.140575,-95.978893,,,,,0
+5170,15stOswe,E 15th St S&S Oswego Ave,3977 E 15th St S & S Oswego Ave,36.140698,-95.932824,,,,,0
+5171,15stOswe,E 15th St S&S Owasso Ave,1238 E 15th St S & S Owasso Ave,36.140576,-95.976355,,,,,0
+5172,15stPeo,E 15th St S&S Peoria Ave,1265 E 15th St S & S Peoria Ave,36.140699,-95.976043,,,,,0
+5173,15stPeo,E 15th St S&S Peoria Ave,1308 E 15th St S & S Peoria Ave,36.140566,-95.975321,,,,,0
+5174,15stPit,E 15th St S&S Pittsburg Ave,4075 E 15th St S & S Pittsburg Ave,36.140681,-95.931704,,,,,0
+5175,15stQuak,E 15th St S&S Quaker Ave,1321 E 15th St S & S Quaker Ave,36.140714,-95.974892,,,,,0
+5176,15stQueb,E 15th St S&S Quebec Ave,4181 E 15th St S & S Quebec Ave,36.140678,-95.930556,,,,,0
+5177,15stPit,E 15th St S&S Pittsburg Ave,4182 E 15th St S & S Pittsburg Ave,36.140458,-95.930561,,,,,0
+5178,15stQuin,E 15th St S&S Quincy Ave,1430 E 15th St S & S Quincy Ave,36.140557,-95.972922,,,,,0
+5179,15stRich,E 15th St S&S Richmond Ave,,36.140447,-95.928957,,,,,0
+5180,15stSand,E 15th St S&S Sandusky Ave,,36.140682,-95.928341,,,,,0
+5182,15stJop,E 15th St S&S Joplin Ave,6288 E 15th St S & S Joplin Ave,36.140593,-95.906059,,,,,0
+5183,15stGltt,E 15th St S&S Gillette Ave,2233 E 15th St S & S Gillette Ave,36.140614,-95.959901,,,,,0
+5184,15stUrba,E 15th St S&S Urbana Ave,,36.140678,-95.926247,,,,,0
+5185,15stUrba,E 15th St S&S Urbana Ave,4614 E 15th St S & S Urbana Ave,36.14045,-95.925537,,,,,0
+5186,15stUtic,E 15th St S&S Utica Ave,1663 E 15th St S & S Utica Ave,36.140659,-95.967663,,,,,0
+5187,15stUtic,E 15th St S&S Utica Ave,1732 E 15th St S & S Utica Ave,36.140527,-95.96676,,,,,0
+5188,15stVict,E 15th St S&S Victor Ave,1749 E 15th St S & S Victor Ave,36.140667,-95.966519,,,,,0
+5189,15stXanP,E 15th St S&S Xanthus Pl,1891 E 15th St S & S Xanthus Pl,36.140637,-95.962902,,,,,0
+5190,15stYa,E 15th St S&S Yale Ave,4855 E 15th St S & S Yale Ave,36.140689,-95.923007,,,,,0
+5191,15stYa,E 15th St S&S Yale Ave,4930 E 15th St S & S Yale Ave,36.140466,-95.922161,,,,,0
+5192,15stYork,E 15th St S&S Yorktown Ave,2104 E 15th St S & S Yorktown Ave,36.140485,-95.961798,,,,,0
+5193,15stColu,E 15th St S&S Columbia Ave,2603 E 15th St S & S Columbia Ave,36.140654,-95.953327,,,,,0
+5194,15stFul,E 15th St S&S Fulton Ave,,36.140695,-95.916001,,,,,0
+5195,21st107a,E 21st St S&S 107Th E Ave,10311 E 21st St S & S 107Th E Ave,36.133578,-95.86223,,,,,0
+5196,21st109a,E 21st St S&S 109Th E Ave,10739 E 21st St S & S 109Th E Ave,36.133584,-95.855695,,,,,0
+5197,21st116a,E 21st St S&S 116th E Ave,11577 E 21st St S & S 116th E Ave,36.133589,-95.847725,,,,,0
+5198,21st123a,E 21st St S&S 123Rd E Ave,12125 E 21st St S & S 123Rd E Ave,36.133559,-95.841063,,,,,0
+5199,21st123a,E 21st St S&S 123rd E Ave,12185 E 21st St S & S 123rd E Ave,36.133573,-95.839632,,,,,0
+5200,21st125a,E 21st St S&S 125th E Ave,12379 E 21st St S & S 125th E Ave,36.133566,-95.837546,,,,,0
+5201,21st129a,E 21st St S&S 129th E Ave,12591 E 21st St S & S 129th E Ave,36.133561,-95.8337,,,,,0
+5202,21st71av,E 21st St S&S 71st E Ave,6990 E 21st St S & S 71st E Ave,36.133515,-95.897552,,,,,0
+5203,21st73av,E 21st St S&S 73Rd E Ave,7278 E 21st St S & S 73Rd E Ave,36.133525,-95.895746,,,,,0
+5204,21st77av,E 21st St S&S 77Th E Ave,,36.133498,-95.892518,,,,,0
+5205,21st79av,E 21st St S&S 79th E Ave,7795 E 21st St S & S 79th E Ave,36.133562,-95.889174,,,,,0
+5206,21st89av,E 21st St S&S 89th E Ave,8867 E 21st St S & S 89th E Ave,36.133574,-95.878156,,,,,0
+5207,21st93av,E 21st St S&S 93rd E Ave,8993 E 21st St S & S 93rd E Ave,36.13358,-95.874673,,,,,0
+5208,21st99av,E 21st St S&S 99th E Ave,9893 E 21st St S & S 99th E Ave,36.133568,-95.866332,,,,,0
+5209,21stAtl,E 21st St S&S Atlanta Ave,2489 E 21st St S & S Atlanta Ave,36.133341,-95.95623,,,,,0
+5210,21stCin,E 21st St S&S Cincinnati Ave,189 E 21st St S & S Cincinnati Ave,36.133411,-95.983718,,,,,0
+5211,21stEvan,E 21st St S&S Evanston Ave,,36.133324,-95.947277,,,,,0
+5212,21stFul,E 21st St S&S Fulton Ave,,36.133448,-95.914517,,,,,0
+5213,21stGntt,E 21st St S&S Garnett Rd,11175 E 21st St S & S Garnett Rd,36.133584,-95.851552,,,,,0
+5214,21stGary,E 21st St S&S Gary Ave,3183 E 21st St S & S Gary Ave,36.133344,-95.942831,,,,,0
+5215,21stHarv,E 21st St S&S Harvard Ave,3257 E 21st St S & S Harvard Ave,36.133369,-95.940908,,,,,0
+5216,21stHud,E 21st St S&S Hudson Ave,5657 E 21st St S & S Hudson Ave,36.13345,-95.913246,,,,,0
+5217,21stIndy,E 21st St S&S Indianapolis Ave,,36.133342,-95.939581,,,,,0
+5218,21stKnox,E 21st St S&S Knoxville Ave,3575 E 21st St S & S Knoxville Ave,36.133362,-95.93725,,,,,0
+5219,21stLake,E 21st St S&S Lakewood Ave,,36.133464,-95.909346,,,,,0
+5220,21stLew,E 21st St S&S Lewis Ave,2279 E 21st St S & S Lewis Ave,36.13334,-95.958611,,,,,0
+5221,21stMpwd,E 21st St S&S Maplewood Ave,6193 E 21st St S & S Maplewood Ave,36.133484,-95.907178,,,,,0
+5222,21stOswe,E 21st St S&S Oswego Ave,,36.133353,-95.934832,,,,,0
+5223,21st85av,E 21st St S&S 85Th E Ave,8219 E 21st St S & S 85Th E Ave,36.133579,-95.885359,,,,,0
+5224,21stNorf,E 21st St S&S Norfolk Ave,1076 E 21st St S & S Norfolk Ave,36.133401,-95.9793,,,,,0
+5225,21stPeo,E 21st St S&S Peoria Ave,1279 E 21st St S & S Peoria Ave,36.133436,-95.975978,,,,,0
+5226,21stPit,E 21st St S&S Pittsburg Ave,,36.13337,-95.931842,,,,,0
+5227,21stWh,E 21st St S&S Wheeling Ave,1934 E 21st St S & S Wheeling Ave,36.133383,-95.965105,,,,,0
+5228,21stBrdn,E 21st St S&S Braden Ave,4953 E 21st St S & S Braden Ave,36.133426,-95.921362,,,,,0
+5229,21st107a,E 21st St S&S 107th E Ave,10702 E 21st St S & S 107th E Ave,36.133373,-95.856956,,,,,0
+5230,21st109a,E 21st St S&S 109th E  Ave,10924 E 21st St S & S 109th E  Ave,36.133388,-95.854535,,,,,0
+5231,21st111a,E 21st St S&S 111th E Ave,11114 E 21st St S & S 111th E Ave,36.133392,-95.852761,,,,,0
+5232,21st114a,E 21st St S&S 114Th E Ave,11536 E 21st St S & S 114Th E Ave,36.133386,-95.848063,,,,,0
+5233,21st117a,E 21st St S&S 117th E Ave,11724 E 21st St S & S 117th E Ave,36.133389,-95.845864,,,,,0
+5234,21st120a,E 21st St S&S 120th E Ave,11975 E 21st St S & S 120th E Ave,36.133571,-95.843688,,,,,0
+5235,21st120a,E 21st St S&S 120th E Ave,12008 E 21st St S & S 120th E Ave,36.133379,-95.843276,,,,,0
+5236,21st121a,E 21st St S&S 121st E Ave,12114 E 21st St S & S 121st E Ave,36.133377,-95.841317,,,,,0
+5237,21st123a,E 21st St S&S 123rd E Ave,12310 E 21st St S & S 123rd E Ave,36.133363,-95.839077,,,,,0
+5238,21st125a,E 21st St S&S 125Th E Ave,12560 E 21st St S & S 125Th E Ave,36.133353,-95.834722,,,,,0
+5239,21st129a,E 21st St S&S 129th E Ave,12950 E 21st St S & S 129th E Ave,36.133357,-95.832032,,,,,0
+5240,21st131a,E 21st St S&S 131St E Ave,13112 E 21st St S & S 131St E Ave,36.133364,-95.830308,,,,,0
+5241,21st68av,E 21st St S&S 68th E Ave,6798 E 21st St S & S 68th E Ave,36.133381,-95.90059,,,,,0
+5242,21st69av,E 21st St S&S 69th E Ave,6798 E 21st St S & S 69th E Ave,36.133522,-95.900555,,,,,0
+5243,21st67av,E 21st St S&S 67Th E Ave,6978 E 21st St S & S 67Th E Ave,36.133384,-95.897857,,,,,0
+5244,21st71av,E 21st St S&S 71st E Ave,7090 E 21st St S & S 71st E Ave,36.133383,-95.896781,,,,,0
+5245,21st76av,E 21st St S&S 76th E Ave,,36.133395,-95.892526,,,,,0
+5246,21st77av,E 21st St S&S 77th E Ave,7710 E 21st St S & S 77th E Ave,36.133402,-95.890938,,,,,0
+5247,21st79av,E 21st St S&Memorial,7846 E 21st St S & S 79th E Ave,36.133409,-95.888387,,,,,0
+5248,21st85av,E 21st St S&S 85th E Ave,8475 E 21st St S & S 85th E Ave,36.13357,-95.882492,,,,,0
+5249,21st85av,E 21st St S&S 85th E Ave,8530 E 21st St S & S 85th E Ave,36.133369,-95.881871,,,,,0
+5250,21st87av,E 21st St S&S 87th E Ave,8714 E 21st St S & S 87th E Ave,36.13337,-95.879701,,,,,0
+5251,21st91av,E 21st St S&S 91st E Ave,,36.133373,-95.875243,,,,,0
+5252,21st92av,E 21st St S&S 92nd E Ave,9214 E 21st St S & S 92nd E Ave,36.133372,-95.873032,,,,,0
+5253,21st99av,E 21st St S&S 99th E Ave,9914 E 21st St S & S 99th E Ave,36.13338,-95.865825,,,,,0
+5254,21stAtl,E 21st St S&S Atlanta Ave,2502 E 21st St S & S Atlanta Ave,36.133177,-95.955927,,,,,0
+5255,21stBmAv,E 21st St S&S Birmingham Ave,2583 E 21st St S & S Birmingham Ave,36.133341,-95.953987,,,,,0
+5256,21stCin,E 21st St S&S Cincinnati Ave,220 E 21st St S & S Cincinnati Ave,36.133297,-95.983121,,,,,0
+5257,21stColu,E 21st St S&S Columbia Ave,2691 E 21st St S & S Columbia Ave,36.133366,-95.951207,,,,,0
+5258,21stBmAv,E 21st St S&S Birmingham Ave,2686 E 21st St S & S Birmingham Ave,36.133186,-95.951259,,,,,0
+5259,21stDar,E 21st St S&S Darlington Ave,,36.133297,-95.917748,,,,,0
+5260,21stColu,E 21st St S&S Columbia Ave,,36.133209,-95.947261,,,,,0
+5261,21stFlor,E 21st St S&S Florence Ave,3084 E 21st St S & S Florence Ave,36.133344,-95.945011,,,,,0
+5262,21stFlor,E 21st St S&S Florence Ave,3114 E 21st St S & S Florence Ave,36.133226,-95.943944,,,,,0
+5263,21stFul,E 21st St S&S Fulton Ave,5535 E 21st St S & S Fulton Ave,36.133316,-95.913923,,,,,0
+5264,21stGntt,E 21st St S&S Garnett Rd,11350 E 21st St S & S Garnett Rd,36.133387,-95.850262,,,,,0
+5265,21stGary,E 21st St S&S Gary Ave,3212 E 21st St S & S Gary Ave,36.133224,-95.941936,,,,,0
+5266,21stHarv,E 21st St S&S Harvard Ave,,36.13319,-95.939525,,,,,0
+5267,21stIrvg,E 21st St S&S Irvington Ave,,36.133335,-95.910844,,,,,0
+5268,21stLew,E 21st St S&S Lewis Ave,2442 E 21st St S & S Lewis Ave,36.133144,-95.957259,,,,,0
+5270,21stMad,E 21st St S&S Madison Ave,1018 E 21st St S & S Madison Ave,36.133292,-95.980238,,,,,0
+5271,21stMa,E 21st St S&S Main St,24 E 21st St S & S Main St,36.133285,-95.987101,,,,,0
+5272,21stMpwd,E 21st St S&S Maplewood Ave,6206 E 21st St S & S Maplewood Ave,36.133362,-95.906748,,,,,0
+5273,21stMari,E 21st St S&S Marion Ave,,36.133231,-95.935113,,,,,0
+5274,21stMem,E 21st St S&S Memorial Dr,8154 E 21st St S & S Memorial Dr,36.13337,-95.886089,,,,,0
+5275,21stMem,E 21st St S&S Memorial Dr,7931 E 21st St S & S Memorial Dr,36.133562,-95.887413,,,,,0
+5276,21stOswe,E 21st St S&S Oswego Ave,,36.133239,-95.932339,,,,,0
+5277,21stOw,E 21st St S&S Owasso Ave,1220 E 21st St S & S Owasso Ave/E 21St Pl S,36.133299,-95.976983,,,,,0
+5278,21stPeo,E 21st St S&S Peoria Ave,1330 E 21st St S & S Peoria Ave,36.133301,-95.975097,,,,,0
+5279,21stRock,E 21st St S&S Rockford Ave,1502 E 21st St S & S Rockford Ave,36.133295,-95.971361,,,,,0
+5280,21stSher,E 21st St S&S Sheridan Rd,6508 E 21st St S & S Sheridan Rd,36.133338,-95.904035,,,,,0
+5281,21stSher,E 21st St S&S Sheridan Rd,6274 E 21st St S & S Sheridan Rd,36.133516,-95.905223,,,,,0
+5282,21st68av,E 21st St S&S 68Th E Ave,6518 E 21st St S & S 68Th E Ave,36.133525,-95.903516,,,,,0
+5283,21stUtic,E 21st St S&S UTICA Ave,1587 E 21st St S & S Utica Ave,36.133378,-95.967679,,,,,0
+5284,21stUtic,E 21st St S&S Utica Ave,1920 E 21st St S & S Utica Ave,36.133229,-95.965993,,,,,0
+5285,21stVand,E 21st St S&S Vandalia Ave,,36.133253,-95.924827,,,,,0
+5286,21stWh,E 21st St S&S Wheeling Ave,1994 E 21st St S & S Wheeling Ave/S Xanthus Ave,36.133194,-95.963498,,,,,0
+5287,21stYa,E 21st St S&S Yale Ave,4920 E 21st St S & S Yale Ave,36.133238,-95.922066,,,,,0
+5288,21stYork,E 21st St S&S Yorktown Ave,2071 E 21st St S & S Yorktown Ave,36.133342,-95.962399,,,,,0
+5289,21stYork,E 21st St S&S Yorktown Ave,2118 E 21st St S & S Yorktown Ave,36.133174,-95.961707,,,,,0
+5290,21stYa,E 21st St S&S Yale Ave,,36.133438,-95.923537,,,,,0
+5291,31st108a,E 31st St S&S 108th E Ave,10824 E 31st St S & S 108th E Ave,36.118863,-95.856113,,,,,0
+5292,31st111a,E 31st St S&S 111th E Ave,11162 E 31st St S & S 111th E Ave,36.118904,-95.852795,,,,,0
+5293,31st129a,E 31st St S&S 129th E Ave,12918 E 31st St S & S 129th E Ave,36.118852,-95.832776,,,,,0
+5294,31st99av,E 31st St S&S 99th E Ave,9743 E 31st St S & S 99th E Ave,36.119024,-95.866657,,,,,0
+5295,31stMngo,E 31st St S&S Mingo Rd,9477 E 31st St S & S Mingo Rd,36.11906,-95.869135,,,,,0
+5297,31st101a,E 31st St S&S 101st E Ave,10194 E 31st St S & S 101st E Ave,36.118863,-95.862867,,,,,0
+5298,31st101a,E 31st St S&S 101st E Ave,10135 E 31st St S & S 101st E Ave,36.119055,-95.863876,,,,,0
+5299,31st108a,E 31st St S&S 108th E Ave,10683 E 31st St S & S 108th E Ave,36.119107,-95.856743,,,,,0
+5300,31st111a,E 31st St S&S 111th E Ave,10981 E 31st St S & S 111th E Ave,36.119061,-95.853761,,,,,0
+5301,31st124a,E 31st St S&S 124th E Ave,,36.118852,-95.839198,,,,,0
+5302,31st126a,E 31st St S&S 126th E Ave,12730 E 31st St S & S 126th E Ave,36.118852,-95.835458,,,,,0
+5303,31st129a,31St St S & 129th E Ave,12855 E 31st St S & S 129th E Ave,36.119035,-95.833805,,,,,0
+5304,31st66Pl,E 31st St S&S 66th E Pl,6741 E 31st St S & S 66th E Pl,36.11898,-95.901514,,,,,0
+5306,31st70av,E 31st St S&S 70th E Ave,6893 E 31st St S & S 70th E Ave,36.118974,-95.89859,,,,,0
+5310,31st86av,E 31st St S&S 86th E Ave,8471 E 31st St S & S 86th E Ave,36.118992,-95.881995,,,,,0
+5311,31st87av,E 31st St S&S 87th E Ave,8651 E 31st St S & S 87th E Ave,36.118997,-95.879892,,,,,0
+5312,31st88av,E 31st St S&S 88th E Ave,8810 E 31st St S & S 88th E Ave,36.118866,-95.877977,,,,,0
+5313,31st90av,E 31st St S&S 90th E Ave,8967 E 31st St S & S 90th E Ave,36.119021,-95.875274,,,,,0
+5314,31st94av,E 31st St S&S 94Th E Ave,9406 E 31st St S & S 94Th E Ave,36.118884,-95.870793,,,,,0
+5315,31st94av,E 31st St S&S 94th E Ave,9183 E 31st St S & S 94th E Ave,36.11903,-95.871859,,,,,0
+5316,31stGntt,E 31st St S&S Garnett Rd,11314 E 31st St S & S Garnett Rd,36.118882,-95.85068,,,,,0
+5317,31stGntt,E 31st st S & S Garnett Rd,11271 E 31st St S & S Garnett Rd,36.119074,-95.851508,,,,,0
+5321,31stMem,E 31st St S&S Memorial Dr,8071 E 31st St S & S Memorial Dr,36.119026,-95.887077,,,,,0
+5322,31stMem,E 31st St S&S Memorial Dr,8122 E 31st St S & S Memorial Dr,36.1188,-95.886128,,,,,0
+5323,31stMngo,E 31st St S&S Mingo Rd,9712 E 31st St S & S Mingo Rd,36.118887,-95.868115,,,,,0
+5329,31st74Pl,E 31st St S&S 74th E Pl,7390 E 31st St S & S 74th E Pl,36.118983,-95.894303,,,,,0
+5333,3stLew,E 3rd St S&S Lewis Ave,2367 E 3rd St S & S Lewis Ave,36.156691,-95.958577,,,,,0
+5334,3stAtl,E 3rd St S&S Atlanta Ave,2483 E 3rd St S & S Atlanta Ave,36.156665,-95.956269,,,,,0
+5335,3stAtl,E 3rd St S&S Atlanta Ave,2520 E 3rd St S & S Atlanta Ave,36.156528,-95.955508,,,,,0
+5336,3stBmAv,E 3rd St S&S Birmingham Ave,2589 E 3rd St S & S Birmingham Ave,36.156638,-95.953972,,,,,0
+5337,3stBmAv,E 3rd St S&S Birmingham Ave,2610 E 3rd St S & S Birmingham Ave,36.156524,-95.953439,,,,,0
+5338,3stColl,E 3rd St S&S College Ave,3022 E 3rd St S & S College Ave,36.15624,-95.945823,,,,,0
+5339,3stColu,E 3rd St S&S Columbia Ave,2685 E 3rd St S & S Columbia Ave,36.156653,-95.95179,,,,,0
+5340,3stColu,E 3rd St S&S Columbia Ave,2712 E 3rd St S & S Columbia Ave,36.156532,-95.951209,,,,,0
+5341,3stDel,E 3rd St S&S Delaware Ave,2818 E 3rd St S & S Delaware Ave,36.156377,-95.948943,,,,,0
+5342,3stEvan,E 3rd St S&S Evanston Ave,2887 E 3rd St S & S Evanston Ave,36.156481,-95.947579,,,,,0
+5343,3stGary,E 3rd St S&S Gary Ave,3181 E 3rd St S & S Gary Ave,36.156396,-95.943271,,,,,0
+5344,3stFlor,E 3rd St S&S Florence Ave,3186 E 3rd St S & S Florence Ave,36.156288,-95.943192,,,,,0
+5345,3stKeno,E 3rd St S&S Kenosha Ave,769 E 3rd St S & S Kenosha Ave,36.156466,-95.982559,,,,,0
+5346,3stLans,E 3rd St S&S Lansing Ave,,36.156633,-95.980738,,,,,0
+5347,3stLew,E 3rd St S&S Lewis Ave,2416 E 3rd St S & S Lewis Ave,36.156465,-95.957784,,,,,0
+5348,3stPeo,E 3rd St S&S Peoria Ave,1324 E 3rd St S & S Peoria Ave,36.156648,-95.975145,,,,,0
+5349,3stQuin,E 3rd St S&S Quincy Ave,1385 E 3rd St S & S Quincy Ave,36.156774,-95.97393,,,,,0
+5350,3Ro,E 3RD ST S& Rockford Ave,1485 E 3rd St S & S Rockford Ave,36.156758,-95.971886,,,,,0
+5351,3Ro,E 3rd ST S& Rockford Ave,1478 E 3rd St S & S Quincy Ave,36.15663,-95.97196,,,,,0
+5352,3stTren,E 3rd St S&S Trenton Ave,1589 E 3rd St S & S Trenton Ave,36.156742,-95.969589,,,,,0
+5353,3stTren,E 3rd St S&S Trenton Ave,1616 E 3rd St S & S Trenton Ave,36.156616,-95.968928,,,,,0
+5354,3stUtic,E 3rd St S&S Utica Ave,1659 E 3rd St S & S Utica Ave,36.156752,-95.967972,,,,,0
+5355,3stUtic,E 3rd St S&S Utica Ave,1748 E 3rd St S & S Utica Ave,36.156589,-95.966574,,,,,0
+5356,3stXanA,E 3rd St S&S Xanthus Ave,1979 E 3rd St S & S Xanthus Ave,36.156722,-95.963724,,,,,0
+5357,3stXanA,E 3rd St S&S Xanthus Ave,2024 E 3rd St S & S Xanthus Ave,36.156533,-95.963143,,,,,0
+5358,3stZuni,E 3rd St S&S Zunis Ave,2189 E 3rd St S & S Zunis Ave,36.156679,-95.961081,,,,,0
+5359,41st87av,E 41st St S&S 87Th E Ave,8485 E 41st St S & S 87Th E Ave,36.104571,-95.881637,,,,,0
+5360,41st118a,E 41st St S&S 118Th E Ave,11390 E 41st St S & S 118Th E Ave,36.104579,-95.849309,,,,,0
+5361,41st100a,E 41st St S&S 100th E Ave,9875 E 41st St S & S 100th E Ave,36.104536,-95.866663,,,,,0
+5362,41st100a,E 41st St S&S 100th E Ave,10116 E 41st St S & S 100th E Ave,36.104361,-95.865512,,,,,0
+5363,41st102a,E 41st St S&S 102nd E Ave,10181 E 41st St S & S 102nd E Ave,36.104626,-95.86423,,,,,0
+5364,41st102a,E 41st St S&S 102nd E Ave,10274 E 41st St S & S 102nd E Ave,36.104318,-95.863435,,,,,0
+5365,41st109a,E 41st St S&S 109th E Ave,10879 E 41st St S & S 109th E Ave,36.104582,-95.856027,,,,,0
+5366,41st109a,E 41st St S&S 109th E Ave,10920 E 41st St S & S 109th E Ave,36.104376,-95.855369,,,,,0
+5367,41st118a,E 41st St S&S 118th E Ave,,36.104535,-95.845638,,,,,0
+5368,41st122a,E 41st St S&S 122nd E Ave,12171 E 41st St S & S 122nd E Ave,36.104533,-95.841935,,,,,0
+5369,41st129a,E 41st St S&S 129th E Ave,12825 E 41st St S & S 129th E Ave,36.104584,-95.834182,,,,,0
+5370,41st68av,E 41st St S&S 68th E Ave,6661 E 41st St S & S 68th E Ave,36.104503,-95.901933,,,,,0
+5371,41st68av,E 41st St S&S 68th E Ave,6828 E 41st St S & S 68th E Ave,36.104332,-95.900373,,,,,0
+5372,41st70av,E 41st St S&S 70th E Ave,7024 E 41st St S & S 70th E Ave,36.104336,-95.898631,,,,,0
+5373,41st72av,E 41st St S&S 72nd E Ave,7077 E 41st St S & S 72nd E Ave,36.104484,-95.897521,,,,,0
+5374,41st74av,E 41st St S&S 74th E Ave,7279 E 41st St S & S 74th E Ave,36.104489,-95.895079,,,,,0
+5375,41st74av,E 41st St S&S 74th E Ave,7336 E 41st St S & S 74th E Ave,36.104339,-95.894247,,,,,0
+5376,41st40Pl,E 41st St S&E 40Th Pl S,,36.10435,-95.871738,,,,,0
+5377,41stAtl,E 41st St S&S Atlanta Ave,2512 E 41st St S & S Atlanta Ave,36.104209,-95.955441,,,,,0
+5378,41stAtlP,E 41st St S&S Atlanta Pl,2531 E 41st St S & S Atlanta Pl,36.104295,-95.954928,,,,,0
+5379,41stBmPl,E 41st St S&S Birmingham Pl,2621 E 41st St S & S Birmingham Pl,36.104049,-95.952402,,,,,0
+5380,41stCuP,E 41st St S&S Columbia Pl,2752 E 41st St S & S Columbia Pl,36.104234,-95.949865,,,,,0
+5381,41stDar,E 41st St S&S Darlington Ave,5114 E 41st St S & S Darlington Ave,36.104496,-95.918724,,,,,0
+5382,41stDar,E 41st St S&S Darlington Ave,5230 E 41st St S & S Darlington Ave,36.104299,-95.916922,,,,,0
+5383,41stDel,E 41st St S&S Delaware Ave,2777 E 41st St S & S Delaware Ave,36.104324,-95.949407,,,,,0
+5384,41stDelP,E 41st St S&S Delaware Pl,2829 E 41st St S & S Delaware Pl,36.104359,-95.948257,,,,,0
+5385,41stFlor,E 41st St S&S Florance Ave,3109 E 41st St S & S Florance Ave,36.104377,-95.944018,,,,,0
+5386,41stFlor,E 41st St S&S Florence Ave,3114 E 41st St S & S Florence Ave,36.104234,-95.943689,,,,,0
+5387,41stFloP,E 41st St S&S Florence Pl,3152 E 41st St S & S Florence Pl,36.104245,-95.94191,,,,,0
+5388,41stGntt,S Garnett Rd&E 41st St S,11189 E 41st St S & S Garnett Rd,36.10459,-95.85225,,,,,0
+5389,41stHarv,S Harvard Ave&E 41st St S,3187 E 41st St S & S Harvard Ave,36.104413,-95.940623,,,,,0
+5390,41stFul,E 41st St S&S Fulton Ave,5437 E 41st St S & S Fulton Ave,36.104438,-95.914613,,,,,0
+5392,41stLew,E 41st St S&S Lewis Ave,2420 E 41st St S & S Lewis Ave,36.104135,-95.957537,,,,,0
+5393,41stMem,E 41st St S&S Memorial Dr,7963 E 41st St S & S Memorial Dr,36.104541,-95.887403,,,,,0
+5394,41st83av,E 41st St S & 83rd E Ave,8542 E 41st St/Broken Arrow Expy & S 83Rd E Ave,36.10435,-95.88118,,,,,0
+5395,41stMngo,E 41st St S&S Mingo Rd,9383 E 41st St S & S Mingo Rd,36.104553,-95.86918,,,,,0
+5396,41stMngo,E 41st St S&S Mingo Rd,9794 E 41st St S & S Mingo Rd,36.104366,-95.867554,,,,,0
+5397,41stPeo,E 41st St S&S Peoria Ave,1320 E 41st St S & S Peoria Ave,36.104228,-95.975216,,,,,0
+5398,41stRock,E 41st St S&S Rockford Ave,1401 E 41st St S & S Rockford Ave/S Quincy Ave,36.104369,-95.973552,,,,,0
+5399,41stQuin,E 41st St S&S Quincy Ave,1404 E 41st St S & S Quincy Ave,36.104237,-95.973345,,,,,0
+5400,41stRock,E 41st St S&S Rockford Ave,1470 E 41st St S & S Rockford Ave,36.104224,-95.971742,,,,,0
+5401,41stSher,S Sheridan Rd&E 41st St S,6524 E 41st St S & S Sheridan Rd,36.1043,-95.904113,,,,,0
+5402,41stTroo,E 41st St S&S Troost Pl,1664 E 41st St S & S Troost Pl,36.104247,-95.967299,,,,,0
+5403,41stUtic,E 41st St S&S Utica Ave,1677 E 41st St S & S Utica Ave,36.104352,-95.967186,,,,,0
+5404,41stVict,E 41st St S&S Victor Ave,1804 E 41st St S & S Victor Ave,36.104222,-95.96556,,,,,0
+5405,41stYork,E 41st St S&S Yorktown Ave,1951 E 41st St S & S Yorktown Ave,36.104332,-95.962706,,,,,0
+5406,41stWh,E 41st St S&S Wheeling Ave,1952 E 41st St S & S Wheeling Ave,36.104216,-95.962661,,,,,0
+5407,41stYa,E 41ST ST S&S YALE AVE,4875 E 41st St S & S Yale Ave,36.104454,-95.922793,,,,,0
+5408,41stYa,E 41st St S&S Yale Ave,5058 E 41st St S & S Yale Ave,36.104266,-95.919547,,,,,0
+5409,47Pl93av,E 47Th Pl S&S 93Rd E Ave,9518 E 47Th Pl S & S 93Rd E Ave,36.094722,-95.870086,,,,,0
+5410,46st83av,E 46th St S&S 83rd E Ave,8151 E 46th St S & S 83rd E Ave,36.097866,-95.884267,,,,,0
+5411,46st83av,E 46th St S&S 83rd E Ave,8192 E 46th St S & S 83rd E Ave,36.097763,-95.883568,,,,,0
+5412,46st86av,E 46th St S&S 86th E Ave,8551 E 46th St S & S 86th E Ave,36.09787,-95.881106,,,,,0
+5413,46st91av,E 46th St S&S 91st E Ave,9059 E 46th St S & S 91st E Ave,36.097875,-95.876156,,,,,0
+5414,46st86av,E 46th St S&S 86Th E Ave,8986 E 46th St S & S 86Th E Ave,36.097778,-95.876935,,,,,0
+5415,46stMngo,E 46th St S&S Mingo Rd,9321 E 46th St S & S Mingo Rd,36.096855,-95.872672,,,,,0
+5416,46st93av,E 46th St S&S 93Rd E Ave,9312 E 46th St S & S 93Rd E Ave,36.09681,-95.8728,,,,,0
+5417,46stMem,E 46th St S&S Memorial Dr,8108 E 46th St S & S Memorial Dr,36.097763,-95.886125,,,,,0
+5418,47PlMngo,E 47th Pl S&S Mingo Rd,9546 E 47th Pl S & S Mingo Rd,36.094827,-95.86952,,,,,0
+5420,4stHarv,E 4Th St S&S Harvard Ave,,36.156068,-95.940754,,,,,0
+5421,4stHarv,E 4th St S  &S Harvard Ave,,36.155908,-95.940078,,,,,0
+5422,4stLou,E 4Th St S&S Louisville Ave,,36.156039,-95.936065,,,,,0
+5426,6stDet,E 6th St S&S Detroit Ave,346 E 6th St S & S Detroit Ave,36.151871,-95.985426,,,,,0
+5427,6stElg,E 6th St S&S Elgin Ave,373 E 6th St S & S Elgin Ave,36.15214,-95.985205,,,,,0
+5428,6stLans,E 6th St S&S Lansing Ave,,36.152676,-95.980688,,,,,0
+5429,6stMad,E 6th St S&S Madison Ave,,36.152834,-95.980775,,,,,0
+5430,6stMad,E 6th St S&S Madison Ave,,36.15282,-95.979961,,,,,0
+5431,6stOw,E 6th St S&S Owasso Ave,1151 E 6th St S & S Owasso Ave,36.152811,-95.977894,,,,,0
+5432,6stOw,E 6th St S&S Owasso Ave,E 6th St S & S Owasso Ave/S Peoria Ave,36.152686,-95.977297,,,,,0
+5433,6stQuin,E 6th St S&S Quincy Ave,1385 E 6th St S & S Quincy Ave,36.152222,-95.973602,,,,,0
+5434,6stQuak,E 6th St S&S Quaker Ave,1392 E 6th St S & S Quaker Ave,36.152088,-95.973456,,,,,0
+5435,6stRock,E 6th St S&S Rockford Ave,1489 E 6th St S & S Rockford Ave,36.152223,-95.971841,,,,,0
+5436,6stRock,E 6th St S&S Rockford Ave,1510 E 6th St S & S Rockford Ave,36.152072,-95.971517,,,,,0
+5437,6stTroo,E 6th St S&S Troost Ave,1601 E 6th St S & S Troost Ave,36.152197,-95.969617,,,,,0
+5438,6stUtic,E 6th St S&S Utica Ave,1647 E 6th St S & S Utica Ave,36.152199,-95.967815,,,,,0
+5439,Adm103p,E Admiral Pl& 103Th E Pl,10149 E Admiral Pl & N 106Th E Pl/S 106Th E Pl,36.160851,-95.863379,,,,,0
+5440,Adm106p,E Admiral Pl& 106th E Pl,E Admiral Pl & N 106th E Pl/S 106Th E Pl,36.160832,-95.858432,,,,,0
+5441,Adm120a,E Admiral Pl&N 120th E Ave,11867 E Admiral Pl & N 120th E Ave,36.16072,-95.844056,,,,,0
+5442,Adm78av,E Admiral Pl&S 78Th E Ave,7499 E Admiral Pl & S 78Th E Ave,36.160918,-95.890335,,,,,0
+5443,Adm89av,E Admiral Pl& 89th E Ave,8889 E Admiral Pl & N 89th E Ave/S 89Th E Ave,36.160887,-95.878247,,,,,0
+5444,Adm91av,E Admiral Pl&N 91st E Ave,8971 E Admiral Pl & N 91st E Ave,36.160888,-95.87609,,,,,0
+5445,AdmAlgh,E Admiral Pl&S Allegheny Ave,5066 E Admiral Pl & S Allegheny Ave,36.160687,-95.918802,,,,,0
+5446,AdmDar,E Admiral Pl& Darlington Ave,5312 E Admiral Pl & N Darlington Ave/S Darlington Ave,36.160695,-95.917741,,,,,0
+5447,AdmJop,E Admiral Pl&S Joplin Ave,5709 E Admiral Pl & S Joplin Ave,36.160883,-95.913395,,,,,0
+5448,AdmDar,E Admiral Pl&S Darlington Ave,5584 E Admiral Pl & S Darlington Ave,36.160689,-95.913704,,,,,0
+5449,AdmJop,E Admiral Pl&S Joplin Ave,5964 E Admiral Pl & S Joplin Ave,36.160688,-95.909776,,,,,0
+5450,AdmMem,Admiral Pl & Memorial,8510 E Admiral Pl & N Memorial Dr/S Memorial Dr,36.160665,-95.886239,,,,,0
+5451,AdmMem,E Admiral Pl& Memorial Dr,8568 E Admiral Pl & S Memorial Dr/N Memorial Dr,36.160665,-95.883687,,,,,0
+5452,AdmNwdA,E Admiral Pl&N Norwood Ave,6320 E Admiral Pl & N Norwood Ave,36.160704,-95.906509,,,,,0
+5453,AdmSand,E Admiral Pl&N Sandusky Ave,4189 E Admiral Pl & N Sandusky Ave,36.160842,-95.92804,,,,,0
+5454,AdmSand,E Admiral Pl&N Sandusky Ave,4410 E Admiral Pl & N Sandusky Ave,36.160646,-95.927556,,,,,0
+5455,AdmSher,E Admiral Pl&S Sheridan Rd,6528 E Admiral Pl & S Sheridan Rd/N Sheridan Rd,36.160687,-95.904212,,,,,0
+5456,AdmUrba,E Admiral Pl&N Urbana Ave,4608 E Admiral Pl & N Urbana Ave,36.160661,-95.92532,,,,,0
+5457,AdmYa,Admiral Pl & Yale,4851 E Admiral Pl & N Yale Ave,36.160852,-95.922922,,,,,0
+5458,AdmYa,Admiral Pl & Yale,4920 E Admiral Pl & N Yale Ave,36.160656,-95.921975,,,,,0
+5459,AdmAlgh,E Admiral Pl&S Allegheny Ave,4925 E Admiral Pl & S Allegheny Ave,36.160857,-95.921932,,,,,0
+5460,Adm85av,E Admiral Pl&S 85Th E Ave,8459 E Admiral Pl & S 85Th E Ave,36.160866,-95.883577,,,,,0
+5461,Adm101a,E Admiral Pl&S 101st E Ave,10106 E Admiral Pl & S 101st E Ave,36.160586,-95.864875,,,,,0
+5462,Adm106p,E Admiral Pl& 106Th E Pl,E Admiral Pl & N 106Th E Pl/S 106th E Pl,36.160539,-95.857522,,,,,0
+5463,Adm109a,E Admiral Pl&S 109th E Ave,10825 E Admiral Pl & S 109th E Ave,36.160808,-95.854902,,,,,0
+5464,Adm117a,E Admiral Pl&S 117th E Ave,11722 E Admiral Pl & S 117th E Ave,36.160593,-95.846136,,,,,0
+5465,Adm67av,E Admiral Pl&N 67Th E Ave,6637 E Admiral Pl & N 67Th E Ave/S 67th E Ave,36.160895,-95.903022,,,,,0
+5466,Adm68av,E Admiral Pl&S 68th E Ave,6718 E Admiral Pl & S 68th E Ave/N 67Th E Ave,36.160653,-95.901465,,,,,0
+5467,Adm69av,E Admiral Pl&S 69th E Ave,6843 E Admiral Pl & S 69th E Ave,36.160885,-95.900465,,,,,0
+5468,Adm69av,E Admiral Pl&S 69Th E Ave,6988 E Admiral Pl & S 69Th E Ave,36.160665,-95.899123,,,,,0
+5469,Adm72av,E Admiral Pl&S 72nd E Ave,7218 E Admiral Pl & S 72nd E Ave,36.160653,-95.896528,,,,,0
+5470,Adm73av,E Admiral Pl&S 73rd E Ave,7247 E Admiral Pl & S 73rd E Ave,36.160881,-95.896289,,,,,0
+5471,Adm73av,E Admiral Pl&S 73rd E Ave,7332 E Admiral Pl & S 73rd E Ave,36.160646,-95.895299,,,,,0
+5472,Adm78av,E Admiral Pl&S 78th E Ave,7808 E Admiral Pl & S 78th E Ave,36.160636,-95.890056,,,,,0
+5473,Adm89av,E Admiral Pl&S 89th E Ave,8912 E Admiral Pl & S 89th E Ave,36.160609,-95.877433,,,,,0
+5474,Adm91av,E Admiral Pl&S 91st E Ave,9152 E Admiral Pl & S 91st E Ave,36.16063,-95.874566,,,,,0
+5475,AdmDar,E Admiral Pl& Darlington Ave,5031 E Admiral Pl & N Darlington Ave/S Darlington Ave,36.160872,-95.919515,,,,,0
+5476,AdmGntt,E Admiral Pl&S Garnett Rd,11312 E Admiral Pl & S Garnett Rd,36.160524,-95.85084,,,,,0
+5478,AdmMem,E Admiral Pl& Memorial Dr,7881 E Admiral Pl & N Memorial Dr/S Memorial Dr,36.160834,-95.887364,,,,,0
+5479,AdmSher,E Admiral Pl& Sheridan Rd,6459 E Admiral Pl & N Sheridan Rd/S Sheridan Rd,36.160873,-95.904959,,,,,0
+5480,Adm101a,E Admiral Pl&S 101St E Ave,10174 E Admiral Pl & S 101St E Ave,36.16056,-95.86243,,,,,0
+5481,ApchColu,E Apache St&N Columbia Ave,2683 E Apache St & N Columbia Ave,36.191691,-95.951743,,,,,0
+5482,ApchCuP,E Apache St&N Columbia Pl,2712 E Apache St & N Columbia Pl,36.191516,-95.950044,,,,,0
+5483,ApchFlor,E Apache St&N Florence Ave,2861 E Apache St & N Florence Ave,36.191687,-95.945843,,,,,0
+5484,ApchCuP,E Apache St&N Columbia Pl,2896 E Apache St & N Columbia Pl,36.191505,-95.944912,,,,,0
+5485,ApchFlor,E Apache St&N Florence Ave,2939 E Apache St & N Florence Ave,36.191677,-95.94363,,,,,0
+5486,ApchHarv,E Apache St&N Harvard Ave,3332 E Apache St & N Harvard Ave,36.191509,-95.939945,,,,,0
+5487,ApchNHvn,E Apache St&N New Haven Ave,3435 E Apache St & N New Haven Ave,36.191669,-95.938847,,,,,0
+5488,ApchLew,E Apache St&N Lewis Ave,2442 E Apache St & N Lewis Ave,36.191526,-95.956667,,,,,0
+5489,ApchLew,Apache & Lewis,2281 E Apache St & N Lewis Ave,36.191729,-95.95847,,,,,0
+5490,ApchMari,E Apache St&N Marion Ave,,36.191531,-95.93369,,,,,0
+5491,ApchNHvn,E Apache St&N New Haven Ave,,36.19167,-95.933838,,,,,0
+5492,ApchOswe,E Apache St&N Oswego Ave,4026 E Apache St & N Oswego Ave,36.191538,-95.931679,,,,,0
+5493,ApchUrba,E Apache St&N Urbana Ave,4589 E Apache St & N Urbana Ave,36.191663,-95.925461,,,,,0
+5494,ApchUrba,E Apache St&N Urbana Ave,4612 E Apache St & N Urbana Ave,36.191539,-95.924879,,,,,0
+5495,ApchYa,E Apache St&N Yale Ave,4673 E Apache St & N Yale Ave,36.191687,-95.923196,,,,,0
+5496,ApchYa,Yale & Apache,4906 E Apache St & N Yale Ave,36.191501,-95.922155,,,,,0
+5497,ApchYork,E Apache St&N Yorktown Ave,2126 E Apache St & N Yorktown Ave,36.191539,-95.961397,,,,,0
+5498,123AR,N 123rd E Ave&E Archer St,185 E Archer St & N 124th E Ave/N 123Rd E Ave,36.162776,-95.83969,,,,,0
+5499,ArchBos,E Archer St&N Boston Ave,,36.15771,-95.992253,,,,,0
+5500,ArchBos,E Archer St&N Boston Ave,,36.15803,-95.990924,,,,,0
+5501,ArchElg,E Archer St&N Elgin Ave,,36.158912,-95.988838,,,,,0
+5502,ArchElg,E Archer St&N Elgin Ave,426 E Archer St & N Elgin Ave,36.159028,-95.988113,,,,,0
+5503,ArchGrnw,E Archer St&N Greenwood Ave,571 E Archer St & N Greenwood Ave,36.15974,-95.986495,,,,,0
+5504,ArchMa,E Archer St&N Main St,,36.157365,-95.992826,,,,,0
+5505,IndpCin,E Independence St&N Cincinnati Ave,230 E Independence St & N Cincinnati Ave/N Detroit Ave,36.166034,-95.99316,,,,,0
+5507,JHFBCin,E John Hope Franklin Blvd&Martin Luther King Jr Blvd,E John Hope Franklin Blvd & N Cincinnati Ave,36.164207,-95.993214,,,,,0
+5508,Pine72av,E Pine St&N 72nd E Ave,7248 E Pine St & N 72nd E Ave,36.17701,-95.895894,,,,,0
+5509,PinePit,E Pine St&N Pittsburg Ave,3999 E Pine St & N Pittsburg Ave,36.177191,-95.931463,,,,,0
+5510,PineEvan,E Pine St&N Evanston Ave,,36.177066,-95.947149,,,,,0
+5511,Pine108a,E Pine St&N 108Th E Ave,11202 E Pine St & N 108Th E Ave,36.176953,-95.85414,,,,,0
+5512,Pine107a,E Pine St&N 107th E Ave,,36.176935,-95.858359,,,,,0
+5513,Pine107a,E Pine St&N 107th E Ave,10769 E Pine St & N 107th E Ave,36.177112,-95.859005,,,,,0
+5514,Pine75av,E Pine St&N 75th E Ave,7520 E Pine St & N 75th E Ave,36.177001,-95.892686,,,,,0
+5515,Pine89av,E Pine St&N 89th E Ave,,36.17711,-95.880117,,,,,0
+5516,Pine91av,E Pine St&N 91st E Ave,9122 E Pine St & N 91st E Ave,36.176975,-95.874479,,,,,0
+5517,Pine93av,E Pine St&N 93rd E Ave,9171 E Pine St & N 93rd E Ave,36.177109,-95.873859,,,,,0
+5518,Pine95av,E Pine St&N 95th E Ave,9566 E Pine St & N 95th E Ave,36.176962,-95.870504,,,,,0
+5519,PineAtlC,E Pine St&N Atlanta Ct,2542 E Pine St & N Atlanta Ct,36.177074,-95.954594,,,,,0
+5520,PineCin,E Pine St & Martin Luther King Jr Blvd,214 E Pine St & N Cincinnati Ave,36.176852,-95.993145,,,,,0
+5521,PineElg,E Pine St&N Elgin Ave,259 E Pine St & N Elgin Ave,36.177019,-95.992079,,,,,0
+5522,PineColl,E Pine St&N College Ave,3032 E Pine St & N College Ave,36.177064,-95.944896,,,,,0
+5523,PineColl,E Pine St&N College Ave,2951 E Pine St & N College Ave,36.17718,-95.945911,,,,,0
+5524,PineColu,E Pine St&N Columbia Ave,2679 E Pine St & N Columbia Ave,36.177192,-95.952335,,,,,0
+5525,PineCuP,E Pine St&N Columbia Pl,,36.177067,-95.9508,,,,,0
+5526,PineDel,E Pine St&N Delaware Ave,,36.177069,-95.949493,,,,,0
+5527,PineDel,E Pine St&N Delaware Ave,,36.177207,-95.950166,,,,,0
+5528,PineElg,E Pine St&N Elgin Ave,,36.176882,-95.990835,,,,,0
+5529,PineEvan,E Pine St&N Evanston Ave,,36.177205,-95.947797,,,,,0
+5530,PineFkft,E Pine St&N Frankfort Ave,516 E Pine St & N Frankfort Ave,36.176886,-95.988611,,,,,0
+5531,PineFkft,E Pine St&N Frankfort Ave,463 E Pine St & N Frankfort Ave,36.17701,-95.989829,,,,,0
+5532,PineFul,E Pine St&N Fulton Ave,5342 E Pine St & N Fulton Ave,36.177041,-95.91536,,,,,0
+5533,PineFul,E Pine St&N Fulton Ave,5287 E Pine St & N Fulton Ave,36.17717,-95.915781,,,,,0
+5534,PineGntt,E Pine St & Garnett Rd,11285 E Pine St & N Garnett Rd,36.177138,-95.851554,,,,,0
+5535,PineGary,E Pine St&N Gary Ave,3222 E Pine St & N Gary Ave,36.177061,-95.941839,,,,,0
+5536,PineGary,E Pine St&N Gary Ave,,36.177199,-95.942256,,,,,0
+5537,PineGrnw,Greenwood & Pine,620 E Pine St & N Greenwood Ave,36.176884,-95.98643,,,,,0
+5538,PineGrnw,E Pine St&N Greenwood Ave,581 E Pine St & N Greenwood Ave,36.177011,-95.987201,,,,,0
+5539,PineGnwP,E Pine St&N Greenwood Pl,676 E Pine St & N Greenwood Pl,36.17703,-95.985604,,,,,0
+5540,PineHart,E Pine St&N Hartford Ave,,36.176891,-95.984416,,,,,0
+5541,PineHart,E Pine St&N Hartford Ave,,36.177023,-95.984771,,,,,0
+5542,PineHarv,E Pine St&N Harvard Ave,3378 E Pine St & N Harvard Ave,36.177044,-95.939728,,,,,0
+5543,PineIndy,E Pine St&N Indianapolis Ave,3345 E Pine St & N Indianapolis Ave,36.177224,-95.939957,,,,,0
+5544,PineMidP,E Pine St&N Midland Pl,836 E Pine St & N Midland Pl,36.176886,-95.981472,,,,,0
+5545,PineKgtP,E Pine St&N Kingston Pl,,36.177026,-95.909409,,,,,0
+5546,PineMad,E Pine St&N Madison Ave,1020 E Pine St & N Madison Ave,36.176892,-95.979541,,,,,0
+5547,PineLans,E Pine St&N Lansing Ave,795 E Pine St & N Lansing Ave,36.177021,-95.982037,,,,,0
+5548,PineZuni,Pine & Lewis,2286 E Pine St & N Zunis Ave,36.177005,-95.9584,,,,,0
+5549,PineLew,E Pine St&N Lewis Ave,2241 E Pine St & N Lewis Ave,36.177199,-95.959078,,,,,0
+5550,PineLew,E Pine St&N Lewis Ave,2402 E Pine St & N Lewis Ave/N Lewis Pl,36.17704,-95.957442,,,,,0
+5551,PineMem,E Pine St&N Memorial Dr,,36.177009,-95.879676,,,,,0
+5552,PineNorf,E Pine St&N Norfolk Ave,1140 E Pine St & N Norfolk Ave,36.17687,-95.97744,,,,,0
+5553,PineNorf,E Pine St&N Norfolk Ave,1089 E Pine St & N Norfolk Ave,36.177018,-95.978104,,,,,0
+5554,PineMari,E Pine St&N Marion Ave,3878 E Pine St & N Marion Ave,36.17706,-95.934245,,,,,0
+5555,PineOswe,E Pine St&N Oswego Ave,3877 E Pine St & N Oswego Ave,36.177223,-95.93429,,,,,0
+5556,PineOw,E Pine St&N Owasso Ave,1163 E Pine St & N Owasso Ave,36.177029,-95.977107,,,,,0
+5557,PinePeo,E Pine St&N Peoria Ave,1338 E Pine St & N Peoria Ave,36.176843,-95.975149,,,,,0
+5558,PinePit,E Pine St&N Pittsburg Ave,4116 E Pine St & N Pittsburg Ave,36.177055,-95.931195,,,,,0
+5559,PineSher,E Pine St&N Sheridan Rd,6516 E Pine St & N Sheridan Rd,36.177019,-95.903497,,,,,0
+5560,PineSher,E Pine St&N Sheridan Rd,6469 E Pine St & N Sheridan Rd,36.177199,-95.904911,,,,,0
+5561,PineTren,E Pine St&N Trenton Ave,1577 E Pine St & N Trenton Ave,36.177058,-95.9699,,,,,0
+5562,PinePeo,E Pine St&N Peoria Ave,1528 E Pine St & N Peoria Ave,36.176942,-95.97078,,,,,0
+5563,PineTol,E Pine St&N Toledo Ave,4618 E Pine St & N Toledo Ave,36.177034,-95.926733,,,,,0
+5564,PineTol,E Pine St&N Toledo Ave,4607 E Pine St & N Toledo Ave/N Urbana Ave,36.177166,-95.926932,,,,,0
+5565,PineTroo,E Pine St&N Troost Ave,1652 E Pine St & N Troost Ave,36.176971,-95.96799,,,,,0
+5567,PineVanP,E Pine St&N Vandalia Pl,4705 E Pine St & N Vandalia Pl,36.177169,-95.924438,,,,,0
+5568,PineWh,E Pine St&N Wheeling Ave,1966 E Pine St & N Wheeling Ave,36.177018,-95.964257,,,,,0
+5569,PineWh,E Pine St&N Wheeling Ave,1871 E Pine St & N Wheeling Ave,36.17712,-95.965657,,,,,0
+5570,PineWins,E Pine St&N Winston Ave,4890 E Pine St & N Winston Ave,36.17702,-95.92262,,,,,0
+5571,PineYa,E Pine St&N Yale Ave,4857 E Pine St & N Yale Ave,36.177169,-95.922997,,,,,0
+5572,PineYork,E Pine St&N Yorktown Ave,2085 E Pine St & N Yorktown Ave,36.177147,-95.962656,,,,,0
+5573,PineZuni,E Pine St&N Zunis Ave,2232 E Pine St & N Zunis Ave,36.177021,-95.959187,,,,,0
+5574,Virg73av,E Virgin St&N 73Rd E Ave,7275 E Virgin St & N 73Rd E Ave,36.184417,-95.895881,,,,,0
+5575,Virg73av,E Virgin St&N 73Rd E Ave,,36.184249,-95.895426,,,,,0
+5576,VirgMad,E Virgin St&N Madison Ave,,36.18436,-95.98019,,,,,0
+5577,VirgMad,Virgin & Madison,E Virgin St & N Madison Ave,36.184237,-95.979824,,,,,0
+5578,VirgPeo,E Virgin St&N Peoria Ave,,36.184306,-95.976376,,,,,0
+5579,VirgQuak,E Virgin St&N Quaker Ave,1324 E Virgin St & N Quaker Ave,36.184191,-95.974582,,,,,0
+5580,VirgQuin,E Virgin St&N Quincy Ave,1426 E Virgin St & N Quincy Ave,36.184202,-95.973102,,,,,0
+5581,VirgRock,Virgin & Rockford,1477 E Virgin St & N Rockford Ave,36.18429,-95.97249,,,,,0
+5582,VirgStLu,E Virgin St&N St Louis Ave,1562 E Virgin St & N St Louis Ave,36.184214,-95.970717,,,,,0
+5583,VirgUtic,E Virgin St&N Utica Ave,1615 E Virgin St & N Utica Ave,36.184315,-95.969598,,,,,0
+5584,VirgUtic,E Virgin St&N Utica Ave,1693 E Virgin St & N Utica Ave,36.184325,-95.967915,,,,,0
+5585,VirgXanA,E Virgin St&N Xanthus Ave,1839 E Virgin St & N Xanthus Ave,36.184359,-95.965503,,,,,0
+5586,VirgTren,E Virgin St&N Trenton Ave,16666 E Virgin St & N Trenton Ave,36.184235,-95.968451,,,,,0
+5588,GiMuGiRd,Gilcrease Museum&N Gilcrease Museum,1400 Gilcrease Museum & N Gilcrease Museum Rd/N 25Th W Ave,36.175222,-96.020583,,,,,0
+5589,GiRdCPB,S 25Th W Ave & Charles Page Blvd,377/2401 S Gilcrease Museum Rd/S 25Th W Ave & Charles Page Blvd,36.152094,-96.020254,,,,,0
+5590,GiRdCPB,S 25Th W Ave & Charles Page Blvd,265 S Gilcrease Museum Rd/S 25Th W Ave & Charles Page Blvd,36.153386,-96.020256,,,,,0
+5591,Hud41st,S Hudson Ave&E 41st St S,3971 S Hudson Ave & E 41st St S,36.105785,-95.913223,,,,,0
+5592,KeBAHick,W Kenosha St&N Hickory,1067 W Kenosha St/E 71st St S & N Hickory Ave,36.061048,-95.806,,,,,0
+5593,KeBAAsh,W Kenosha St&N Ash Ave,185 W Kenosha St/E 71st St S & N Ash Ave,36.061071,-95.792022,,,,,0
+5594,KeBAAspn,W Kenosha St&N Aspen Av,2156 W Kenosha St/E 71st St S & N Aspen Ave/S 145th E Ave,36.060783,-95.814797,,,,,0
+5595,KeBABrch,W Kenosha St&N Birch Av,270 W Kenosha St/E 71st St S & N Birch Ave,36.060904,-95.792954,,,,,0
+5596,KeBAPcnP,W Kenosha St&N Pecan Pl,1020 W Kenosha St/E 71st St S & N Pecan Pl,36.060847,-95.804385,,,,,0
+5597,123aArch,N 123rd E Ave&E Archer St,141 N 123rd E Ave & E Archer St,36.162577,-95.840196,,,,,0
+5598,123aAdmC,N 123rd E Ave&E Admiral Ct,54 N 123rd E Ave & E Admiral Ct,36.161491,-95.840633,,,,,0
+5599,124aAdmC,N 124th E Ave&E Admiral Ct,56 N 124th E Ave & E Admiral Ct,36.16134,-95.838886,,,,,0
+5600,129aAdm,S 129th E Ave&E Admiral Pl,60 S 129th E Ave & E Admiral Pl,36.159674,-95.833496,,,,,0
+5601,129aSkDr,S 129th E Ave&E Skelly Dr,216 S 129th E Ave & E Skelly Dr,36.15622,-95.833483,,,,,0
+5602,AspnKeBA,N Aspen Ave&W Kenosha,826 N Aspen Ave/S 145th E Ave & W Kenosha St/E 71st St S,36.060085,-95.815472,,,,,0
+5603,AspnGree,N Aspen Ave&W Greeley,609 N Aspen Ave/S 145th E Ave & W Greeley St,36.057596,-95.815198,,,,,0
+5604,AspnDtBA,N Aspen Ave&W Detroit,319 N Aspen Ave/S 145th E Ave & W Detroit St,36.054477,-95.81519,,,,,0
+5605,AspnDtBA,N Aspen Ave&W Detroit,254 N Aspen Ave/S 145th E Ave & W Detroit St,36.053821,-95.815459,,,,,0
+5606,CinLatP,Martin Luther King Jr Blvd & E Latimer Pl,1122 N Cincinnati Ave & E Latimer Pl,36.169458,-95.993585,,,,,0
+5607,CinMrsh,Martin Luther King Jr Blvd &E Marshall St,1221 N Cincinnati Ave & E Marshall St,36.171897,-95.993416,,,,,0
+5608,CinMrsh,Martin Luther King Jr Blvd & E Marshall St,1192 N Cincinnati Ave & E Marshall St,36.171306,-95.993616,,,,,0
+5609,CinNwtP,Martin Luther King Jr Blvd &E Newton Pl,1319 N Cincinnati Ave & E Newton Pl,36.174132,-95.993413,,,,,0
+5610,CinPine,Martin Luther King Jr Blvd & E Pine St,N Cincinnati Ave & E Pine St,36.176103,-95.993636,,,,,0
+5611,CCJasp,N Country Club Dr&W Jasper St,,36.166866,-96.003323,,,,,0
+5613,DetJHFB,N Detroit Ave&E John Hope Franklin,N Detroit Ave & E John Hope Franklin Blvd,36.164597,-95.992776,,,,,0
+5614,ElgIndp,N Elgin Ave&E Independence St,901 N Elgin Ave & E Independence St,36.166859,-95.991225,,,,,0
+5615,GnttMrsh,N Garnett Rd&E Marshall St,1186 N Garnett Rd & E Marshall St,36.170953,-95.851218,,,,,0
+5616,GnttPine,N Garnett Rd&E Pine St,1488 N Garnett Rd & E Pine St,36.176925,-95.851252,,,,,0
+5617,GrnwLatP,N Greenwood Ave&E Latimer Pl,1131 N Greenwood Ave & E Latimer Pl,36.170355,-95.986712,,,,,0
+5618,GiRdCamr,S 25Th W Ave & W Cameron,331 N Gilcrease Museum Rd/N 25Th W Ave & W Cameron St,36.158194,-96.020305,,,,,0
+5619,GiRdCamr,N Gilcrease Museum Rd/N 25Th W Ave&,268 N Gilcrease Museum Rd/N 25Th W Ave & W Cameron St,36.157734,-96.020466,,,,,0
+5620,GiRdEasC,N Gilcrease Museum Rd & W Easton Ct,550 N Gilcrease Museum Rd/N 25Th W Ave & W Easton Ct,36.160297,-96.02037,,,,,0
+5621,GiRdEasP,S 25Th W Ave & W Easton,519 N Gilcrease Museum Rd/N 25Th W Ave & W Easton Pl,36.159992,-96.020265,,,,,0
+5622,GiRdEd,N Gilcrease Museum Rd & N 25Th W Ave,N Gilcrease Museum Rd/N 25Th W Ave & W Edison St,36.161774,-96.019785,,,,,0
+5623,GrnwArch,N Greenwood Ave&E Archer St,129 N Greenwood Ave & E Archer St,36.160096,-95.986165,,,,,0
+5624,GrnwCamr,N Greenwood Ave&E Cameron St,174 N Greenwood Ave & E Cameron St,36.160527,-95.986522,,,,,0
+5625,GrnwMarP,N Greenwood Ave&E Marshall Pl,1217 N Greenwood Ave & E Marshall Pl,36.173081,-95.98672,,,,,0
+5626,GrnwMrsh,N Greenwood Ave&E Marshall St,1184 N Greenwood Ave & E Marshall St,36.171698,-95.986887,,,,,0
+5627,GrnwNwtP,N Greenwood Ave&E Newton Pl,1282 N Greenwood Ave & E Newton Pl,36.173659,-95.986891,,,,,0
+5628,GrnwNwtP,N Greenwood Ave&E Newton Pl,,36.17408,-95.986728,,,,,0
+5629,GrnwOkP,N Greenwood Ave&E Oklahoma Pl,1435 N Greenwood Ave & E Oklahoma Pl,36.176267,-95.986727,,,,,0
+5630,GrnwOkSt,N Greenwood Ave&E Oklahoma St,1370 N Greenwood Ave & E Oklahoma St,36.174594,-95.98689,,,,,0
+5631,GrnwPine,N Greenwood Ave&E Pine St,1472 N Greenwood Ave & E Pine St,36.176624,-95.986901,,,,,0
+5632,GrnwPine,Pine & Greenwood,1501 N Greenwood Ave & E Pine St,36.177067,-95.986735,,,,,0
+5633,GrnwGrnw,N Greenwood Ave&OSU,391 N Greenwood Ave & N Greenwood Ave/E John Hope Franklin Blvd,36.164211,-95.987085,,,,,0
+5634,GrnwGrnw,N Greenwood Ave&OSU,388 N Greenwood Ave & N Greenwood Ave/E John Hope Franklin Blvd,36.164034,-95.987074,,,,,0
+5635,OkStKeno,E Oklahoma St&N Kenosha Ave,,36.175102,-95.980941,,,,,0
+5636,MaBAElg,N Main St&W Elgin St,368 N Main St & W Elgin St,36.055062,-95.790907,,,,,0
+5637,MaBAMas,S Main St&E Mason Dr,1356 S Main St & E Mason Dr,36.040038,-95.790936,,,,,0
+5638,MaBAKeBA,N Main St&W Kenosha St,872 N Main St & W Kenosha St/E 71st St S,36.060491,-95.790873,,,,,0
+5639,MaBARich,S Main St&E Richmond St,,36.036753,-95.790934,,,,,0
+5640,MaBADtBA,N Main St&W Detroit St,284 N Main St & W Detroit St,36.054335,-95.790905,,,,,0
+5641,MaBAHous,S Main St&W Houston St/E 81st St S,752 S Main St & W Houston St/E 81st St S,36.045888,-95.790953,,,,,0
+5642,MaBAMphs,S Main St&W Memphis St,1136 S Main St & W Memphis St,36.041422,-95.790932,,,,,0
+5643,MaBAPitP,S Main St&W Pittsburg Pl,1612 S Main St & W Pittsburg Pl,36.038531,-95.790945,,,,,0
+5644,MaBAUrba,S Main St&W Urbana St,1808 S Main St & W Urbana St,36.033945,-95.790931,,,,,0
+5645,MaBARich,S Main St&E Richmond St,,36.034783,-95.79093,,,,,0
+5646,MaBAFree,N Main St&W Freeport St,486 N Main St & W Freeport St,36.056334,-95.790882,,,,,0
+5647,PitAdm,N Pittsburg Ave&E Admiral Pl,,36.160544,-95.931525,,,,,0
+5648,QuanEasP,N Quanah Ave&W Easton Pl,504 N Quanah Ave & W Easton Pl (was S Easton Dr),36.159083,-96.007127,,,,,0
+5649,QuanCamr,N Quanah Ave&W Cameron St,122 N Quanah Ave & W Cameron St,36.155091,-96.006659,,,,,0
+5650,QuanArch,N Quanah Ave&W Archer St,131 N Quanah Ave & W Archer St,36.155229,-96.006531,,,,,0
+5651,SherMarP,N Sheridan Rd&E Marshall Pl,1208 N Sheridan Rd & E Marshall Pl,36.171991,-95.904638,,,,,0
+5652,SherEaSt,N Sheridan Rd&E Easton St,601 N Sheridan Rd & E Easton St,36.164544,-95.904473,,,,,0
+5653,SherIndp,N Sheridan Rd&E Independance St,823 N Sheridan Rd & E Independance St,36.166748,-95.904475,,,,,0
+5654,SherIndp,N Sheridan Rd&E Independence St,782 N Sheridan Rd & E Independence St,36.165988,-95.904654,,,,,0
+5655,SherKngP,N Sheridan Rd&E King Pl,1041 N Sheridan Rd & E King Pl,36.169043,-95.904484,,,,,0
+5656,SherLatP,N Sheridan Rd&E Latimer Pl,1104 N Sheridan Rd & E Latimer Pl,36.170336,-95.904651,,,,,0
+5657,SherMrsh,N Sheridan Rd&E Marshall St,1203 N Sheridan Rd & E Marshall St,36.171627,-95.904496,,,,,0
+5658,SherNwtP,N Sheridan Rd&E Newton Pl,1334 N Sheridan Rd & E Newton Pl,36.174193,-95.904658,,,,,0
+5659,SherOkSt,N Sheridan Rd&E Oklahoma St,1425 N Sheridan Rd & E Oklahoma St,36.175395,-95.90449,,,,,0
+5660,SherQuee,N Sheridan Rd&E Queen St,1584 N Sheridan Rd & E Queen St,36.178703,-95.904679,,,,,0
+5661,SherRead,N Sheridan Rd&E Reading St,1713 N Sheridan Rd & E Reading St,36.180088,-95.904502,,,,,0
+5662,SherRead,N Sheridan Rd&E Reading St,1658 N Sheridan Rd & E Reading St,36.179459,-95.904662,,,,,0
+5663,SherTecm,N Sheridan Rd&E Tecumsah St,1907 N Sheridan Rd & E Tecumsah St,36.182241,-95.904499,,,,,0
+5664,SherTecm,N Sheridan Rd&E Tecumseh St,1870 N Sheridan Rd & E Tecumseh St,36.181874,-95.904685,,,,,0
+5665,SherVirg,N Sheridan Rd&E Virgin St,1990 N Sheridan Rd & E Virgin St,36.184142,-95.904687,,,,,0
+5666,SherPine,N Sheridan Rd&E Pine St,1482 N Sheridan Rd & E Pine St,36.176645,-95.904664,,,,,0
+5667,XanPApch,N Xanthus Ave&E Apache St,2578 N Xanthus Ave & E Apache St,36.191205,-95.964386,,,,,0
+5668,XanPWdrC,N Xanthus Ave&E Woodrow Ct,2242 N Xanthus Ave & E Woodrow Ct,36.186472,-95.963586,,,,,0
+5669,XanPYng,N Xanthus Ave&E Young St,2376 N Xanthus Ave & E Young St,36.188211,-95.963512,,,,,0
+5672,BassAlby,Bass Pro Shop,101 E Bass Pro Dr & W Albany St,36.071069,-95.792038,,,,,0
+5674,HL CRSTS,S 101st E Ave&E 81St St S,8801 S 101st E Ave & E 81St St S/UNNAMED St,36.036304,-95.864723,,,,,0
+5675,129a5st,S 129th E Ave&E 5Th St,195 S 129th E Ave & E 5Th St/E 4th St,36.156279,-95.833184,,,,,0
+5676,129a51st,S 129th E Ave&E 51st St S,5051 S 129th E Ave & E 51st St S/W Omaha St,36.091791,-95.833078,,,,,0
+5677,129a7st,S 129th E Ave&E 7th St S,591 S 129th E Ave & E 7th St S,36.152565,-95.833209,,,,,0
+5678,129aStaF,S 129th E Ave&State Farm Blvd,4885 S 129th E Ave & State Farm Blvd,36.094117,-95.833083,,,,,0
+5679,137a21st,S 137th E Ave&E 21st St S,2220 S 137th E Ave & E 21st St S,36.132716,-95.82353,,,,,0
+5680,137aRing,S 137th E Ave&E 24th St S,2382 S 137th E Ave & Ring Rd,36.129153,-95.82367,,,,,0
+5681,137a30Pl,S 137th E Ave&E 30Th Pl S,3130 S 137th E Ave & E 30Th Pl S (was E 31st St),36.119134,-95.823853,,,,,0
+5684,65av8st,Charles Page Blvd & 65th W Ave,806 S 65th W Ave & W 8Th St S,36.147026,-96.06529,,,,,0
+5685,AspnWash,S Aspen Ave&E 91St St,2310 S Aspen Ave/S 145th E Ave & E 91St St S/W Washington St,36.030448,-95.815496,,,,,0
+5686,AspnAust,S Aspen Ave&W Austin,4358 S Aspen Ave/S 145th E Ave & W Austin St,36.007619,-95.815347,,,,,0
+5687,AspnBdWy,S Aspen Ave&W Broadway,S Aspen Ave/S 145th E Ave & W Broadway Ave,36.052575,-95.815201,,,,,0
+5688,AspnCanP,S Aspen Ave&W Canton,S Aspen Ave/S 145th E Ave & W Canton Pl,36.024763,-95.815443,,,,,0
+5689,AspnDlmr,S Aspen Ave&W Delmar,S Aspen Ave/S 145th E Ave & W Delmar St,36.02396,-95.815196,,,,,0
+5690,AspnFtW,S Aspen Ave&W Ft Wort,595 S Aspen Ave/S 145th E Ave & W Ft Worth St,36.049244,-95.815215,,,,,0
+5691,AspnGary,S Aspen Ave/S 145th E Ave&W Gary St,2891 S Aspen Ave/S 145th E Ave & W Gary St,36.021586,-95.815183,,,,,0
+5692,AspnGary,S Aspen Ave&W Gary St,S Aspen Ave/S 145th E Ave & W Gary St,36.021109,-95.815428,,,,,0
+5693,AspnLoBA,S Aspen Ave&W Louisville,1121 S Aspen Ave/S 145th E Ave & W Louisville St,36.0439,-95.815218,,,,,0
+5694,AspnLoBA,S Aspen Ave&W Louisville,1434 S Aspen Ave/S 145th E Ave & W Louisville St,36.042289,-95.815485,,,,,0
+5695,AspnORst,S Aspen Ave&W Oak Rid,S Aspen Ave/S 145th E Ave & W Oak Ridge St,36.039527,-95.815465,,,,,0
+5696,AspnQtco,S Aspen Ave&W Quantico,3783 S Aspen Ave/S 145th E Ave & W Quantico St,36.014581,-95.815221,,,,,0
+5697,AspnQnBA,S Aspen Ave&W Quincy,S Aspen Ave/S 145th E Ave & W Quincy St,36.036999,-95.815461,,,,,0
+5698,AspnToBA,S Aspen Ave&W Toledo,S Aspen Ave/S 145th E Ave & W Toledo St,36.035565,-95.81521,,,,,0
+5699,AspnToBA,S Aspen Ave/S 145th E Ave&W Toledo,1760 S Aspen Ave/S 145th E Ave & W Toledo St,36.03427,-95.815466,,,,,0
+5700,AspnQtco,S Aspen Ave&W Quantico,4046 S Aspen Ave/S 145th E Ave & W Quantico St,36.012961,-95.815341,,,,,0
+5701,AspnWash,S Aspen Ave&W Washington,1859 S Aspen Ave/S 145th E Ave & W Washington St/E 91st St S,36.032659,-95.815176,,,,,0
+5702,AspnHous,S Aspen Ave/S 145th E Ave&W Houston,691 S Aspen Ave/S 145th E Ave & W Houston St/E 81st St S,36.046614,-95.815192,,,,,0
+5703,AspnHous,S Aspen Ave&W Houston,838 S Aspen Ave/S 145th E Ave & W Houston St/E 81st St S,36.045881,-95.815518,,,,,0
+5704,AspnNOrl,S Aspen Ave&W New Orleans,3477 S Aspen Ave/S 145th E Ave & W New Orleans St/E 101st St S,36.01761,-95.815179,,,,,0
+5705,AspnAust,S Aspen Ave&W Austin,4359 S Aspen Ave/S 145th E Ave & W Austin St,36.007622,-95.815223,,,,,0
+5706,AspnVick,S Aspen Ave&W Vicksburg,4261 S Aspen Ave/S 145th E Ave & W Vicksburg Pl,36.009786,-95.815221,,,,,0
+5707,Bld21st,S Boulder Ave&W 21st St S,1801 S Boulder Ave & W 21st St S,36.134424,-95.988855,,,,,0
+5708,Dnvr11st,S Denver Ave&W 11Th St S,1150 S Denver Ave & W 11th St S,36.145389,-95.992409,,,,,0
+5709,Dnvr12st,S Denver Ave&W 12th St S,1181 S Denver Ave & W 12th St S,36.145136,-95.992207,,,,,0
+5710,Dnvr13st,S Denver Ave&W 13th St S,1314 S Denver Ave & W 13th St S,36.143396,-95.992384,,,,,0
+5711,Dnvr14st,S Denver Ave&W 14th St S,1351 S Denver Ave & W 14th St S,36.142926,-95.992217,,,,,0
+5712,Dnvr15st,S Denver Ave&W 15th St S,1471 S Denver Ave & W 15th St S,36.140933,-95.992323,,,,,0
+5713,ElBAQtco,S Elm Pl/S 161st E Ave&W Quantico S,3787 S Elm Pl/S 161st E Ave & W Quantico St Reasors Broken Arrow,36.015358,-95.79728,,,,,0
+5714,ElBAAtSt,S Elm Pl&W Atlanta St,2004 S Elm Pl/S 161st E Ave & W Atlanta St/E 93Rd St S,36.02972,-95.797612,,,,,0
+5715,ElBAAtlC,S Elm Pl&W Atlanta Ct,2005 S Elm Pl/S 161st E Ave & W Atlanta Ct,36.029704,-95.797378,,,,,0
+5716,ElBAFred,S Elm Pl/S 161st E Ave&W Fredricksb,7815 S Elm Pl/S 161st E Ave & W Fredricksburg St,35.976984,-95.797247,,,,,0
+5717,ElBAIthc,S Elm Pl&W Ithaca St,2917 S Elm Pl/S 161st E Ave & W Ithica St,36.022082,-95.797327,,,,,0
+5718,ElBAFuls,S Elm Pl&W Fulton St,2970 S Elm Pl/S 161st E Ave & W Fulton St,36.021664,-95.797578,,,,,0
+5719,ElBANOrl,S Elm Pl&W New Orleans,3351 S Elm Pl/S 161st E Ave & W New Orleans St/E 101st St S,36.018266,-95.797316,,,,,0
+5720,ElBAVaBA,S Elm Pl&W Vandever B,2510 S Elm Pl/S 161st E Ave & W Vandever Blvd,36.026427,-95.797583,,,,,0
+5721,ElBAEdge,S Elm Pl&W Edgewater,2617 S Elm Pl/S 161st E Ave & W Edgewater St,36.02617,-95.797341,,,,,0
+5723,ElBAWash,S Elm Pl&W Washington,1911 S Elm Pl/S 161st E Ave & W Washington St/ E 91st St S,36.031643,-95.797614,,,,,0
+5724,ElBABoBA,S Elm Pl&W Boston St/,2122 S Elm Pl/S 161st E Ave & W Boston St/E 95Th St S,36.028133,-95.79761,,,,,0
+5725,Gntt31st,S Garnett Rd&E 31St St S,3041 S Garnett Rd & E 31St St S,36.119795,-95.850989,,,,,0
+5726,Gntt34st,S Garnett Rd&E 34th St S,,36.114045,-95.850983,,,,,0
+5727,Gntt39st,S Garnett Rd&E 39Th Pl S,3921 S Garnett Rd & E 39Th Pl S,36.107276,-95.850966,,,,,0
+5728,Gntt41st,S Garnett Rd&E 41St St S,4027 S Garnett Rd & E 41St St S,36.105083,-95.850946,,,,,0
+5729,Gntt43st,S Garnett Rd&E 43Rd St S,4414 S Garnett Rd & E 43Rd St S,36.100137,-95.851194,,,,,0
+5730,Gntt11st,S Garnett Rd&E 11th St S,1126 S Garnett Rd & E 11th St S,36.147344,-95.851259,,,,,0
+5731,Gntt11st,S Garnett Rd&E 11th St S,1011 S Garnett Rd & E 11th St S,36.148902,-95.851023,,,,,0
+5732,Gntt16st,S Garnett Rd&E 16th St S,1640 S Garnett Rd & E 16th St S,36.138805,-95.851238,,,,,0
+5733,Gntt17Pl,S Garnett Rd&E 17th Pl S,1810 S Garnett Rd & E 17th Pl S/E 19Th St S,36.135766,-95.851229,,,,,0
+5734,Gntt21st,S Garnett Rd&E 21st St S,2110 S Garnett Rd & E 21st St S,36.133057,-95.851231,,,,,0
+5735,Gntt22st,S Garnett Rd&E 22nd St S,2121 S Garnett Rd & E 22nd St S,36.131592,-95.850996,,,,,0
+5736,Gntt23st,S Garnett Rd&E 23rd St S,2304 S Garnett Rd & E 23rd St S,36.130086,-95.851229,,,,,0
+5737,Gntt23st,S Garnett Rd&E 23rd St S,2305 S Garnett Rd & E 23rd St S,36.130105,-95.850994,,,,,0
+5738,Gntt26st,S Garnett Rd&E 26th St S,2638 S Garnett Rd & E 26th St S,36.126202,-95.85123,,,,,0
+5739,Gntt26st,S Garnett Rd&E 26th St S,2587 S Garnett Rd & E 26th St S,36.126908,-95.850998,,,,,0
+5740,Gntt29st,S Garnett Rd&E 29th St S,2840 S Garnett Rd & E 29th St S,36.12187,-95.851239,,,,,0
+5741,Gntt29st,S Garnett Rd&E 29th St S,2827 S Garnett Rd & E 29th St S,36.121959,-95.851004,,,,,0
+5742,Gntt31st,S Garnett Rd&E 31st St S,3156 S Garnett Rd & E 31st St S,36.118107,-95.851249,,,,,0
+5743,Gntt34st,S Garnett Rd&E 34th St S,3446 S Garnett Rd & E 34th St S,36.112378,-95.851218,,,,,0
+5744,Gntt3st,S Garnett Rd&E 3rd St S,314 S Garnett Rd & E 3rd St S,36.156482,-95.851267,,,,,0
+5745,Gntt3st,S Garnett Rd&E 3rd St S,201 S Garnett Rd & E 3rd St S,36.156843,-95.851102,,,,,0
+5746,Gntt41st,S Garnett Rd&E 41st St S,4120 S Garnett Rd & E 41st St S,36.103852,-95.851205,,,,,0
+5747,Gntt43st,S Garnett Rd&E 43rd St S,4220 S Garnett Rd & E 43rd St S,36.101545,-95.851192,,,,,0
+5748,Gntt7st,S Garnett Rd&E 7th St S,726 S Garnett Rd & E 7th St S,36.150932,-95.85123,,,,,0
+5749,Gntt11st,S Garnett Rd&E 11Th St S,709 S Garnett Rd & E 11Th St S,36.151386,-95.851084,,,,,0
+5750,GnttAdm,S Garnett Rd&E Admiral Pl,39 S Garnett Rd & E Admiral Pl,36.161128,-95.851135,,,,,0
+5751,GnttIndp,S Garnett Rd&E Independence St,S Garnett Rd & E Independence St/E Cameron St,36.165494,-95.851269,,,,,0
+5752,GnttIndp,S Garnett Rd&E Independance St,1020 S Garnett Rd & E Independance St,36.16775,-95.851268,,,,,0
+5753,GnttSkDr,S Garnett Rd&E Skelly Dr,1284 S Garnett Rd & E Skelly Dr,36.143918,-95.85126,,,,,0
+5754,GnttSkDr,S Garnett Rd&E Skelly Dr,1191 S Garnett Rd & E Skelly Dr,36.146302,-95.850978,,,,,0
+5755,GnttCamr,S Garnett Rd&E Cameron St,1011 S Garnett Rd & E Cameron St,36.167562,-95.851066,,,,,0
+5756,Gntt21st,E 21st St S& Garnett,2021 S Garnett Rd & E 21st St S,36.133842,-95.850988,,,,,0
+5757,GiRdAbvd,Charles Page Blvd &S 25Th W Ave,280 S Gilcrease Museum Rd/S 25Th W Ave & W Admiral Blvd,36.153256,-96.020452,,,,,0
+5759,Harv32st,S Harvard Ave&E 32nd St S,3165 S Harvard Ave & E 32nd St S,36.117625,-95.940184,,,,,0
+5760,Harv33st,S Harvard Ave&E 33rd St S,3260 S Harvard Ave & E 33rd St S,36.115528,-95.940353,,,,,0
+5761,Harv33st,S Harvard Ave&E 33rd St S,3281 S Harvard Ave & E 33rd St S,36.115371,-95.940168,,,,,0
+5762,Harv35st,S Harvard Ave&E 35th St S,3467 S Harvard Ave & E 35th St S,36.113605,-95.940159,,,,,0
+5763,Harv36st,S Harvard Ave&E 36th St S,3610 S Harvard Ave & E 36th St S,36.111309,-95.940307,,,,,0
+5764,Harv36st,S Harvard Ave&E 36th St S,3589 S Harvard Ave & E 36th St S,36.111765,-95.94014,,,,,0
+5765,Harv37st,S Harvard Ave&E 37th St S,3685 S Harvard Ave & E 37th St S,36.110049,-95.940156,,,,,0
+5766,Harv38st,S Harvard Ave&E 38th St S,3770 S Harvard Ave & E 38th St S,36.108097,-95.940308,,,,,0
+5767,Harv38st,S Harvard Ave&E 38th St S,3785 S Harvard Ave & E 38th St S,36.108045,-95.940131,,,,,0
+5768,Harv39st,S Harvard Ave&E 39th St S,3873 S Harvard Ave & E 39th St S,36.1069,-95.940133,,,,,0
+5769,Harv41st,E 41st St S&S Harvard Ave,4083 S Harvard Ave & E 41st St S,36.104456,-95.940056,,,,,0
+5770,Harv41st,S Harvard Ave&E 41st St S,4023 S Harvard Ave & E 41st St S,36.105173,-95.940081,,,,,0
+5771,HudGran,S Hudson Ave&S Granite Ave,3857 S Hudson Ave & S Granite Ave,36.107611,-95.91321,,,,,0
+5772,MaBAMas,S Main St&E Mason Dr,1163 S Main St & E Mason Dr,36.041313,-95.790688,,,,,0
+5773,MaBARich,S Main St&E Richmond St,1619 S Main St & E Richmond St,36.038465,-95.790719,,,,,0
+5774,MaBAHous,S Main St&W Houston St,607 S Main St & W Houston St/E 81St St S,36.04731,-95.790685,,,,,0
+5775,MaBAMphs,S Main St&W Memphis St,1102 S Main St & W Memphis St,36.04211,-95.790922,,,,,0
+5776,MaBAWash,S Main St&W Washington St,1861 S Main St & W Washington St/E 91st St S,36.03282,-95.790708,,,,,0
+5777,Mem25Pl,S Memorial Dr&E 25th Pl S,2477 S Memorial Dr & E 25th Pl S,36.12734,-95.886534,,,,,0
+5778,Mem37st,S Memorial Dr&E 37th St S,3685 S Memorial Dr & E 37th St S,36.110542,-95.886446,,,,,0
+5779,Mem17st,S Memorial Dr&E 17th St S,1750 S Memorial Dr & E 17th St S,36.136649,-95.886782,,,,,0
+5780,Mem11st,S Memorial Dr&E 11th St S,1053 S Memorial Dr & E 11th St S,36.148404,-95.886559,,,,,0
+5781,Mem12st,S Memorial Dr&E 12th St S,1187 S Memorial Dr & E 12th St S,36.146395,-95.886538,,,,,0
+5782,Mem14st,S Memorial Dr&E 14th St S,1287 S Memorial Dr & E 14th St S,36.142866,-95.886538,,,,,0
+5783,Mem14st,S Memorial Dr&E 14th St S,1416 S Memorial Dr & E 14th St S,36.142227,-95.886784,,,,,0
+5784,Mem15st,S Memorial Dr&E 15th St S,1475 S Memorial Dr & E 15th St S,36.141096,-95.886535,,,,,0
+5786,Mem16st,S Memorial Dr&E 16th St S,1577 S Memorial Dr & E 16th St S,36.139198,-95.886543,,,,,0
+5787,Mem16st,S Memorial Dr&E 16th St S,1608 S Memorial Dr & E 16th St S,36.138676,-95.886777,,,,,0
+5788,Mem17st,S Memorial Dr&E 17th St S,1685 S Memorial Dr & E 17th St S,36.137378,-95.886546,,,,,0
+5789,Mem21st,S Memorial Dr&E 21St St S,1921 S Memorial Dr & E 21St St S,36.13494,-95.886554,,,,,0
+5790,Mem19st,S Memorial Dr&E 19th St S,1914 S Memorial Dr & E 19th St S,36.135032,-95.886787,,,,,0
+5791,Mem21st,S Memorial Dr&E 21st St S,2136 S Memorial Dr & E 21st St S,36.132783,-95.886807,,,,,0
+5792,Mem22st,S Memorial Dr&E 22nd St S,2241 S Memorial Dr & E 22nd St S,36.131034,-95.886802,,,,,0
+5793,Mem23st,S Memorial Dr&E 23rd St S,2275 S Memorial Dr & E 23rd St S,36.130608,-95.88656,,,,,0
+5794,Mem24st,S Memorial Dr&E 24th St S,2402 S Memorial Dr & E 24th St S,36.128622,-95.886775,,,,,0
+5795,Mem25Pl,S Memorial Dr&E 25th Pl S,2524 S Memorial Dr & E 25th Pl S,36.126747,-95.886764,,,,,0
+5796,Mem27st,S Memorial Dr&E 27th St S,2671 S Memorial Dr & E 27th St S,36.125027,-95.886512,,,,,0
+5797,Mem27st,S Memorial Dr&E 27th St S,2708 S Memorial Dr & E 27th St S,36.124376,-95.886748,,,,,0
+5799,Mem31st,S Memorial Dr&E 31st St S,3118 S Memorial Dr & E 31st St S,36.118183,-95.886721,,,,,0
+5800,Mem32st,S Memorial Dr&E 32Nd St S,,36.116694,-95.88647,,,,,0
+5801,Mem32st,S Memorial Dr&E 32nd St S,,36.116143,-95.886729,,,,,0
+5802,Mem33st,S Memorial Dr&E 33rd St S,3338 S Memorial Dr & E 33rd St S,36.114142,-95.886727,,,,,0
+5803,Mem35st,S Memorial Dr&E 35th St S,3624 S Memorial Dr & E 35th St S,36.11164,-95.886715,,,,,0
+5804,Mem4Pl,S Memorial Dr&E 4Th Pl S,275 S Memorial Dr & E 4Th Pl S,36.157416,-95.886583,,,,,0
+5805,Mem41st,S Memorial Dr&E 41st St S,4055 S Memorial Dr & E 41st St S,36.105128,-95.886454,,,,,0
+5806,Mem40st,S Memorial Dr&E 40th St S,4024 S Memorial Dr & E 40th St S,36.105559,-95.886695,,,,,0
+5807,Mem4Pl,S Memorial Dr&E 4th Pl S,432 S Memorial Dr & E 4th Pl S,36.154817,-95.886821,,,,,0
+5808,Mem5Pl,S Memorial Dr&E 5th Pl S,489 S Memorial Dr & E 5th Pl S,36.153638,-95.886596,,,,,0
+5809,Mem7st,S Memorial Dr&E 7th St S,,36.151885,-95.886595,,,,,0
+5811,Mem9st,S Memorial Dr&E 9th St S,783 S Memorial Dr & E 9th St S,36.15005,-95.886586,,,,,0
+5812,SherAdm,N Sheridan Rd&E Admiral Pl,29 N Sheridan Rd & E Admiral Pl,36.161242,-95.904489,,,,,0
+5814,MemSkDr,S Memorial Dr&E Skelly Dr,,36.120483,-95.886417,,,,,0
+5815,Mem11st,S Memorial Dr&E 11th St S,1118 S Memorial Dr & E 11th St S,36.147582,-95.886803,,,,,0
+5818,Mngo42st,S Mingo Rd&E 42nd St S,4185 S Mingo Rd & E 42nd St S,36.102677,-95.868544,,,,,0
+5819,Mngo44Pl,S Mingo Rd&E 44th Pl S,4353 S Mingo Rd & E 44th Pl S,36.099144,-95.868542,,,,,0
+5820,Mngo45Pl,S Mingo Rd&E 45th Pl S,4432 S Mingo Rd & E 45th Pl S,36.097616,-95.868761,,,,,0
+5821,Mngo47Pl,S Mingo Rd&E 47th Pl S,4641 S Mingo Rd & E 47th Pl S,36.095541,-95.868522,,,,,0
+5822,Peo31st,S Peoria Ave&E 31St St S,3106 S Peoria Ave & E 31St St S,36.118495,-95.97583,,,,,0
+5823,Peo31Pl,S Peoria Ave&E 31st Pl S,3139 S Peoria Ave & E 31st Pl S,36.117647,-95.975649,,,,,0
+5824,Peo32st,S Peoria Ave&E 32nd St S,3171 S Peoria Ave & E 32nd St S,36.116704,-95.975609,,,,,0
+5825,Peo32st,S Peoria Ave&E 32nd St S,3182 S Peoria Ave & E 32nd St S,36.116464,-95.975775,,,,,0
+5826,Peo34st,S Peoria Ave&E 34Th St S,3361 S Peoria Ave & E 34Th St S,36.114486,-95.975416,,,,,0
+5827,Peo33st,S Peoria Ave&E 33rd St S,3261 S Peoria Ave & E 33rd St S,36.115364,-95.975587,,,,,0
+5828,Peo36st,S Peoria Ave&E 36th St S,3565 S Peoria Ave & E 36th St S,36.11206,-95.975589,,,,,0
+5829,Peo36st,S Peoria Ave&E 36th St S,3608 S Peoria Ave & E 36th St S,36.111212,-95.975804,,,,,0
+5830,Peo37st,S Peoria Ave&E 37th St S,3677 S Peoria Ave & E 37th St S,36.110027,-95.975622,,,,,0
+5831,Peo37st,S Peoria Ave&E 37th St S,3710 S Peoria Ave & E 37th St S,36.10939,-95.975821,,,,,0
+5832,Peo38st,S Peoria Ave&E 38th St S,3806 S Peoria Ave & E 38th St S,36.107744,-95.97582,,,,,0
+5833,Peo39st,S Peoria Ave&E 39th St S,3837 S Peoria Ave & E 39th St S,36.106923,-95.975614,,,,,0
+5834,Peo39st,S Peoria Ave&E 39th St S,3910 S Peoria Ave & E 39th St S,36.1059,-95.975827,,,,,0
+5835,Peo41st,E 41st St S&S Peoria Ave,3959 S Peoria Ave & E 41st St S,36.105057,-95.975614,,,,,0
+5836,Sher17st,S Sheridan Rd&E 17th St S,1579 S Sheridan Rd & E 17th St S,36.138843,-95.904492,,,,,0
+5837,Sher17st,S Sheridan Rd&E 17th St S,1734 S Sheridan Rd & E 17th St S,36.137895,-95.904661,,,,,0
+5838,Sher19st,S Sheridan Rd&E 19th St S,1885 S Sheridan Rd & E 19th St S,36.136092,-95.904491,,,,,0
+5839,Sher19st,S Sheridan Rd&E 19th St S,1906 S Sheridan Rd & E 19th St S,36.13587,-95.904658,,,,,0
+5840,Sher21Pl,S Sheridan Rd&E 21st Pl S,2139 S Sheridan Rd & E 21st Pl S,36.131956,-95.904501,,,,,0
+5841,Sher21Pl,S Sheridan Rd&E 21st Pl S,2158 S Sheridan Rd & E 21st Pl S,36.131342,-95.904654,,,,,0
+5842,Sher21st,S Sheridan Rd&E 21st St S,2069 S Sheridan Rd & E 21st St S,36.133796,-95.90448,,,,,0
+5844,Sher23st,S Sheridan Rd&E 23rd St S,2195 S Sheridan Rd & E 23rd St S,36.130119,-95.904493,,,,,0
+5845,Sher24st,S Sheridan Rd&E 24th St S,2361 S Sheridan Rd & E 24th St S,36.129293,-95.904494,,,,,0
+5846,Sher25Pl,S Sheridan Rd&E 25th Pl S,2461 S Sheridan Rd & E 25th Pl S,36.127483,-95.904498,,,,,0
+5847,Sher26Ct,S Sheridan Rd&E 26th Ct S,2599 S Sheridan Rd & E 26th Ct S,36.125199,-95.904494,,,,,0
+5848,Sher28st,S Sheridan Rd&E 28th St S,2821 S Sheridan Rd & E 28th St S,36.122619,-95.904505,,,,,0
+5849,Sher28st,S Sheridan Rd&E 28th St S,2922 S Sheridan Rd & E 28th St S,36.121896,-95.904672,,,,,0
+5850,Sher30st,S Sheridan Rd&E 30th St S,2971 S Sheridan Rd & E 30th St S,36.121423,-95.904476,,,,,0
+5851,Sher31st,S Sheridan Rd&E 31st St S,3069 S Sheridan Rd & E 31st St S,36.11963,-95.904437,,,,,0
+5852,Sher41st,E 41ST ST S&S SHERIDAN RD,4081 S Sheridan Rd & E 41st St S,36.104804,-95.904396,,,,,0
+5853,Sher40st,S Sheridan Rd&E 40Th St S,4006 S Sheridan Rd & E 40Th St S,36.106734,-95.90465,,,,,0
+5854,38stMpwd,E 38th St S&S Maplewood Ave,6266 E 38th St S & S Maplewood Ave,36.109081,-95.905562,,,,,0
+5855,Utic11st,S Utica Ave&E 11th St S,1051 S Utica Ave & E 11th St S,36.148314,-95.96702,,,,,0
+5856,Utic12st,S Utica Ave&E 12th St S,1183 S Utica Ave & E 12th St S,36.146219,-95.967189,,,,,0
+5857,Utic12st,S Utica Ave&E 12th St S,1234 S Utica Ave & E 12th St S,36.145453,-95.967205,,,,,0
+5858,Utic13st,S Utica Ave&E 13th St S,1299 S Utica Ave & E 13th St S,36.144561,-95.967024,,,,,0
+5859,Utic14st,S Utica Ave&E 14th St S,1406 S Utica Ave & E 14th St S,36.142126,-95.967285,,,,,0
+5860,Utic15st,S Utica Ave&E 15th St S,1463 S Utica Ave & E 15th St S,36.141045,-95.967047,,,,,0
+5861,Utic16st,S Utica Ave&E 16th St S,1587 S Utica Ave & E 16th St S,36.139484,-95.967025,,,,,0
+5862,Utic19st,S Utica Ave&E 19th St S,1789 S Utica Ave & E 19th St S,36.135381,-95.967169,,,,,0
+5863,Utic22st,S Utica Ave&E 21st St S,2133 S Utica Ave & E 22Nd St S,36.133201,-95.967045,,,,,0
+5864,Utic19st,S Utica Ave&S 21st St,1998 S Utica Ave & E 19Th St S,36.133397,-95.967378,,,,,0
+5865,Utic22Pl,S Utica Ave&E 22Nd Pl S,2241 S Utica Ave & E 22Nd Pl S,36.130811,-95.967071,,,,,0
+5866,UticTroo,S Utica Ave&S Troost Ave,,36.132643,-95.967241,,,,,0
+5867,UticVict,S Utica Ave&S Victor Ave,2697 S Utica Ave & S Victor Ave/S Terwilleger Blvd/E 27th St S,36.12536,-95.967124,,,,,0
+5868,Utic29st,S Utica Ave&E 29th St S,2883 S Utica Ave & E 29th St S,36.1218,-95.966758,,,,,0
+5869,Utic30Pl,S Utica Ave&E 30th Pl S,3021 S Utica Ave & E 30th Pl S,36.119977,-95.96758,,,,,0
+5870,Utic6st,S Utica Ave&E 6th St S,640 S Utica Ave & E 6th St S,36.151887,-95.967221,,,,,0
+5871,Utic8st,S Utica Ave&E 8th St S,906 S Utica Ave & E 8th St S,36.149393,-95.967132,,,,,0
+5872,UticTroo,S Utica Ave&S Troost Ave,2489 S Utica Ave & S Troost Ave,36.128393,-95.967047,,,,,0
+5873,UticSwan,S Utica Ave&Swan Dr,,36.136669,-95.967151,,,,,0
+5874,UticSwan,S Utica Ave&Swan Dr,,36.13645,-95.967316,,,,,0
+5877,Ya36st,S Yale Ave&E 36th St S,3614 S Yale Ave & E 36th St S,36.111346,-95.922502,,,,,0
+5878,Ya38Pl,S Yale Ave&E 38th Pl S,,36.107781,-95.922231,,,,,0
+5879,Ya41st,S Yale Ave&E 41st St S,4033 S Yale Ave & E 41st St S,36.10513,-95.922231,,,,,0
+5880,Ya41st,S Yale Ave&E 41st St S,4112 S Yale Ave & E 41st St S,36.104224,-95.922464,,,,,0
+5882,81st101a,E 81St St S&S 101st E Ave,,36.045604,-95.863329,,,,,0
+5883,TCCNE FD,N Harvard Ave&E Apache St,,36.194036,-95.938654,,,,,0
+5884,HickIngw,TreeTop Apartments,5001 S Hickory Ave & W Inglewood St,36.000221,-95.800915,,,,,0
+5888,ArptArDr,Tulsa International Airport,UNNAMED ST Tulsa International Airport Terminal & Airport Dr,36.190034,-95.890087,,,,,0
+5890,15Bu,15th & Boulder,131 W 15th St S & S Boulder Ave,36.140684,-95.988809,,,,,0
+5891,15stBld,W 15th St S&S Boulder Ave,80 W 15th St S & S Boulder Ave,36.140555,-95.98825,,,,,0
+5892,15stCars,W 15th St S&S Carson Ave,225 W 15th St S & S Carson Ave,36.140688,-95.990868,,,,,0
+5893,15stDnvr,S Denver Ave&W 15th St S,,36.140556,-95.991728,,,,,0
+5894,21stMa,21st St S&S Main St,5 W 21st St S & S Main St,36.133427,-95.987544,,,,,0
+5895,2stPlaz,E 2nd St&Plaza Ct,361 E 2nd St & Plaza Ct,36.13853,-96.104201,,,,,0
+5897,ArchBld,W Archer St&N Boulder Ave,127 W Archer St & N Boulder Ave,36.156892,-95.994704,,,,,0
+5898,ArchBld,W Archer St&N Boulder Ave,,36.156997,-95.993836,,,,,0
+5899,ArchChey,W Archer St&N Cheyanne Ave,223 W Archer St & N Cheyanne Ave,36.15646,-95.99577,,,,,0
+5900,ArchDnvr,W Archer St&N Denver Ave,270 W Archer St & N Denver Ave,36.156175,-95.996312,,,,,0
+5901,EdUnio,W Edison St&N Union Pl,,36.16138,-96.011916,,,,,0
+5902,EdVncu,W Edison St&N Vancouver Ave,,36.161235,-96.012397,,,,,0
+5903,EdWaco,W Edison St&N Waco Ave,,36.161361,-96.014114,,,,,0
+5904,Ed23av,W Edison St & N 23rd W Ave,2214 W Edison St & N 23rd W Ave (was S),36.161197,-96.017526,,,,,0
+5905,EdXeno,W Edison St&N 23rd W Ave,2247 W Edison St & N Xenophon Ave,36.161312,-96.017846,,,,,0
+5906,JaspPark,W Jasper St&S Park Ave,15529 W Jasper St/E 131st St S & S Park Ave,35.973885,-95.80248,,,,,0
+5907,JaspElBA,W Jasper St&S Elm Pl/S,15791 W Jasper St/E 131st St S & S Elm Pl/S 161St E Ave,35.973884,-95.800151,,,,,0
+5908,JaspShad,W Jasper St&S Shadowood,14799 W Jasper St/E 131st St S & S Shadowood Ave/Pecan Circle,35.973884,-95.8113,,,,,0
+5909,Jasp152a,W Jasper St&S 152Nd E,15113 W Jasper St/E 131st St S & S 152Nd E Ave,35.973901,-95.808727,,,,,0
+5910,Jasp154a,W Jasper St&S 154Th E,15375 W Jasper St/E 131st St S & S 154Th E Ave,35.973886,-95.805128,,,,,0
+5911,NOrlJuni,W New Orleans St&S Juniper,805 W New Orleans St/E 101st St S & S Juniper Ave,36.017299,-95.800349,,,,,0
+5912,NOrlOak,W New Orleans St&S Oak,W New Orleans St/E 101st St S & S Oak Ave,36.017336,-95.808725,,,,,0
+5913,NOrlAspn,W New Orleans St&S Aspen,2151 W New Orleans St/E 101st St S & S Aspen Ave/S 145th E Ave,36.017266,-95.814744,,,,,0
+5914,WashAsh,W Washington St&S Ash Pl,308 W Washington St/E 91st St S & S Ash Pl/S 165Th E Ave,36.031995,-95.793039,,,,,0
+5915,WashDate,W Washington St&S Date,506 W Washington St/E 91st St S & S Date Ave,36.032007,-95.795915,,,,,0
+5916,WashElBA,W Washington St&S Elm Pl,545 W Washington St/E 91st St S & S Elm Pl/ S 161st E Ave,36.031816,-95.796616,,,,,0
+5918,Peo30st,S Peoria Ave&E 30Th St S,3004 S Peoria Ave & E 30Th St S,36.120474,-95.975781,,,,,0
+5919,Harv17st,S Harvard Ave&E 17Th St S,1706 S Harvard Ave & E 17Th St S,36.136786,-95.940475,,,,,0
+5920,2stDet,E 2nd St S&S Detroit Ave,316 E 2nd St S & S Detroit Ave,36.155641,-95.987718,,,,,0
+5923,3stDet,E 3rd St S&S Detroit Ave,,36.154615,-95.987913,,,,,0
+5924,Sher48st,S Sheridan Rd&E 48Th St S,4753 S Sheridan Rd & E 48Th St S,36.094444,-95.904316,,,,,0
+5925,51stDar,E 51st St S&S Darlington Ave,5340 E 51st St S & S Darlington Ave,36.089779,-95.917279,,,,,0
+5926,51stFul,E 51st St S&S Fulton Ave,5467 E 51st St S & S Fulton Ave,36.08995,-95.915846,,,,,0
+5927,51stHarv,E 51st St S&S Harvard Ave,3448 E 51st St S & S Harvard Ave,36.089739,-95.938445,,,,,0
+5928,51stMari,E 51st St S&S Marion Ave,3587 E 51st St S & S Marion Ave,36.089917,-95.937001,,,,,0
+5929,51stHud,E 51st St S&S Hudson Ave,5712 E 51st St S & S Hudson Ave,36.089787,-95.913039,,,,,0
+5930,51stJop,E 51st St S&S Joplin Ave,5914 E 51st St S & S Joplin Ave,36.08979,-95.909098,,,,,0
+5931,51stJop,E 51st St S&S Joplin Ave,5885 E 51st St S & S Joplin Ave,36.089935,-95.909759,,,,,0
+5932,51stOswe,E 51st St S&S Oswego Ave,3909 E 51st St S & S Oswego Ave,36.089898,-95.933015,,,,,0
+5933,51stOswe,E 51st St S&S Oswego Ave,3807 E 51st St S & S Oswego Ave,36.089897,-95.934512,,,,,0
+5934,51stOswe,E 51st St S&S Oswego Ave,3985 E 51st St S & S Oswego Ave,36.089906,-95.931822,,,,,0
+5935,51stRich,E 51st St S&S Richmond Ave,4138 E 51st St S & S Richmond Ave,36.089785,-95.928686,,,,,0
+5937,51stTol,E 51st St S&S Toledo Ave,4389 E 51st St S & S Toledo Ave,36.089921,-95.927304,,,,,0
+5938,51stTol,E 51st St S&S Toledo Ave,4512 E 51st St S & S Toledo Ave,36.089783,-95.926487,,,,,0
+5939,51stVand,E 51st St S&S Vandalia Ave,4675 E 51st St S & S Vandalia Ave/E 50Th St,36.089934,-95.925033,,,,,0
+5940,51stYa,E 51st St S&S Yale Ave,4773 E 51st St S & S Yale Ave,36.089968,-95.923023,,,,,0
+5941,51stRich,E 51st St S&S Richmond Ave,4321 E 51st St S & S Richmond Ave/S Toledo Ave,36.089922,-95.928876,,,,,0
+5942,51stOswe,E 51st St S&S Oswego Ave,3924 E 51st St S & S Oswego Ave,36.089763,-95.932717,,,,,0
+5943,Dnvr3st,S Denver Ave&W 3rd St S,251 S Denver Ave & W 3rd St S,36.152642,-95.994767,,,,,0
+5945,Harv13st,S Harvard Ave&E 13th St S,1289 S Harvard Ave & E 13th St S,36.144383,-95.940258,,,,,0
+5946,Harv22st,S Harvard Ave&E 22nd St S,2129 S Harvard Ave & E 22nd St S,36.132086,-95.940244,,,,,0
+5947,Harv22st,S Harvard Ave&E 22Nd St S,,36.130291,-95.940453,,,,,0
+5948,Harv23st,S Harvard Ave&E 23rd St S,,36.130323,-95.940225,,,,,0
+5949,HarvFloP,S Harvard Ave&S Florence Pl,,36.128828,-95.940407,,,,,0
+5950,Harv25st,S Harvard Ave&E 25th St S,,36.128073,-95.940241,,,,,0
+5951,Harv27st,S Harvard Ave&E 27Th St S,2679 S Harvard Ave & E 27Th St S,36.12459,-95.940195,,,,,0
+5952,Harv28st,S Harvard Ave&E 28Th St S,2775 S Harvard Ave & E 28Th St S,36.122679,-95.940188,,,,,0
+5953,Harv27st,S Harvard Ave&E 27Th St S,2712 S Harvard Ave & E 27Th St S,36.123763,-95.940413,,,,,0
+5954,Harv27Pl,S Harvard Ave&E 27th Pl S,2713 S Harvard Ave & E 27th Pl S,36.12379,-95.940183,,,,,0
+5955,Harv28st,S Harvard Ave&E 28Th St S,2836 S Harvard Ave & E 28Th St S,36.122072,-95.940388,,,,,0
+5956,Harv30st,S Harvard Ave&E 30Th St S,2911 S Harvard Ave & E 30Th St S,36.121468,-95.94019,,,,,0
+5957,Harv30Pl,S Harvard Ave&E 30th Pl S,3015 S Harvard Ave & E 30th Pl S,36.11998,-95.940188,,,,,0
+5959,Harv31st,S Harvard Ave&E 31st St S,3067 S Harvard Ave & E 31st St S,36.119153,-95.940189,,,,,0
+5960,Harv39st,S Harvard Ave&E 39Th St S,3837 S Harvard Ave & E 38Th St S,36.106775,-95.94031,,,,,0
+5961,Harv41st,S Harvard Ave&E 41st St S,4162 S Harvard Ave & E 41st St S,36.103686,-95.94029,,,,,0
+5962,Harv44st,S Harvard Ave&E 44th St S,4377 S Harvard Ave & E 44th St S,36.101753,-95.940117,,,,,0
+5963,Harv44st,S Harvard Ave&E 44th St S,4412 S Harvard Ave & E 44th St S,36.101338,-95.940306,,,,,0
+5964,Harv45st,S Harvard Ave&E 45th St S,4467 S Harvard Ave & E 45th St S,36.100217,-95.94011,,,,,0
+5965,Harv45st,S Harvard Ave&E 45th St S,4510 S Harvard Ave & E 45th St S,36.099285,-95.940249,,,,,0
+5966,Harv49st,S Harvard Ave&E 49Th St S,4715 S Harvard Ave & E 49Th St S,36.094924,-95.940085,,,,,0
+5967,Harv47st,S Harvard Ave&E 47th St S,4708 S Harvard Ave & E 47th St S,36.095034,-95.940243,,,,,0
+5968,HarvSkDr,S Harvard Ave&E Skelly Dr,4961 S Harvard Ave & E Skelly Dr,36.092112,-95.940065,,,,,0
+5969,Harv8st,S Harvard Ave&E 8th St S,801 S Harvard Ave & E 8th St S,36.149946,-95.940304,,,,,0
+5970,Harv5st,S Harvard Ave&E 5Th St S,,36.153581,-95.940439,,,,,0
+5971,Harv11st,S Harvard Ave&E 11th St S,885 S Harvard Ave & E 11th St S,36.148107,-95.940259,,,,,0
+5972,Harv15st,S Harvard Ave&E 15th St S,1485 S Harvard Ave & E 15th St S,36.140805,-95.940272,,,,,0
+5973,Harv15st,S Harvard Ave&E 15th St S,1512 S Harvard Ave & E 15th St S,36.140345,-95.940471,,,,,0
+5974,Harv17st,S Harvard Ave&E 17th St S,1687 S Harvard Ave & E 17th St S,36.137051,-95.940256,,,,,0
+5975,Harv4st,S Harvard Ave&E 4th St S,410 S Harvard Ave & E 4th St S,36.15563,-95.940441,,,,,0
+5976,Harv5Pl,S Harvard Ave&E 5th Pl S,525 S Harvard Ave & E 5th Pl S,36.152893,-95.940285,,,,,0
+5978,Mem37st,S Memorial Dr&E 37th St S,3714 S Memorial Dr & E 37th St S,36.110114,-95.886723,,,,,0
+5979,Mem51st,S Memorial Dr&E 51st St S,5059 S Memorial Dr & E 51st St S,36.09029,-95.886401,,,,,0
+5980,Sher51st,E 51st St S&S Sheridan Ave,5017 S Sheridan Rd & E 51st St S,36.090495,-95.904275,,,,,0
+5981,Sher41st,S Sheridan Rd&E 41st St S,4120 S Sheridan Rd & E 41st St S,36.103879,-95.904646,,,,,0
+5982,Sher42st,S Sheridan Rd&E 42nd St S,4214 S Sheridan Rd & E 42nd St S,36.101744,-95.904619,,,,,0
+5983,Sher42st,S Sheridan Rd&E 42nd St S,4149 S Sheridan Rd & E 42nd St S,36.103164,-95.904387,,,,,0
+5984,Sher44st,S Sheridan Rd&E 44th St S,4355 S Sheridan Rd & E 44th St S,36.100381,-95.904365,,,,,0
+5985,Sher46st,S Sheridan Rd&E 46th St S,4501 S Sheridan Rd & E 46th St S,36.098202,-95.904352,,,,,0
+5986,Sher50st,S Sheridan Rd&E 50th St S,4924 S Sheridan Rd & E 50th St S,36.091156,-95.904507,,,,,0
+5987,Sher46st,S Sheridan Rd&E 46th St S,4616 S Sheridan Rd & E 46th St S,36.096453,-95.904572,,,,,0
+5988,Sher48st,S Sheridan Rd&E 48th St S,4808 S Sheridan Rd & E 48th St S,36.093621,-95.904546,,,,,0
+5989,Ya55Pl,S Yale Ave&E 55th Pl S,5487 S Yale Ave & E 55th Pl S,36.083292,-95.922056,,,,,0
+5990,Ya55Pl,S Yale Ave&E 55th Pl S,5516 S Yale Ave & E 55th Pl S,36.082872,-95.922392,,,,,0
+5991,Ya61st,S Yale Ave&E 61st St S,6061 S Yale Ave & E 61st St S,36.075928,-95.92199,,,,,0
+5992,Ya66st,S Yale Ave&E 66th St S,6583 S Yale Ave & E 66th St S,36.068514,-95.922037,,,,,0
+5993,Ya68st,S Yale Ave&E 68th St S,6732 S Yale Ave & E 68th St S,36.065452,-95.922254,,,,,0
+5994,Ya65st,S Yale Ave&E 65th St,6457 S Yale Ave & E 65th St,36.070477,-95.922041,,,,,0
+5997,Peo65st,N Peoria Ave&E 65Th St N,6464 N Peoria Ave & E 65Th St N,36.247202,-95.975644,,,,,0
+5998,Peo63st,N Peoria Ave & 63rd St N,6268 N Peoria Ave & E 63Th St N,36.245447,-95.97565,,,,,0
+5999,Peo60Pl,N Peoria Ave & 60th St N,6018 N Peoria Ave & E 60Th Pl N,36.241164,-95.975638,,,,,0
+6001,Peo56st,N Peoria Ave & 56th St N,5480 N Peoria Ave & E 56Th St N,36.234333,-95.975651,,,,,0
+6002,Peo54st,N Peoria Ave & 54th St N,5284 N Peoria Ave & E 54Th St N,36.230947,-95.97565,,,,,0
+6004,Peo50Pl,N Peoria Ave&E 50Th Pl N,5038 N Peoria Ave & E 50Th Pl N,36.226633,-95.975662,,,,,0
+6005,Peo50st,N Peoria Ave&E 50Th St N,4974 N Peoria Ave & E 50Th St N,36.225098,-95.975658,,,,,0
+6006,Peo47Pl,N Peoria Ave&E 47Th Pl N,4742 N Peoria Ave & E 47Th Pl N,36.223136,-95.975659,,,,,0
+6007,Peo46st,N Peoria Ave & E 48 th St N,4574 N Peoria Ave & E 46Th St N,36.220126,-95.975692,,,,,0
+6008,Peo46st,N Peoria Ave&E 46Th St N,3858 N Peoria Ave & E 46Th St N,36.20963,-95.975645,,,,,0
+6009,Peo38st,N Peoria Ave&E 38Th St N,3690 N Peoria Ave & E 38Th St N,36.208526,-95.97565,,,,,0
+6010,Peo38st,N Peoria Ave&E 38Th St N,3642 N Peoria Ave & E 38Th St N,36.207121,-95.97566,,,,,0
+6011,Peo36st,N Peoria Ave&E 36Th St N,3588 N Peoria Ave & E 36Th St N,36.205625,-95.975694,,,,,0
+6012,PeoMHKB,N Peoria Ave&Mohawk Blvd,2794 N Peoria Ave & Mohawk Blvd,36.194716,-95.975899,,,,,0
+6013,PeoApch,N Peoria Ave&E Apache St,2600 N Peoria Ave & E Apache St,36.19094,-95.976109,,,,,0
+6016,ArchChey,W Archer St&N Cheyanne Ave,263 W Archer St & N Cheyanne Ave,36.156247,-95.99634,,,,,0
+6017,ArchElw,W Archer St&N Elwood Ave,463 W Archer St & N Elwood Ave,36.155485,-95.998647,,,,,0
+6018,71stElw,W 71St St S&S Elwood Ave,388 W 71St St S & S Elwood Ave,36.060878,-95.993439,,,,,0
+6019,25stNoga,W 25th St S&S Nogales Ave,W 25Rd St S & S Nogales Ave,36.126329,-96.003666,,,,,0
+6020,25stJack,W 25th St S&S Jackson Ave,W 25Rd St S & S Jackson Ave,36.126325,-95.999798,,,,,0
+6021,23stSW,W 23Rd St S&Southwest Blvd,,36.129722,-96.006499,,,,,0
+6022,23stNoga,W 23Rd St S&S Nogales Ave,966 W 23Rd St S & S Nogales Ave,36.129736,-96.002896,,,,,0
+6024,SW25st,W 25th St S&S Jackson Ave,2714 Southwest Blvd & W 25Th St S/UNNAMED St,36.125818,-96.007267,,,,,0
+6025,SW17st,Southwest Blvd&W 17Th St S,1860 Southwest Blvd & W 17Th St S,36.135939,-96.007053,,,,,0
+6026,SW21st,Southwest Blvd&W 21St St S,2108 Southwest Blvd & W 21St St S,36.133203,-96.007085,,,,,0
+6027,SW17st,Southwest Blvd&W 17Th St S,1728 Southwest Blvd & W 17Th St S,36.137299,-96.00704,,,,,0
+6028,YaZur,S Yale Ave&S Zurich Ave,6933 S Yale Ave & S Zurich Ave/E 71St St S,36.062899,-95.921995,,,,,0
+6029,Wh81st,S Wheeling Ave&E 81St St S,7823 S Wheeling Ave & E 81St St S,36.049684,-95.964562,,,,,0
+6030,Wh72st,S Wheeling Ave&E 72Nd St S,7209 S Wheeling Ave & E 72Nd St S,36.058765,-95.963841,,,,,0
+6031,Wh71st,S Wheeling Ave&E 71St St S,7114 S Wheeling Ave & E 71St St S,36.060336,-95.963523,,,,,0
+6032,Wh81st,S Wheeling Ave&E 81St St S,8013 S Wheeling Ave & E 81St St S,36.047428,-95.964187,,,,,0
+6033,Unio61st,S 61st St & Union,6118 S Union Ave & W 61St St S,36.074698,-96.01181,,,,,0
+6034,Peo53st,S Peoria Ave&E 53Rd St S,5133 S Peoria Ave & E 53Rd St S,36.088677,-95.975672,,,,,0
+6035,Peo51st,S Peoria Ave&E 51St St S,5122 S Peoria Ave & E 51St St S,36.088903,-95.975844,,,,,0
+6036,Peo8st,S Peoria Ave&E 8Th St S,657 S Peoria Ave & E 8Th St S,36.150698,-95.975545,,,,,0
+6037,Peo8st,S Peoria Ave&E 8Th St S,832 S Peoria Ave & E 8Th St S,36.150023,-95.975714,,,,,0
+6039,PeoRivD,S Peoria Ave&Riverside Dr,6933 S Peoria Ave & Riverside Dr,36.063446,-95.975728,,,,,0
+6040,Peo68st,S Peoria Ave&E 68Th St S,6862 S Peoria Ave & E 68Th St S,36.063944,-95.975904,,,,,0
+6041,Peo67st,S Peoria Ave&E 67Th St S,6679 S Peoria Ave & E 67Th St S,36.066446,-95.97571,,,,,0
+6042,Peo67st,S Peoria Ave&E 67Th St S,6720 S Peoria Ave & E 67Th St S,36.065779,-95.975862,,,,,0
+6043,Peo61st,S Peoria Ave&E 61St St S,6061 S Peoria Ave & E 61St St S,36.075884,-95.975672,,,,,0
+6044,Peo60st,S Peoria Ave&E 60Th St S,5977 S Peoria Ave & E 60Th St S,36.077287,-95.975729,,,,,0
+6045,Peo60st,S Peoria Ave&E 60Th St S,6012 S Peoria Ave & E 60Th St S,36.076779,-95.975863,,,,,0
+6046,Peo60st,S Peoria Ave&E 60Th St S,5827 S Peoria Ave & E 60Th St S,36.07868,-95.975719,,,,,0
+6047,Peo58st,S Peoria Ave&E 58Th St S,5836 S Peoria Ave & E 58Th St S,36.078521,-95.975864,,,,,0
+6048,Peo57Pl,S Peoria Ave&E 57Th Pl S,5691 S Peoria Ave & E 57Th Pl S,36.079915,-95.975733,,,,,0
+6049,Peo56st,S Peoria Ave&E 56Th St S,5686 S Peoria Ave & E 56Th St S,36.080004,-95.975851,,,,,0
+6050,Peo56st,S Peoria Ave&E 56Th St S,5610 S Peoria Ave & E 56Th St S,36.082201,-95.975882,,,,,0
+6052,Peo55st,S Peoria Ave&E 55Th St S,5510 S Peoria Ave & E 55Th St S,36.083992,-95.975855,,,,,0
+6053,Peo53st,S Peoria Ave&E 53Rd St S,5258 S Peoria Ave & E 53Rd St S,36.086654,-95.97585,,,,,0
+6054,Peo53Pl,S Peoria Ave&E 53Rd Pl S,5275 S Peoria Ave & E 53Rd Pl S,36.086421,-95.975677,,,,,0
+6055,Peo49Pl,S Peoria Ave&E 49Th Pl S,4930 S Peoria Ave & E 49Th Pl S,36.09193,-95.975849,,,,,0
+6056,Peo49Pl,S Peoria Ave&E 49Th Pl S,4913 S Peoria Ave & E 49Th Pl S,36.092543,-95.975642,,,,,0
+6057,Peo51ST,S Peoria Ave&E Skelly Dr,4961 S Peoria Ave & E Skelly Dr,36.09116,-95.975646,,,,,0
+6058,Peo48st,S Peoria Ave&E 48Th St S,4820 S Peoria Ave & E 48Th St S,36.094592,-95.975855,,,,,0
+6059,Peo48st,S Peoria Ave&E 48Th St S,4763 S Peoria Ave & E 48Th St S,36.095633,-95.975632,,,,,0
+6060,Peo45Pl,S Peoria Ave&E 45Th Pl S,4483 S Peoria Ave & E 45Th Pl S,36.09819,-95.975582,,,,,0
+6061,Peo45Pl,S Peoria Ave&E 45Th Pl S,4504 S Peoria Ave & E 45Th Pl S,36.098022,-95.975837,,,,,0
+6062,Peo44Pl,S Peoria Ave&E 44Th Pl S,4441 S Peoria Ave & E 44Th Pl S,36.099114,-95.975629,,,,,0
+6063,Peo43st,S Peoria Ave&E 43Rd St S,4306 S Peoria Ave & E 43Rd St S,36.100434,-95.975837,,,,,0
+6064,Peo43st,S Peoria Ave&E 43Rd St S,4249 S Peoria Ave & E 43Rd St S,36.10124,-95.975615,,,,,0
+6065,Peo39st,S Peoria Ave&E 39Th St S,3958 S Peoria Ave & E 39Th St S,36.104967,-95.975826,,,,,0
+6066,Peo41st,S Peoria Ave&E 41st St S,4108 S Peoria Ave & E 41St St S,36.104013,-95.975831,,,,,0
+6067,Peo41st,S Peoria Ave&E 41St  St S,4121 S Peoria Ave & E 41St  St S,36.103608,-95.975628,,,,,0
+6069,Peo46st,S Peoria Ave&E 46th St S,4680 S Peoria Ave & E 46th St S,36.096292,-95.975845,,,,,0
+6070,Peo36st,S Peoria Ave&E 36Th St S,3573 S Peoria Ave & E 36Th St S,36.112008,-95.97561,,,,,0
+6071,Peo33Pl,S Peoria Ave&E 33Rd Pl S,3360 S Peoria Ave & E 33Rd Pl S,36.114554,-95.975834,,,,,0
+6073,Peo31st,S Peoria Ave&E 31St St S,3085 S Peoria Ave & E 31St St S,36.119064,-95.975621,,,,,0
+6074,Peo2st,S Peoria Ave&E 2Nd St S,167 S Peoria Ave & E 2Nd St S,36.157989,-95.975535,,,,,0
+6075,Peo2st,Peoria & 2nd St S,218 S Peoria Ave & E 2Nd St S,36.157484,-95.97568,,,,,0
+6076,Peo29st,S Peoria Ave&E 29Th St S,2861 S Peoria Ave & E 29Th St S,36.122685,-95.975646,,,,,0
+6077,Peo29Pl,S Peoria Ave&E 29Th Pl S,2924 S Peoria Ave & E 29Th Pl S,36.121756,-95.975747,,,,,0
+6078,Peo26st,S Peoria Ave&E 26Th St S,,36.12697,-95.975723,,,,,0
+6079,Peo25st,S Peoria Ave&E 25Th St S,2481 S Peoria Ave & E 25Th St S,36.128621,-95.975602,,,,,0
+6080,Peo24Pl,S Peoria Ave&E 24Th Pl S,2418 S Peoria Ave & E 24Th Pl S,36.129524,-95.97572,,,,,0
+6081,Peo21st,S Peoria Ave&E 21Th St S,,36.13368,-95.975611,,,,,0
+6082,Peo21Pl,S Peoria Ave&E 21Th Pl S,2195 S Peoria Ave & E 21Th Pl S,36.131653,-95.975612,,,,,0
+6083,Peo21st,S Peoria Ave&E 21St St S,2136 S Peoria Ave & E 21St St S,36.13267,-95.975726,,,,,0
+6084,Peo1st,S Peoria Ave&E 1St St S,118 S Peoria Ave & E 1St St S,36.158472,-95.975711,,,,,0
+6085,Peo18st,S Peoria Ave&E 18Th St S,1810 S Peoria Ave & E 18Th St S,36.135933,-95.975713,,,,,0
+6086,Peo17st,S Peoria Ave&E 17Th St S,1706 S Peoria Ave & E 17Th St S,36.137763,-95.9757,,,,,0
+6087,Peo16st,S Peoria Ave&E 16Th St S,1523 S Peoria Ave & E 16Th St S,36.139718,-95.975521,,,,,0
+6088,Peo15st,S Peoria Ave&E 15Th St S,,36.140872,-95.975554,,,,,0
+6089,Peo15st,S Peoria Ave&E 15Th St S,1506 S Peoria Ave & E 15Th St S,36.14032,-95.975742,,,,,0
+6090,Peo13st,S Peoria Ave&E 13Th St S,1277 S Peoria Ave & E 13Th St S,36.144694,-95.97554,,,,,0
+6091,Peo13st,S Peoria Ave&E 13Th St S,,36.144026,-95.975727,,,,,0
+6092,Peo12st,S Peoria Ave&E 12Th St S,1191 S Peoria Ave & E 12Th St S,36.14613,-95.975528,,,,,0
+6093,Peo12st,S Peoria Ave&E 12Th St S,1190 S Peoria Ave & E 12Th St S,36.14612,-95.975719,,,,,0
+6095,Peo11st,S Peoria Ave&E 11Th St S,,36.1488,-95.975535,,,,,0
+6096,Peo17st,S Peoria Ave&E 17Th St S,1653 S Peoria Ave & E 17Th St S,36.138466,-95.97555,,,,,0
+6097,Peo27Pl,S Peoria Ave&E 27Th Pl S,2711 S Peoria Ave & E 27Th Pl S,36.124523,-95.975622,,,,,0
+6098,Peo26Pl,S Peoria Ave&E 26Th Pl S,,36.126778,-95.975644,,,,,0
+6099,Peo28st,S Peoria Ave&E 28Th St,2802 S Peoria Ave & E 28Th St,36.123561,-95.975764,,,,,0
+6100,NewP66Pl,S Newport Ave&E 66Th Pl S,6699 S Newport Ave & E 66Th Pl S,36.068535,-95.978086,,,,,0
+6101,Mem55st,S Memorial Dr&E 55Th St S,5530 S Memorial Dr & E 55Th St S,36.084762,-95.886645,,,,,0
+6102,Mem87st,S Memorial Dr&E 87Th St S,8549 S Memorial Dr & E 87Th St S,36.041011,-95.88604,,,,,0
+6103,Mem63st,S Memorial Dr&E 63Rd St S,6179 S Memorial Dr & E 63Rd St S,36.073832,-95.886316,,,,,0
+6104,Mem63Pl,S Memorial Dr&E 63Rd Pl S,6363 S Memorial Dr & E 63Rd Pl S,36.071886,-95.886315,,,,,0
+6105,Mem87Ct,S Memorial Dr&E 87Th Ct S,8727 S Memorial Dr & E 87Th Ct S,36.038476,-95.886032,,,,,0
+6106,Mem81st,S Memorial Dr&E 81St St S,8059 S Memorial Dr & E 81St St S,36.047296,-95.886041,,,,,0
+6107,Mem79st,S Memorial Dr&E 79Th St S,7912 S Memorial Dr & E 79Th St S,36.049734,-95.886373,,,,,0
+6108,Mem77Ct,S Memorial Dr&E 77Th Ct S,7715 S Memorial Dr & E 77Th Ct S,36.052714,-95.886068,,,,,0
+6109,Mem76st,S Memorial Dr&E 76Th St S,7612 S Memorial Dr & E 76Th St S,36.053628,-95.886392,,,,,0
+6110,Mem73st,S Memorial Dr&E 73Rd St S,7206 S Memorial Dr & E 73Rd St S,36.058098,-95.886467,,,,,0
+6111,Mem73st,S Memorial Dr&E 73Rd St S,7129 S Memorial Dr & E 73Rd St S,36.059663,-95.886204,,,,,0
+6112,Mem68st,S Memorial Dr&E 68Th St S,6724 S Memorial Dr & E 68Th St S,36.065381,-95.886543,,,,,0
+6113,Mem66st,S Memorial Dr&E 66Th St S,6571 S Memorial Dr & E 66Th St S,36.068228,-95.886311,,,,,0
+6114,Mem65st,S Memorial Dr&E 65Th St S,6481 S Memorial Dr & E 65Th St S,36.069814,-95.886305,,,,,0
+6115,Mem63st,S Memorial Dr&E 63Rd St S,6238 S Memorial Dr & E 63Rd St S,36.073199,-95.886557,,,,,0
+6116,Mem63Pl,S Memorial Dr&E 63Rd Pl S,6414 S Memorial Dr & E 63Rd Pl S,36.071202,-95.886557,,,,,0
+6117,Mem61st,S Memorial Dr&E 61st St S,6118 S Memorial Dr & E 61St St S,36.075017,-95.886559,,,,,0
+6118,Mem60st,S Memorial Dr&E 60Th St S,5981 S Memorial Dr & E 60Th St S,36.077228,-95.886326,,,,,0
+6119,Mem60st,S Memorial Dr&E 60Th St S,6018 S Memorial Dr & E 60Th St S,36.076635,-95.886567,,,,,0
+6120,Mem58st,S Memorial Dr&E 58Th St S,5755 S Memorial Dr & E 58Th St S,36.080647,-95.886366,,,,,0
+6121,Mem58Pl,S Memorial Dr&E 58Th Pl S,5826 S Memorial Dr & E 58Th Pl S,36.078662,-95.886564,,,,,0
+6122,Mem57st,S Memorial Dr&E 57Th St S,5703 S Memorial Dr & E 57Th St S,36.082599,-95.886397,,,,,0
+6123,Mem57st,S Memorial Dr&E 57Th St S,5706 S Memorial Dr & E 57Th St S,36.082344,-95.886626,,,,,0
+6126,Mem51st,S Memorial Dr&E 51St St S,5214 S Memorial Dr & E 51St St S,36.088748,-95.886681,,,,,0
+6127,Mem49st,S Memorial Dr&E 49Th St S,,36.09295,-95.886406,,,,,0
+6128,Mem49st,S Memorial Dr&E 49Th St S,,36.092735,-95.886673,,,,,0
+6129,Mem48st,S Memorial Dr&E 48Th St S,4745 S Memorial Dr & E 48Th St S,36.095126,-95.886431,,,,,0
+6130,Mem46st,S Memorial Dr&E 46Th St S,4620 S Memorial Dr & E 46Th St S,36.09698,-95.886668,,,,,0
+6131,Mem48st,S Memorial Dr&E 48Th St S,4810 S Memorial Dr & E 48Th St S,36.094281,-95.886664,,,,,0
+6132,Mem91st,S Memorial Dr&E 91St St S,8949 S Memorial Dr & E 91St St S,36.034289,-95.886221,,,,,0
+6133,Ma6st,S Main St&W 6Th St S,608 S Main St & W 6Th St S,36.150351,-95.989565,,,,,0
+6134,Ma14st,S Main St&W 14Th St S,1404 S Main St & W 14Th St S,36.142341,-95.987413,,,,,0
+6137,LawtHTW,S Lawton Ave/Southwest Blvd&W Heavy,458 S Lawton Ave/Southwest Blvd & W Heavy Traffic Way,36.14854,-96.000944,,,,,0
+6138,Lew66Pl,S Lewis Ave&E 66Th Pl S,6591 S Lewis Ave & E 66Th Pl S,36.06799,-95.957837,,,,,0
+6139,Lew56Pl,S Lewis Ave&E 56Th Pl S,5593 S Lewis Ave & E 56Th Pl S,36.081669,-95.957891,,,,,0
+6140,Lew45st,S Lewis Ave&E 45Th St S,4481 S Lewis Ave & E 45Th St S,36.099012,-95.957918,,,,,0
+6141,Lew46Pl,S Lewis Ave&E 46Th Pl S,4619 S Lewis Ave & E 46Th Pl S,36.096358,-95.957914,,,,,0
+6142,LewMagn,S Lewis Ave&E Magnolia Dr,8778 S Lewis Ave & E Magnolia Dr,36.036272,-95.954786,,,,,0
+6143,LewMHKB,N Lewis Ave&Mohawk Blvd,3527 N Lewis Ave & Mohawk Blvd,36.205161,-95.958114,,,,,0
+6144,LewTecm,N Lewis Ave&E Tecumseh St,1921 N Lewis Ave & E Tecumseh St,36.18225,-95.958159,,,,,0
+6145,LewSkDr,S Lewis Ave&E Skelly Dr,4959 S Lewis Ave & E Skelly Dr,36.091516,-95.957898,,,,,0
+6146,LewPine,N Lewis & Pine,1515 N Lewis Ave & E Pine St,36.177357,-95.958161,,,,,0
+6147,LewNwtS,N Lewis Ave&E Newton St,1305 N Lewis Ave & E Newton St,36.17372,-95.958174,,,,,0
+6148,LewMHKB,N Lewis Ave&Mohawk Blvd,3464 N Lewis Ave & Mohawk Blvd,36.20445,-95.958291,,,,,0
+6149,LewDaws,N Lewis Ave&Dawson Rd,1183 N Lewis Ave & Dawson Rd,36.171986,-95.958148,,,,,0
+6150,LewIndp,N Lewis Ave&E Independance St,825 N Lewis Ave & E Independance St,36.166526,-95.958101,,,,,0
+6151,LewHskS,N Lewis Ave&E Haskell St,719 N Lewis Ave & E Haskell St,36.164696,-95.958087,,,,,0
+6152,LewArch,N Lewis Ave&E Archer St,131 N Lewis Ave & E Archer St,36.162977,-95.958096,,,,,0
+6153,LewApch,N Lewis Ave&E Apache St,2601 N Lewis Ave & E Apache St,36.191908,-95.958097,,,,,0
+6154,LewApch,N Lewis Ave&E Apache St,2488 N Lewis Ave & E Apache St,36.191184,-95.958314,,,,,0
+6155,LewAdm,N Lewis Ave&E Admiral Pl,67 N Lewis Ave & E Admiral Pl,36.161447,-95.958091,,,,,0
+6156,Lew8st,S Lewis Ave&E 8Th St S,781 S Lewis Ave & E 8Th St S,36.150009,-95.958113,,,,,0
+6158,Lew73st,S Lewis Ave&E 73Rd St S,7298 S Lewis Ave & E 73Rd St S,36.057705,-95.957934,,,,,0
+6159,Lew73st,S Lewis Ave&E 73Rd St S,7480 S Lewis Ave & E 73Rd St S,36.055647,-95.95794,,,,,0
+6160,Lew71st,S Lewis Ave&E 71St St S,7124 S Lewis Ave & E 71St St S,36.060391,-95.957973,,,,,0
+6161,Lew6st,6th St S & Lewis,642 S Lewis Ave & E 6Th St S,36.151258,-95.958285,,,,,0
+6162,Lew69st,S Lewis Ave&E 69Th St S,6954 S Lewis Ave & E 69Th St S,36.062823,-95.957965,,,,,0
+6163,Lew66Pl,S Lewis Ave&E 66Th Pl S,6636 S Lewis Ave & E 66Th Pl S,36.067173,-95.957994,,,,,0
+6164,Lew61st,S Lewis Ave&E 61St St S,6116 S Lewis Ave & E 61St St S,36.074811,-95.958075,,,,,0
+6165,Lew57st,S Lewis Ave&E 57Th St S,5872 S Lewis Ave & E 57Th St S,36.07905,-95.95806,,,,,0
+6166,Lew56Pl,S Lewis Ave&E 56Th Pl S,5614 S Lewis Ave & E 56Th Pl S,36.081279,-95.958034,,,,,0
+6167,Lew52st,S Lewis Ave&E 52Nd St S,5264 S Lewis Ave & E 52Nd St S,36.086487,-95.958054,,,,,0
+6168,Lew51st,S Lewis Ave&E 51Nd St S,5120 S Lewis Ave & E 51St St S,36.089267,-95.958057,,,,,0
+6169,Lew47st,S Lewis Ave&E 47Th St S,4718 S Lewis Ave & E 47Th St S,36.095043,-95.958051,,,,,0
+6170,Lew47Pl,S Lewis Ave&E 47Th Pl S,4781 S Lewis Ave & E 47Th Pl S,36.094526,-95.957905,,,,,0
+6171,Lew45Pl,S Lewis Ave&E 45Th Pl S,4556 S Lewis Ave & E 45Th Pl S,36.097574,-95.958054,,,,,0
+6173,Lew41st,S Lewis Ave&E 41St St S,4071 S Lewis Ave & E 41St St S,36.104554,-95.957878,,,,,0
+6174,Lew39st,S Lewis Ave&E 39Th St S,3891 S Lewis Ave & E 39Th St S,36.106787,-95.958016,,,,,0
+6175,Lew44st,S Lewis Ave&E 44Th St S,4135 S Lewis Ave & E 44Th St S,36.103722,-95.957954,,,,,0
+6177,Lew40st,S Lewis Ave&E 40Th St S,3914 S Lewis Ave & E 40Th St S,36.106523,-95.958073,,,,,0
+6178,Lew38st,S Lewis Ave&E 38Th St S,3779 S Lewis Ave & E 38Th St S,36.108104,-95.957988,,,,,0
+6179,Lew37st,S Lewis Ave&E 37Th St S,3702 S Lewis Ave & E 37Th St S,36.108722,-95.958111,,,,,0
+6180,Lew36st,S Lewis Ave&E 36Th St S,3577 S Lewis Ave & E 36Th St S,36.111868,-95.958034,,,,,0
+6181,Lew36st,S Lewis Ave&E 36Th St S,3608 S Lewis Ave & E 36Th St S,36.111221,-95.958143,,,,,0
+6182,Lew35st,S Lewis Ave&E 35Th St S,3491 S Lewis Ave & E 35Th St S,36.113151,-95.958031,,,,,0
+6183,Lew34st,S Lewis Ave&E 34Th St S,3383 S Lewis Ave & E 34Th St S,36.11446,-95.958081,,,,,0
+6184,Lew34st,S Lewis Ave&E 34Th St S,3426 S Lewis Ave & E 34Th St S,36.11394,-95.958187,,,,,0
+6185,LewMHKB,N Lewis Ave&Mohawk Blvd,3324 N Lewis Ave & Mohawk Blvd,36.202758,-95.95831,,,,,0
+6186,Lew32st,N Lewis Ave&E 32Nd St N,3201 N Lewis Ave & E 32Nd St N,36.200955,-95.958126,,,,,0
+6187,Lew32st,S Lewis Ave&E 32Nd St S,,36.116732,-95.958065,,,,,0
+6188,Lew31st,S Lewis Ave&E 31St St S,3055 S Lewis Ave & E 31St St S,36.119258,-95.958071,,,,,0
+6189,Lew29st,N Lewis Ave&E 29Th St N,2901 N Lewis Ave & E 29Th St N,36.195439,-95.958124,,,,,0
+6190,Lew29Pl,N Lewis Ave&E 29Th Pl N,2904 N Lewis Ave & E 29Th Pl N,36.195663,-95.958296,,,,,0
+6191,Lew30st,S Lewis Ave&E 30Th St S,2907 S Lewis Ave & E 30Th St S,36.121269,-95.9581,,,,,0
+6192,Lew29st,S Lewis Ave&E 29Th St S,2906 S Lewis Ave & E 29Th St S,36.121218,-95.958252,,,,,0
+6193,Lew28st,N Lewis Ave&E 28Th St N,2710 N Lewis Ave & E 28Th St N,36.193436,-95.958298,,,,,0
+6194,Lew27Pl,S Lewis Ave&E 27Th Pl S,2711 S Lewis Ave & E 27Th Pl S,36.12359,-95.958121,,,,,0
+6195,Lew26Pl,S Lewis Ave&E 26Th Pl S,,36.125325,-95.95815,,,,,0
+6196,Lew26Pl,S Lewis Ave&E 26Th Pl S,2628 S Lewis Ave & E 26Th Pl S,36.124898,-95.958269,,,,,0
+6197,Lew25Pl,S Lewis Ave&E 25Th Pl S,,36.127131,-95.958168,,,,,0
+6198,Lew25Pl,S Lewis Ave&E 25Th Pl S,,36.126863,-95.958282,,,,,0
+6199,Lew24st,S Lewis Ave&E 24Th St S,,36.128918,-95.958137,,,,,0
+6200,Lew24st,S Lewis Ave&E 24Th St S,,36.128549,-95.958301,,,,,0
+6201,Lew22Pl,S Lewis Ave&E 22Nd Pl S,2275 S Lewis Ave & E 22Nd Pl S,36.130767,-95.95817,,,,,0
+6202,Lew22Pl,S Lewis Ave&E 22Nd Pl S,,36.130407,-95.95827,,,,,0
+6203,Lew21st,S Lewis Ave&E 21St St S,2059 S Lewis Ave & E 21St St S,36.133566,-95.958173,,,,,0
+6204,Lew20st,S Lewis Ave&E 20Th St S,1965 S Lewis Ave & E 20Th St S,36.134468,-95.958161,,,,,0
+6205,Lew2st,S Lewis Ave&E 2Nd St S,149 S Lewis Ave & E 2Nd St S,36.15811,-95.958047,,,,,0
+6206,Lew19st,S Lewis Ave&E 19Th St S,1910 S Lewis Ave & E 19Th St S,36.134966,-95.958326,,,,,0
+6207,Lew17Pl,S Lewis Ave&E 17Th Pl S,1744 S Lewis Ave & E 17Th Pl S,36.136649,-95.958317,,,,,0
+6208,Lew16st,S Lewis Ave&E 16Th St S,1585 S Lewis Ave & E 16Th St S,36.139011,-95.958161,,,,,0
+6209,Lew15st,S Lewis Ave&E 15Th St S,1516 S Lewis Ave & E 15Th St S,36.140258,-95.958325,,,,,0
+6210,Lew14Pl,S Lewis Ave&E 14Th Pl S,1408 S Lewis Ave & E 14Th Pl S,36.141702,-95.958129,,,,,0
+6211,Lew14Pl,S Lewis Ave&E 14Th Pl S,1440 S Lewis Ave & E 14Th Pl S,36.141399,-95.958294,,,,,0
+6212,Lew13st,S Lewis Ave&E 13Th St S,1340 S Lewis Ave & E 13Th St S,36.143675,-95.958319,,,,,0
+6213,Lew12Pl,S Lewis Ave&E 12Th Pl S,1250 S Lewis Ave & E 12Th Pl S,36.144864,-95.958307,,,,,0
+6214,Lew11st,S Lewis Ave&E 11Th St S,1061 S Lewis Ave & E 11Th St S,36.148139,-95.958123,,,,,0
+6215,Lew11st,S Lewis Ave&E 11Th St S,1120 S Lewis Ave & E 11Th St S,36.147439,-95.958311,,,,,0
+6216,LewDaws,S Lewis Ave&Dawson Rd,1113 S Lewis Ave & Dawson Rd,36.170017,-95.958129,,,,,0
+6217,Lew75st,S Lewis Ave&E 75Th St S,7930 S Lewis Ave & E 75Th St S,36.047776,-95.957975,,,,,0
+6218,Lew75st,S Lewis Ave&E 75Th St S,7844 S Lewis Ave & E 75Th St S,36.049154,-95.95796,,,,,0
+6219,Lew75st,S Lewis Ave&E 75Th St S,7710 S Lewis Ave & E 75Th St S/UNNAMED ST,36.051791,-95.957963,,,,,0
+6220,Lew75st,S Lewis Ave&E 75Th St S,7656 S Lewis Ave & E 75Th St S,36.053183,-95.957977,,,,,0
+6221,LewWdrS,N Lewis Ave&E Woodrow St,2423 N Lewis Ave & E Woodrow St,36.189462,-95.958116,,,,,0
+6222,Lew87st,S Lewis Ave&E 87Th St S,8541 S Lewis Ave & E 87Th St S,36.040147,-95.956852,,,,,0
+6223,Lew55Pl,S Lewis Ave&E 55Th Pl S,5531 S Lewis Ave & E 55Th Pl S,36.083604,-95.957888,,,,,0
+6224,Lew81st,S Lewis Ave&E 81St St S,7693 S Lewis Ave & E 81St St S,36.052224,-95.957681,,,,,0
+6225,Lew81st,S Lewis Ave&E 81St St S,7889 S Lewis Ave & E 81St St S,36.048294,-95.957664,,,,,0
+6226,Lew75st,S Lewis Ave&E 75Th St S,7481 S Lewis Ave & E 75Th St S,36.055662,-95.957763,,,,,0
+6227,Lew73st,S Lewis Ave&E 73Rd St S,7275 S Lewis Ave & E 73Rd St S,36.058094,-95.957765,,,,,0
+6228,Lew71st,S Lewis Ave&E 71St St S,7001 S Lewis Ave & E 71St St S,36.062171,-95.957731,,,,,0
+6229,Lew61st,S Lewis Ave&E 61St St S,6071 S Lewis Ave & E 61St St S,36.075634,-95.957869,,,,,0
+6230,Lew59st,S Lewis Ave&E 59Th St S,,36.079285,-95.957887,,,,,0
+6231,Lew53st,S Lewis Ave&E 53Rd St S,5283 S Lewis Ave & E 53Rd St S,36.086345,-95.957889,,,,,0
+6232,Lew52st,S Lewis Ave&E 52Nd St S,5155 S Lewis Ave & E 52Nd St S,36.08852,-95.957878,,,,,0
+6233,Lew83st,S Lewis Ave&E 83Rd St S,8137 S Lewis Ave & E 83Rd St S,36.043647,-95.957704,,,,,0
+6234,Jack24st,S Jackson Ave&W 24TH St S,2440 S Jackson Ave & W 23Rd St S,36.127273,-95.999511,,,,,0
+6235,Jack23st,S Jackson Ave&W 23Rd St S,2326 S Jackson Ave & W 23Rd St S,36.12936,-95.999528,,,,,0
+6236,Hous4st,S Houston Ave&W 4Th St S,431 S Houston Ave & W 4Th St S,36.149854,-95.998857,,,,,0
+6238,Gntt71st,S Garnett Rd & 73rd St S,S Garnett Rd/S 113Th E Ave & E 71St St S/W Kenosha St,36.059457,-95.85113,,,,,0
+6239,Det10st,S Detroit Ave&E 10Th St S,,36.148521,-95.984166,,,,,0
+6240,Del88st,S Delaware Ave&E 88Th St St,8782 S Delaware Ave & E 88Th St St,36.03653,-95.9489,,,,,0
+6241,Del95st,S Delaware Ave & E 96Th St S,9471 S Delaware Ave/E 96Th St S & E 95Th St S,36.027881,-95.94885,,,,,0
+6242,Del90st,S Delaware Ave&E 90Th St S,8983 S Delaware Ave & E 90Th St S,36.033958,-95.948817,,,,,0
+6243,Cin6st,S Cincinnnati Ave&E 6Th St S,642 S Cincinnnati Ave & E 6Th St S,36.150913,-95.987082,,,,,0
+6244,BLD15THS,BOULDER & 15TH E,S Cheyenne Ave & W 5Th St,36.141117,-95.988388,,,,,0
+6245,Bld5st,5th & Boulder,511 S Boulder Ave & W 5Th St S,36.150976,-95.991065,,,,,0
+6246,Bld12st,S Boulder Ave&W 12Th St S,1171 S Boulder Ave & W 12Th St S,36.145188,-95.988408,,,,,0
+6247,Bld12st,S Boulder Ave&W 12Th St S,1180 S Boulder Ave & W 12Th St S,36.145087,-95.988564,,,,,0
+6249,Bos10st,S Boston Ave&E 10Th St S,929 S Boston Ave & E 10Th St S,36.147803,-95.986592,,,,,0
+6250,81stLew,S 81St St&S Lewis Ave,2017 S 81St St & S Lewis Ave,36.046922,-95.960878,,,,,0
+6251,71stYa,E 71St St S&S Yale Ave,4889 E 71St St S & S Yale Ave,36.060974,-95.923229,,,,,0
+6252,71stRich,E 71St St S&S Richmond Ave,4369 E 71St St S & S Richmond Ave,36.060985,-95.928081,,,,,0
+6253,71stOswe,E 71St St S&S Oswego Ave,3979 E 71St St S & S Oswego Ave/S Pittsburg Ave,36.060997,-95.931827,,,,,0
+6254,71stLew,71st & Lewis,2377 E 71St St S & S Lewis Ave,36.060948,-95.9585,,,,,0
+6255,71stIrvg,E 71St St S&S Irvington Ave,,36.060979,-95.911917,,,,,0
+6256,71stGran,E 71St St S&S Granite Ave,5557 E 71St St S & S Granite Ave,36.060981,-95.914582,,,,,0
+6257,71stFlor,E 71St St S&S Florence Ave,3079 E 71St St S & S Florence Ave/E 71St S,36.060978,-95.943256,,,,,0
+6258,71stEvan,E 71St St S&S Evantston Ave,2875 E 71St St S & S Evantston Ave,36.060972,-95.947134,,,,,0
+6259,71stCant,E 71St St S&S Canton Ave,5115 E 71St St S & S Canton Ave,36.060985,-95.920007,,,,,0
+6260,71stBmPl,E 71St St S&S Birmingham Pl,2593 E 71St St S & S Birmingham Pl,36.060951,-95.953088,,,,,0
+6261,71stColu,S 71St St&S Columbia Ave,2691 S 71St St & S Columbia Ave,36.060959,-95.950329,,,,,0
+6262,66st85av,S 66Th St S&S 85Th E Ave,8371 S 66Th St S & S 85Th E Ave,36.067901,-95.88333,,,,,0
+6263,85stWHRd,S 85Th E Ave&Woodland Hills Rd,6767 S 85Th E Ave & Woodland Hills Rd,36.066144,-95.881551,,,,,0
+6264,66stMem,S 66Th St&S Memorial Dr,8370 S 66Th St & S Memorial Dr,36.067751,-95.883349,,,,,0
+6266,PeoIndp,N Peoria Ave&E Independance St,800 N Peoria Ave & E Independance St,36.16579,-95.975685,,,,,0
+6267,PeoQuee,N Peoria & Queen St,1598 N Peoria Ave & E Queen St,36.178749,-95.975756,,,,,0
+6268,PeoPine,N Peoria Ave&E Pine St,1466 N Peoria Ave & E Pine St,36.176493,-95.975718,,,,,0
+6269,PeoPinP,N Peoria Ave&E Pine Pl,1517 N Peoria Ave & E Pine Pl,36.177438,-95.975441,,,,,0
+6270,PeoLatS,N Peoria Ave&E Latimer St,1066 N Peoria Ave & E Latimer St,36.169409,-95.975695,,,,,0
+6271,PeoPine,N Peoria Ave&E Pine St,1196 N Peoria Ave & E Pine St,36.171567,-95.975668,,,,,0
+6272,PeoKngS,N Peoria Ave&E King St,906 N Peoria Ave & E King St,36.167316,-95.975696,,,,,0
+6273,PeoIndp,N Peoria Ave&E Independence St,855 N Peoria Ave & E Independence St,36.166486,-95.975529,,,,,0
+6274,PeoHskS,N Peoria Ave&E Haskell St,705 N Peoria Ave & E Haskell St,36.164458,-95.975515,,,,,0
+6275,PeoHskS,N Peoria Ave&E Haskell St,566 N Peoria Ave & E Haskell St,36.163927,-95.975676,,,,,0
+6276,PeoAdm,N Peoria Ave&E Admiral Pl,28 N Peoria Ave & E Admiral Pl,36.16051,-95.975666,,,,,0
+6277,Peo61st,N Peoria Ave&E 61St St N,6269 N Peoria Ave & E 61St St N,36.245423,-95.975435,,,,,0
+6278,Peo60st,N Peoria Ave&E 60Th St N,6021 N Peoria Ave & E 60Th St N,36.241224,-95.975475,,,,,0
+6279,Peo56st,N Peoria Ave&E 56Th St N,5639 N Peoria Ave & E 56Th St N,36.235494,-95.97547,,,,,0
+6280,Peo36st,N Peoria Ave&E 36Th St N,3691 N Peoria Ave & E 36Th St N,36.208524,-95.975488,,,,,0
+6281,Peo36st,N Peoria Ave&E 36Th St N,3647 N Peoria Ave & E 36Th St N,36.207371,-95.975479,,,,,0
+6282,Peo33st,N Peoria Ave&E 33Rd St N,3511 N Peoria Ave & E 33Rd St N,36.202755,-95.975472,,,,,0
+6283,PeoEaSt,N Peoria Ave&E Easton St,501 N Peoria Ave & E Easton St,36.163169,-95.975535,,,,,0
+6284,PeoApch,N Peoria Ave&E Apache St,2641 N Peoria Ave & E Apache St,36.191978,-95.975768,,,,,0
+6285,MaOkSt,N Main St&E Oklahoma St,1411 N Main St & E Oklahoma St,36.175489,-95.996776,,,,,0
+6286,MaNwtS,N Main St&E Newton St,1309 N Main St & E Newton St,36.173536,-95.996771,,,,,0
+6287,MaMrsh,N Main St&E Marshall St,1211 N Main St & E Marshall St,36.171739,-95.99676,,,,,0
+6288,MaJasp,N Main St&E Jasper St,905 N Main St & E Jasper St,36.167189,-95.99679,,,,,0
+6289,LewPine,N Lewis Ave&E Pine St,1478 N Lewis Ave & E Pine St,36.176814,-95.958337,,,,,0
+6290,LewArch,N Lewis Ave&E Archer St,94 N Lewis Ave & E Archer St,36.162436,-95.958244,,,,,0
+6291,LewIndp,N Lewis Ave&E Indepedance St,772 N Lewis Ave & E Indepedance St,36.16582,-95.958268,,,,,0
+6292,LewUte,N Lewis Ave&E Ute St,1922 N Lewis Ave & E Ute St,36.182244,-95.958296,,,,,0
+6293,LewRead,N Lewis Ave&E Reading St,1682 N Lewis Ave & E Reading St,36.179422,-95.958287,,,,,0
+6294,LewMrsh,N Lewis Ave&E Marshall St,1182 N Lewis Ave & E Marshall St,36.171977,-95.958304,,,,,0
+6295,LewMrsh,N Lewis Ave&E Marshall St,1108 N Lewis Ave & E Marshall St,36.16986,-95.958272,,,,,0
+6296,LewApch,N Lewis Ave&E Apache St,2410 N Lewis Ave & E Apache St,36.189144,-95.958269,,,,,0
+6297,Hart39st,N Hartford Ave&E 39Th St N,,36.210425,-95.984038,,,,,0
+6298,Hart35st,N Hartford Ave&E 35Th St N,3511 N Hartford Ave & E 35Th St N,36.204622,-95.984564,,,,,0
+6299,Hart36st,N Hartford Ave&E 36Th St N,3713 N Hartford Ave & E 36Th St N,36.206515,-95.984529,,,,,0
+6300,Hart56st,56th St N & Hartford,5593 N Hartford Ave & E 56Th St N/E 54Th Pl N,36.234764,-95.9845,,,,,0
+6301,Hart54st,N Hartford Ave&E 54Th St N,5415 N Hartford Ave & E 54Th St N,36.231798,-95.984489,,,,,0
+6302,Hart52Pl,N Hartford Ave&E 52Nd Pl N,5251 N Hartford Ave & E 52Nd Pl N,36.229991,-95.984498,,,,,0
+6303,Hart51Pl,N Hartford Ave&E 51St Pl N,5121 N Hartford Ave & E 51St Pl N,36.228374,-95.984491,,,,,0
+6304,Hart49st,N Hartford Ave&E 49Th St N,,36.224442,-95.984489,,,,,0
+6305,Hart49Pl,N Hartford Ave&E 49Th Pl N,4951 N Hartford Ave & E 49Th Pl N,36.225961,-95.984464,,,,,0
+6306,Hart43st,N Hartford Ave&E 43Rd St N,4325 N Hartford Ave & E 43Rd St N,36.216855,-95.984408,,,,,0
+6307,Hart42st,N Hartford Ave&E 42Nd St N,,36.214787,-95.984449,,,,,0
+6308,GarrMHKB,Garrison & 27th St N,N Garrison Ave & Mohawk Blvd,36.193367,-95.986679,,,,,0
+6309,Garr27PL,N Garrison Ave&E 27Th Pl N,,36.194806,-95.986706,,,,,0
+6310,DnvrFair,N Denver Ave&W Fairview St,586 N Denver Ave & W Fairview St,36.162126,-95.99954,,,,,0
+6311,DnvrCamr,N Denver Ave&W Cameron St,248 N Denver Ave & W Cameron St,36.157509,-95.997553,,,,,0
+6312,DnvrBrdy,N Denver Ave&W Brady St,,36.156806,-95.997202,,,,,0
+6313,Dnvr7st,S Denver Ave&W 7Th St S,671 S Denver Ave & W 7Th St S,36.148635,-95.992639,,,,,0
+6314,Dnvr7st,S Denver Ave&W 7Th St S,736 S Denver Ave & W 7Th St S,36.148054,-95.992533,,,,,0
+6315,Dnvr6st,S Denver Ave&W 6Th St S,624 S Denver Ave & W 6Th St S,36.149054,-95.993009,,,,,0
+6317,Dnvr2st,S Denver Ave&W 2Nd St S,173 S Denver Ave & W 2Nd St S,36.153391,-95.995194,,,,,0
+6318,Dnvr9st,S Denver Ave&W 9Th St S,940 S Denver Ave & W 9Th St S,36.146409,-95.992364,,,,,0
+6319,CinXylr,Martin Luther King Jr Blvd &E Xyler St,2365 N Cincinnati Ave & E Xyler St,36.187223,-95.993455,,,,,0
+6320,CinUteP,Martin Luther King Jr Blvd &E Ute Pl,N Cincinnati Ave & E Ute Pl,36.183937,-95.993446,,,,,0
+6321,CinApch,Martin Luther King Jr Blvd Ave&E Apache St,2607 N Cincinnati Ave & E Apache St,36.191783,-95.993434,,,,,0
+6323,CinPine,Pine & Martin Luther King Jr Blvd,1527 N Cincinnati Ave & E Pine St,36.177422,-95.993406,,,,,0
+6325,Chey3st,S Cheyenne Ave&W 3Rd St S,354 S Cheyenne Ave & W 3Rd St S,36.152025,-95.993349,,,,,0
+6326,Chey2st,S Cheyenne Ave&W 2Nd St S,226 S Cheyenne Ave & W 2Nd St S,36.153226,-95.99393,,,,,0
+6327,MaJKBchS,W Main St&S Birch St,290 W Main St & S Birch St,36.022526,-95.971923,,,,,0
+6329,MaJKElJ,Main & Elm,542 W Main St & S Elm St,36.022517,-95.975053,,,,,0
+6331,PineMa,E Pine St&N Main St,,36.176885,-95.996509,,,,,0
+6333,88stLew,88th St S & Lewis,2441 E 88Th St S & S Lewis Ave,36.036122,-95.953947,,,,,0
+6334,101a88st,S 101St E Ave&E 88Th St S,8856 S 101St E Ave & E 88Th St S,36.034753,-95.864719,,,,,0
+6337,81stLew,S Lewis Ave&E 81st St S,2297 E 81St St S & S Lewis Ave,36.046494,-95.958502,,,,,0
+6338,81stYork,E 81St St S&S Yorktown Ave,2019 E 81St St S & S Yorktown Ave,36.046501,-95.960773,,,,,0
+6339,7stDet,E 7Th St S&S Detroit Ave,237 E 7Th St S & S Detroit Ave,36.150605,-95.98629,,,,,0
+6341,73stWh,E 73Rd St S&S Wheeling Ave,,36.057646,-95.963448,,,,,0
+6342,71stBmPl,E 71St St S&S Birmingham Pl,2612 E 71St St S & S Birmingham Pl,36.060685,-95.952587,,,,,0
+6343,71st109a,71st St S & 109th E Ave,11022 E 71St St S & S 109Th E Ave,36.060756,-95.854736,,,,,0
+6344,71stYa,E 71St St&S Yale Ave,5020 E 71St St & S Yale Ave,36.0607,-95.921619,,,,,0
+6345,71stWh,E 71St St S&S Wheeling Ave,1953 E 71St St S & S Wheeling Ave/Wallenberg Dr,36.060896,-95.963739,,,,,0
+6346,71stWh,E 71St St S&S Wheeling Ave,2108 E 71St St S & S Wheeling Ave,36.06065,-95.963016,,,,,0
+6347,71stUtic,E 71St St S&S Utica Ave,1718 E 71St St S & S Utica Ave,36.060624,-95.965931,,,,,0
+6348,71stVict,E 71St St S&S Victor Ave,1715 E 71St St S & S Victor Ave,36.060896,-95.96606,,,,,0
+6349,71stTren,E 71St St S&S Trenton Ave,1628 E 71St St S & S Trenton Ave,36.060615,-95.968369,,,,,0
+6350,71stTren,E 71St St S&S Trenton Ave,1587 E 71St St S & S Trenton Ave,36.060871,-95.969392,,,,,0
+6351,71stQuin,E 71St St S&S Quincy Ave,1544 E 71St St S & S Quincy Ave,36.060594,-95.970399,,,,,0
+6352,71stSher,E 71St St S&S Sheridan Rd,6536 E 71St St S & S Sheridan Rd,36.06073,-95.903717,,,,,0
+6353,71stSher,E 71St St S&S Sheridan Rd,6175 E 71St St S & S Sheridan Rd,36.061007,-95.905104,,,,,0
+6354,71stQuin,E 71St St S&S QUINCY AVE,1439 E 71St St S & S Trenton Ave,36.060851,-95.972678,,,,,0
+6355,71stQuin,E 71St St S&S Quincy Ave,1416 E 71St St S & S Quincy Ave,36.060573,-95.973183,,,,,0
+6356,71stMngo,E 71St St S&S Mingo Rd,9637 E 71St St S & S Mingo Rd/S97Th E Ave,36.061066,-95.869296,,,,,0
+6357,71st78av,E 71St St S&S 78Th E Ave,7926 E 71St St S & S 78Th E Ave,36.060726,-95.888201,,,,,0
+6358,71stMem,E 71St St S&S Memorial Dr,,36.060739,-95.885368,,,,,0
+6359,71stLew,E 71St St S&S Lewis Ave,2426 E 71St St S & S Lewis Ave,36.060688,-95.957329,,,,,0
+6360,71stLake,E 71St St S&S Lakewood Ave,6106 E 71St St S & S Lakewood Ave,36.060715,-95.90785,,,,,0
+6361,71stIrvg,E 71St St S&S Irvington Ave,5818 E 71St St S & S Irvington Ave,36.060715,-95.911399,,,,,0
+6362,71stHarv,E 71St St S&S Harvard Ave,,36.060705,-95.939493,,,,,0
+6363,71stGran,E 71St St S&S Granite Ave,5556 E 71St St S & S Granite Ave,36.060697,-95.91459,,,,,0
+6364,71stEvan,E 71St St S&S Evanston Ave,2910 E 71St St S & S Evanston Ave,36.060692,-95.946614,,,,,0
+6365,71stCant,E 71St St S&S Canton Ave,5170 E 71St St S & S Canton Ave,36.060686,-95.918989,,,,,0
+6366,71st92av,E 71St St S&S 92Nd E Ave,9338 E 71St St S & S 92Nd E Ave,36.060785,-95.873337,,,,,0
+6367,71st89av,E 71St St S&S 89Th E Ave,9018 E 71St St S & S 89Th E Ave,36.060771,-95.87738,,,,,0
+6369,71st85av,E 71St St S&S 85Th E Ave,8522 E 71St St S & S 85Th E Ave,36.060742,-95.882028,,,,,0
+6371,71st73av,E 71St St S&S 73Rd E Ave,7652 E 71St St S & S 73Rd E Ave,36.060719,-95.891954,,,,,0
+6372,71st77av,E 71St St S&S 77Th E Ave,7677 E 71St St S & S 77Th E Ave,36.061015,-95.891689,,,,,0
+6374,71st73av,E 71St St S&S 73Rd E Ave,7263 E 71St St S & S 73Rd E Ave,36.061007,-95.895833,,,,,0
+6375,71st70av,E 71St St S&S 70Th E Ave,6985 E 71St St S & S 70Th E Ave/E 71St Ct S,36.060991,-95.89868,,,,,0
+6376,71st69av,E 71St St S&S 69Th E Ave,6914 E 71St St S & S 69Th E Ave,36.060758,-95.900155,,,,,0
+6377,71st101a,E 71St St S&S 101St E Ave,10266 E 71St St S & S 101St E Ave,36.060784,-95.863396,,,,,0
+6378,71st101a,E 71St St S&S 101St E Ave,10085 E 71St St S & S 101St E Ave,36.061051,-95.86386,,,,,0
+6379,71stRivD,E 71St St S&Riverside Dr,1334 E 71St St S & Riverside Dr,36.060557,-95.974849,,,,,0
+6380,71stMem,E 71St St&S Memorial Dr,7891 E 71St St & S Memorial Dr,36.061015,-95.888802,,,,,0
+6381,71st85av,E 71St St&S 85th E Ave,8764 E 71St St & S 85th E Ave,36.060741,-95.879421,,,,,0
+6382,71st69av,E 71St St&S 69th E Ave,6689 E 71St St & S 69th E Ave,36.060998,-95.901885,,,,,0
+6387,7stJack,E 7Th St S&S Jackson Ave,842 E 7Th St S & S Jackson Ave,36.147847,-95.999149,,,,,0
+6388,7stJack,E 7Th St S&S Jackson Ave,873 E 7Th St S & S Jackson Ave,36.147993,-95.999657,,,,,0
+6391,6stCin,E 6Th St S&S Cincinnati Ave,226 E 6Th St S & S Cincinnati Ave,36.151386,-95.98684,,,,,0
+6392,6stBld,W 6Th St&S Boulder Ave,118 W 6Th St & S Boulder Ave,36.149946,-95.990804,,,,,0
+6394,INHOFSB,S Newport Ave&E 66Th Pl S,6674 S Newport Ave & E 66Th Pl S,36.068833,-95.978182,,,,,0
+6396,61stPeo,E 61St St S&S Peoria Ave,1267 E 61St St S & S Peoria Ave,36.075291,-95.976178,,,,,0
+6397,61stNewP,E 61St St S&S Newport Ave,1110 E 61St St S & S Newport Ave,36.075203,-95.977946,,,,,0
+6399,56stFkft,E 56Th St N&N Frankfort Ave,487 E 56Th St N & N Frankfort Ave,36.23501,-95.989562,,,,,0
+6400,4stKeno,E 4Th St S&S Kenosha Ave,820 E 4Th St S & S Kenosha Ave,36.155361,-95.981976,,,,,0
+6401,3stHous,W 3Rd St&S Houston Ave,676 W 3Rd St & S Houston Ave,36.150591,-95.999044,,,,,0
+6402,4stFkft,E 4Th St S&S Frankfort Ave,528 E 4Th St S & S Frankfort Ave,36.154591,-95.98423,,,,,0
+6403,4stElg,E 4Th St S&S Elgin Ave,428 E 4Th St S & S Elgin Ave,36.154114,-95.98549,,,,,0
+6405,3stBos,E 3Rd St S&S Boston Ave,35 E 3Rd St S & S Boston Ave,36.15361,-95.990751,,,,,0
+6406,3stFkft,E 3Rd St S&S Frankfort Ave,473 E 3Rd St S & S Frankfort Ave,36.155474,-95.985528,,,,,0
+6408,3stCin,E 3Rd St S&S Cincinnati Ave,175 E 3Rd St S & S Cincinnati Ave,36.154188,-95.989127,,,,,0
+6409,3stFkft,E 3Rd St S&S Frankfort Ave,526 E 3Rd St S & S Frankfort Ave,36.155525,-95.984871,,,,,0
+6411,32stGarr,E 32Nd St N&N Garrison Ave,,36.200512,-95.985927,,,,,0
+6412,2stGrnw,E 2Nd St S&S Greenwood Ave,626 E 2Nd St S & S Greenwood Ave,36.156846,-95.984137,,,,,0
+6413,2stFkft,E 2Nd St S&S Frankfort Ave,526 E 2Nd St S & S Frankfort Ave,36.156468,-95.985303,,,,,0
+6414,2stBld,E 2Nd St S&S Boulder Ave,58 E 2Nd St S & S Boulder Ave,36.154569,-95.990793,,,,,0
+6415,1stCin,E 1St St S&S Cincinnati Ave,,36.155529,-95.989975,,,,,0
+6416,1stBos,1St St S&S Boston Ave,W 1St St S & S Boston Ave,36.155887,-95.990509,,,,,0
+6417,10stBld,W 10Th St&S Boulder Ave,W 10Th St/W 11Th St & S Boulder Ave,36.146329,-95.988315,,,,,0
+6418,10stDet,E 10Th St S&S Detroit Ave,318 E 10Th St S & S Detroit Ave,36.148015,-95.983456,,,,,0
+6420,10stCinS,E 10Th St S&S Cincinnati Ave,232 E 10Th St S & S Cincinnati Ave,36.147576,-95.984723,,,,,0
+6421,10stCinN,E 10Th St S&S Cincinnati Ave,,36.147315,-95.985986,,,,,0
+6422,10stBos,E 10Th St S&S Boston Ave,,36.14715,-95.986055,,,,,0
+6424,AqJHIEx,Aquarium Dr & Holiday Inn,186 S Aquarium Dr & Aquarium Dr Holiday Inn Express,36.022154,-95.957865,,,,,0
+6425,73st109a,E 73Rd St S&S 109Th E Ave,10753 E 73Rd St S & S 109Th E Ave,36.058822,-95.852904,,,,,0
+6426,PeoVirg,N Peoria Ave&E Virgin St,,36.184934,-95.97578,,,,,0
+6427,PeoLatP,N Peoria Ave&E Latimer Pl,1233 N Peoria Ave & E Latimer Pl,36.172024,-95.975543,,,,,0
+6428,71stElw,W 71St St S&S Elwood Ave,265 W 71St St S & S Elwood Ave,36.060874,-95.990316,,,,,0
+6429,Mem66st,S Memorial Dr&E 66Th St S,6630 S Memorial Dr & E 66Th St S,36.067142,-95.886556,,,,,0
+6430,Lew13st,S Lewis Ave&E 13Th St S,,36.144228,-95.958153,,,,,0
+6431,Lew8st,S Lewis Ave&E 8Th St S,844 S Lewis Ave & E 8Th St S,36.149409,-95.958277,,,,,0
+6433,46stFftP,E 46th st N&N Frankfort Pl,503 E 46th st N & N Frankfort Pl,36.220558,-95.988859,,,,,0
+6434,46stDet,E 46Th St N&N Detroit Ave,,36.220573,-95.991464,,,,,0
+6435,46stBos,E 46Th St N&N Boston Ave,61 E 46Th St N & N Boston Ave,36.220537,-95.995394,,,,,0
+6436,Dnvr47st,N Denver Ave&W 47Th St N,4701 N Denver Ave & W 47Th St N,36.221961,-95.998972,,,,,0
+6437,Dnvr49st,N Denver Ave&W 49Th St N,4811 N Denver Ave & W 49Th St N,36.223464,-95.998942,,,,,0
+6438,49stChey,Denver & 49th St N,174 W 49Th St N & N Cheyenne Ave,36.224173,-95.997759,,,,,0
+6439,Cin54st,Martin Luther King Jr Blvd &E 54Th St N,5284 N Cincinnati Ave & E 54Th St N,36.231089,-95.993597,,,,,0
+6440,46stDetP,E 46th st N&N Detroit Pl,328 E 46th st N & N Detroit Pl,36.22043,-95.990654,,,,,0
+6441,46stFkft,E 46th St N&N Frankfort Ave,506 E 46th St N & N Frankfort Ave,36.220429,-95.988691,,,,,0
+6442,46stGarr,E 46th St N&N Garrison Ave,632 E 46th St N & N Garrison Ave,36.220406,-95.986319,,,,,0
+6444,Hart43st,N Hartford Ave&E 43Rd St N,4284 N Hartford Ave & E 43Rd St N,36.216366,-95.984587,,,,,0
+6445,Hart42st,N Hartford Ave&E 42Nd St N,,36.214283,-95.98463,,,,,0
+6446,Hart39st,N Hartford Ave&E 39Th St N,,36.210006,-95.98448,,,,,0
+6447,Hart39st,N Hartford Ave&E 39Th St N,3704 N Hartford Ave & E 39Th St N,36.206136,-95.984648,,,,,0
+6448,Hart35st,N Hartford Ave&E 35Th St N,3478 N Hartford Ave & E 35Th St N,36.204276,-95.984877,,,,,0
+6449,Hart33st,N Hartford Ave&E 33Th St N,3280 N Hartford Ave & E 33Th St N,36.202417,-95.985154,,,,,0
+6450,Garr32st,N Garrison Ave&E 32Nd St N,3180 N Garrison Ave & E 32Nd St N,36.20018,-95.986369,,,,,0
+6451,Garr30st,N Garrison Ave&E 30Th St N,2884 N Garrison Ave & E 30Th St N,36.196648,-95.986864,,,,,0
+6452,Garr27Ct,Garrison & 27th St N,N Garrison Ave & E 27Th Ct  N,36.194675,-95.986863,,,,,0
+6453,Garr27Pl,N Garrison Ave&E 27Th Pl N,,36.193285,-95.986833,,,,,0
+6454,MHKBGarr,Mohawk Blvd&N Garrison Ave,507 Mohawk Blvd & N Garrison Ave,36.192606,-95.988906,,,,,0
+6455,CinMHKB,Martin Luther King Jr Blvd&Mohawk Blvd,2612 N Cincinnati Ave & Mohawk Blvd,36.191931,-95.993601,,,,,0
+6456,CinApch,Martin Luther King Jr Blvd&E Apache St,2572 N Cincinnati Ave & E Apache St,36.190977,-95.993609,,,,,0
+6457,CinZion,Martin Luther King Jr Blvd&E Zion St,2486 N Cincinnati Ave & E Zion St,36.189349,-95.99361,,,,,0
+6458,CinUteP,Martin Luther King Jr Blvd&E Ute Pl,1930 N Cincinnati Ave & E Ute Pl,36.183231,-95.993579,,,,,0
+6460,MaOkSt,N Main St&W Oklahoma St,1390 N Main St & W Oklahoma St,36.175179,-95.996933,,,,,0
+6461,MaNwtS,N Main St&W Newton St,1288 N Main St & W Newton St,36.173129,-95.996936,,,,,0
+6462,MaMrsh,N Main St&W Marshal St,1190 N Main St & W Marshal St,36.171269,-95.996934,,,,,0
+6463,MaMrsh,N Main St&W Marshall St,1102 N Main St & W Marshall St,36.168925,-95.996934,,,,,0
+6464,MaJasp,N Main St&W Jasper St,884 N Main St & W Jasper St,36.166786,-95.996933,,,,,0
+6465,MaHask,N Main St&W Haskell Pl,726 N Main St & W Haskell Pl,36.165036,-95.99696,,,,,0
+6466,CinQuee,Martin Luther King Jr Blvd&E Queen St,1582 N Cincinnati Ave & E Queen St,36.178476,-95.993638,,,,,0
+6468,Cin58st,Martin Luther King Jr Blvd &E 58th St N,5770 N Cincinnati Ave & E 58th St N,36.237904,-95.993611,,,,,0
+6469,56stFkft,E 56th St N&N Frankfort Ave,,36.234911,-95.987715,,,,,0
+6470,Hart56st,56th St N & Hartford,5580 N Hartford Ave & E 56th St N,36.234578,-95.984599,,,,,0
+6471,Hart52Pl,N Hartford Ave&E 52Nd Pl N,5214 N Hartford Ave & E 52Nd Pl N,36.22935,-95.984581,,,,,0
+6473,Hart49Pl,N Hartford Ave&E 49Th Pl N,,36.225666,-95.984582,,,,,0
+6474,49stMa,49th St N & Main St,1 W/E 49Th St N & N Main St,36.224257,-95.996092,,,,,0
+6475,Dnvr48st,N Denver Ave&W 48th St N,4782 N Denver Ave & W 48th St N,36.223209,-95.999039,,,,,0
+6476,46stChey,W 46th St N&N Cheyenne Ave,,36.220444,-95.997825,,,,,0
+6496,PeoVirg,Peoria & Virgin,2046 N Peoria Ave & E Virgin St,36.183771,-95.976096,,,,,0
+6497,PeoSemP,N Peoria Ave&E Seminole Pl,1722 N Peoria Ave & E Seminole Pl,36.180371,-95.975973,,,,,0
+6499,Asp/Ken,W Kenosha St&N Aspen Av,S 145TH EAST AVE & W GREELEY ST,36.060814,-95.815339,,,,,0
+6500,THillW,Tulsa Hills Shopping Center,,36.0562,-96.004478,,,,,0
+6501,41stYaOU,41st & Yale-OU Schusterman Center,AMOCO RD & E 41ST ST S,36.103141,-95.92565,,,,,0
+6502,65stQuak,65th St N &  Quaker Ave,N QUAKER AVE & E 65TH ST N,36.248092,-95.974073,,,,,0
+6503,OU41stYa,41st & Yale-OU Schusterman Center,S YALE AVE & E 47TH ST S,36.102755,-95.925531,,,,,0
+6507,Insp chr,Indian Springs Church,S 161ST EAST AVE & S ELM PL,35.976775,-95.797091,,,,,0
+6508,7stjack,W. 7th st s & S Jackson Ave,W 7TH ST S & S JACKSON AVE,36.147909,-95.999792,,,,,0
+6509,49stUnio,S Union Ave&W 49Th St S,S UNION AVE W & W 48TH ST S,36.092498,-96.011663,,,,,0
+6510,51st33rd,S 51st S & 33rd W Ave,W 51ST ST S & S 32ND WEST AVE,36.090231,-96.029637,,,,,0
+6511,61st33rd,33rd W Ave. & S 61st St,,36.07525,-96.029866,,,,,0
+6512,33av61st,S 33rd W Ave & W 61st st S,S 33RD WEST AVE & W 59TH ST S,36.075519,-96.029587,,,,,0
+6513,51st33av,51st St S & 33rd W Ave,W 51ST ST S & S 33RD WEST AVE,36.089826,-96.028921,,,,,0
+6514,UniW49st,W 49th ST S& S UNION AVE,S UNION AVE W & W 48TH ST S,36.092775,-96.011597,,,,,0
+6515,Unio66st,S Union Ave&W 66Th St S,6563 S Union Ave & W 66Th St S,36.06854,-96.011608,,,,,0
+6516,Unio63st,S Union Ave&W 63Rd St S,6273 S Union Ave & W 63Rd St S,36.071372,-96.011621,,,,,0
+6517,Unio62st,S Union Ave&W 62Nd St S,6195 S Union Ave & W 62Nd St S,36.072465,-96.011623,,,,,0
+6518,Unio61st,S Union Ave&W 61St St S,5917 S Union Ave & W 61St St S,36.077783,-96.0116,,,,,0
+6519,Unio53st,S Union Ave&W 53Rd St S,5225 S Union Ave & W 53Rd St S,36.087497,-96.011603,,,,,0
+6520,Unio41st,S 41st St & Union,4039 S Union Ave & W 41St St S,36.104933,-96.011544,,,,,0
+6521,UniP37pl,S Union Pl W&W 37Th Pl,3723 S Union Pl W & W 37Th Pl,36.108921,-96.011897,,,,,0
+6522,SW35st,Southwest Blvd&W 35Th St S,3341 Southwest Blvd & W 35Th S S,36.11416,-96.009021,,,,,0
+6523,SW31st,Southwest Blvd&W 31St St S,3071 Southwest Blvd & W 31St St S,36.118976,-96.007047,,,,,0
+6526,SWGWN,SOUTHWEST BLVD & GOODWILL NORTHBOUN,,36.121523,-96.006761,,,,,0
+6529,25stSW,W 25Th St S&Southwest Blvd,1206 W 25Th St S & Southwest Blvd,36.126203,-96.006541,,,,,0
+6530,25stNoga,W 25Th St S&S Nogales Ave,876 W 25Th St S & S Nogales Ave,36.126229,-96.001578,,,,,0
+6531,Jack25st,S Jackson Ave&W 25Th St S,2363 S Jackson Ave & W 25Th St S,36.128634,-95.999392,,,,,0
+6532,23stJack,W 23Rd St S&S Jackson Ave,731 W 23Rd St S & S Jackson Ave,36.129914,-95.99986,,,,,0
+6533,23stMayb,W 23Rd St S&S Maybelle Ave,905 W 23Rd St S & S Maybelle Ave,36.129922,-96.002178,,,,,0
+6534,23stNoga,W 23Rd St S&S Nogales Ave,1065 W 23Rd St S & S Nogales Ave,36.129933,-96.00444,,,,,0
+6535,23stOlym,W 23Rd St S&S Olympia Ave,1165 W 23Rd St S & S Olympia Ave,36.129926,-96.005424,,,,,0
+6536,SW23st,Southwest Blvd&W 23Rd St S,2225 Southwest Blvd & W 23Rd St S,36.130515,-96.006843,,,,,0
+6537,SW21st,Southwest Blvd&W 21St St S,2047 Southwest Blvd & W 21St St S,36.133706,-96.006856,,,,,0
+6538,SW19st,Southwest Blvd&W 19th St S,1725 Southwest Blvd & W 19th St S,36.136162,-96.006886,,,,,0
+6539,SW17st,Southwest Blvd&W 17Th St S,1683 Southwest Blvd & W 17Th St S,36.137933,-96.006834,,,,,0
+6540,SWunkn,Southwest Blvd& 16th St S,1583 Southwest Blvd & unknown,36.139906,-96.006835,,,,,0
+6545,19stSW,W 19Th St S&Southwest Blvd,1266 W 19Th St S & Southwest Blvd,36.135562,-96.006582,,,,,0
+6546,SWGood,Southwest Blvd&Goodwill Industries,2800 Southwest Blvd & Goodwill Industries,36.12138,-96.00728,,,,,0
+6547,SW35st,Southwest Blvd&W 35Th St S,3510 Southwest Blvd & W 35Th St S,36.113099,-96.009886,,,,,0
+6548,UniPSW,S Union Pl&Southwest Blvd,3726 S Union Pl & Southwest Blvd,36.108873,-96.01205,,,,,0
+6549,Unio40st,S Union Ave&W 40Th St S,4030 S Union Ave & W 40Th St S,36.105059,-96.011652,,,,,0
+6550,Unio48st,S Union Ave&W 48Th St S,4806 S Union Ave & W 48Th St S,36.093188,-96.011728,,,,,0
+6551,Unio58st,S Union Ave&W 58Th St S,5846 S Union Ave & W 58Th St S,36.078283,-96.011771,,,,,0
+6552,Unio61st,S Union Ave&W 61St St S,6146 S Union Ave & W 61St St S,36.074694,-96.011826,,,,,0
+6553,Unio62st,S Union Ave&W 62Nd St S,6220 S Union Ave & W 62Nd St S,36.072032,-96.011768,,,,,0
+6554,Unio63st,S Union Ave&W 63Rd St S,6318 S Union Ave & W 63Rd St S,36.070948,-96.011766,,,,,0
+6555,Unio66st,S Union Ave&W 66Th St S,6618 S Union Ave & W 66Th St S,36.068009,-96.011763,,,,,0
+6556,Olym81st,S Olympia Ave&W 81St St S,,36.048911,-96.004726,,,,,0
+6558,33av61st,33rd W Ave. & S 61st St,3347 S 33Rd W Ave & W 61St St S,36.075471,-96.030142,,,,,0
+6559,41av56st,S 41St W Ave&W 56Th St S,5626 S 41St W Ave & W 56Th St S,36.081478,-96.038593,,,,,0
+6560,57st57av,W 57Th St S&S 57Th W Ave,3940 W 57Th St S & S 57Th W Ave,36.080783,-96.036185,,,,,0
+6561,57st37av,W 57Th St S&S 37Th W Ave,3588 W 57Th St S & S 37Th W Ave,36.080802,-96.03386,,,,,0
+6562,57st35av,W 57Th St S&S 35Th W Ave,3362 W 57Th St S & S 35Th W Ave,36.080786,-96.031775,,,,,0
+6563,51st33av,S 51st St & 33rd W Ave,,36.090575,-96.029361,,,,,0
+6564,51st30av,W 51St St S&S 30Th W Ave,3000 W 51St St S & S 30Th W Ave,36.08982,-96.026337,,,,,0
+6565,51st26av,W 51St St S&S 26Th W Ave,2520 W 51St St S & S 26Th W Ave,36.089803,-96.021646,,,,,0
+6568,SW43pl,Southwest Blvd&W 43Rd Pl S,4285 Southwest Blvd & W 43Rd Pl S,36.101976,-96.026671,,,,,0
+6574,33av45st,S 33Rd W Ave&W 45Th St S,4416 S 33Rd W Ave & W 45Th St S,36.098842,-96.029621,,,,,0
+6577,51st27av,W 51St St S&S 27Th W Ave,2735 W 51St St S & S 27Th W Ave,36.089917,-96.02383,,,,,0
+6578,51st31av,W 51St St S&S 31St W Ave,3105 W 51St St S & S 31St W Ave,36.089945,-96.027612,,,,,0
+6580,33av45st,S 33Rd W Ave&W 45Th St S,4407 S 33Rd W Ave & W 45Th St S,36.099466,-96.02943,,,,,0
+6582,57st38av,W 57Th St S&S 38Th W Ave,3845 W 57Th St S & S 38Th W Ave,36.080863,-96.035578,,,,,0
+6583,41av56pl,S 41St W Ave&W 56Th Pl S,5601 S 41St W Ave & W 56Th Pl S,36.082541,-96.038483,,,,,0
+6584,QT 49,Southwest Blvd Quik Trip,6002 S 49Th W Ave & W 60Th St S,36.077005,-96.047632,,,,,0
+6586,61st29av,W 61St St S&S 29Th W Ave,3082 W 61St St S & S 29Th W Ave,36.075284,-96.02489,,,,,0
+6587,FLAG1,E 3RD ST S&S PEORIA AVE,,36.156745,-95.975881,,,,,0
+6588,FLAG2,E 21ST ST S&S 103RD E AVE,E 21ST ST S & S 103RD EAST AVE,36.133356,-95.862221,,,,,0
+6589,FLAG3,E CHARLES PAGE BLVD&S ADAMS RD,E CHARLES PAGE BLVD & S 103RD EAST AVE,36.13778,-96.097926,,,,,0
+6592,FLAG6,E PINE ST&N MINGO RD,,36.177082,-95.868801,,,,,0
+6593,FLAG7,E PINE ST&N MINGO RD,,36.176984,-95.86861,,,,,0
+6594,FLAG8,S 101ST E AVE&SOUTHCREST,,36.036305,-95.86472,,,,,0
+6595,FLAG9,S 101ST E AVE&E 88TH ST,,36.034753,-95.864719,,,,,0
+6596,FLAG10,W ARCHER ST&N DENVER AVE,W ARCHER ST & N ELWOOD AVE,36.156087,-95.996752,,,,,0
+6597,FLAG11,W ARCHER ST&N DENVER AVE,W ARCHER ST & N ELWOOD AVE,36.156052,-95.996729,,,,,0
+6599,FLAG13,S GARNETT RD&E 71ST ST S,S 113TH EAST AVE & S GARNETT RD,36.060809,-95.851029,,,,,0
+6604,FLAG18,E PINE S&N PEORIA AVE,E PINE ST & N OWASSO AVE,36.176943,-95.975877,,,,,0
+6605,FLAG19,E 41ST ST S&S SHERIDAN RD,E 41ST ST S & S 68TH EAST AVE,36.104467,-95.9041,,,,,0
+6608,FLAG22,Martin Luther King Jr Blvd&E VIRGIN ST,N CINCINNATI AVE & E VIRGIN ST,36.184204,-95.993576,,,,,0
+6609,FLAG23,W 51ST ST S&S UNION AVE,W 51ST ST S & S TACOMA AVE W,36.08982,-96.01154,,,,,0
+6610,FLAG24,W 51ST ST S& S UNION AVE,W 51ST ST S & S TACOMA AVE W,36.089784,-96.01154,,,,,0
+6611,FLAG25,E VIRGIN ST&N FRANKFORT AVE,,36.184171,-95.988975,,,,,0
+6612,FLAG26,E VIRGIN ST&&NFRANKFORT AVE,E VIRGIN ST & N FRANKFORT AVE,36.184242,-95.988975,,,,,0
+6613,FLAG27,E PINE ST&N MINGO RD,,36.177002,-95.868621,,,,,0
+6615,FLAG29,SOUTHWEST BLVD&W 23RD ST S,SOUTHWEST BLVD & W 22ND PL S,36.129845,-96.007019,,,,,0
+6616,FLAG30,E 51ST ST S&S YALE AVE,,36.089781,-95.922012,,,,,0
+6617,FLAG31,E 71ST ST S&S MINGO RD,E 71ST ST S & S 97TH EAST AVE,36.060884,-95.868437,,,,,0
+6618,FLAG32,2nd & Adams Rd,E 2ND ST & N ADAMS RD,36.13842,-96.101383,,,,,0
+6619,FLAG33,2nd & Adams Rd,E 2ND ST & N ADAMS RD,36.138483,-96.101372,,,,,0
+6620,FLAG34,S GARNETT RD&E ADMIRAL PL,E ADMIRAL PL & s. GARNETT,36.160757,-95.851221,,,,,0
+6621,FLAG41,S Garnett Rd&E Admiral St,S GARNETT RD & E ADMIRAL PL,36.160525,-95.851153,,,,,0
+6622,FLAG42,E ADMIRAL PL&N MINGO RD,E ADMIRAL PL & N 93RD EAST AVE,36.160749,-95.870076,,,,,0
+6623,FLAG43,E ADMIRAL PL&S MINGO RD,E ADMIRAL PL & N 93RD EAST AVE,36.16069,-95.867283,,,,,0
+6624,FLAG41,E 21ST ST S&S 101ST E AVE,E 21ST ST S & S 99TH EAST AVE,36.133549,-95.864632,,,,,0
+6625,FLAG40,E 21ST ST S&S 101ST E AVE,E 21ST ST S & S 101ST EAST AVE,36.133371,-95.864419,,,,,0
+6626,FLAG38,E PINE ST&N UTICA AVE,,36.177061,-95.96725,,,,,0
+6627,FLAG39,E PINE ST&N UTICA AVE,,36.176999,-95.967104,,,,,0
+6628,FLAG37,E PINE ST&N HARVARD AVE,,36.177127,-95.940357,,,,,0
+6629,FLAG44,W EDISON ST&N 41ST W AVE,W EDISON ST & N 42ND WEST AVE,36.161164,-96.038275,,,,,0
+6630,FLAG44,W EDISON ST&N 41ST W AVE,W EDISON ST & N 42ND WEST AVE,36.161092,-96.038274,,,,,0
+6631,FLAG36,E 46TH ST N&Martin Luther King Jr Blvd,E 46TH ST N & N CINCINNATI PL,36.220438,-95.993381,,,,,0
+6632,FLAG45,E 46TH ST N&Martin Luther King Jr Blvd,E 46TH ST N & N CINCINNATI AVE,36.220518,-95.99355,,,,,0
+6633,FLAG35,E 49TH ST N& Martin Luther King Jr Blvd,E 49TH ST N & N CINCINNATI AVE,36.224232,-95.993598,,,,,0
+6634,FLAG46,E 49TH ST N&Martin Luther King Jr Blvd,E 49TH ST N & N CINCINNATI AVE,36.224161,-95.993598,,,,,0
+6636,FLAG48,E 63RD ST N& Martin Luther King Jr Blvd,E 63RD ST N & N CINCINNATI AVE,36.244929,-95.993578,,,,,0
+6637,FLAG49,65th St N & Elwood,N ELWOOD AVE & W 64TH PL N,36.248216,-96.000239,,,,,0
+6638,COLU41ST,Columbia & 41st St N,N COLUMBIA AVE & E 41ST ST N,36.212936,-95.951405,,,,,0
+6639,DBAY1,DAS BAY 01,319 S DENVER AVE,36.151795,-95.993314,,,,,0
+6640,DBAY2,DAS BAY 2,319 S DENVER AVE,36.151727,-95.993501,,,,,0
+6641,DBAY3,DAS BAY 03,319 S DENVER AVE,36.151663,-95.99369,,,,,0
+6642,DBAY4,DAS BAY 04,319 S DENVER AVE,36.151617,-95.993882,,,,,0
+6643,DBAY5,DAS BAY 05,319 S DENVER AVE,36.151675,-95.99403,,,,,0
+6644,DBAY6,DAS BAY 06,319 S DENVER AVE,36.151782,-95.994092,,,,,0
+6645,DBAY7,DAS BAY 07,319 S DENVER AVE,36.151899,-95.994013,,,,,0
+6646,DBAY8,DAS BAY 8,319 S DENVER AVE,36.151996,-95.993864,,,,,0
+6647,DBAY9,DAS BAY9,319 S DENVER AVE,36.152059,-95.993678,,,,,0
+6648,DBAY10,DAS BAY 10,319 S DENVER AVE,36.152124,-95.993492,,,,,0
+6649,MMS1,MMS BAY 01,7952 E 33RD ST S,36.114059,-95.888785,,,,,0
+6650,MBAY2,MMS Bay2,7952 E 33RD ST S,36.113915,-95.888784,,,,,0
+6651,MMS3,MMS BAY 03,7952 E 33RD ST S,36.113752,-95.888783,,,,,0
+6652,MMS4,MMS BAY 04,7952 E 33RD ST S,36.113755,-95.888971,,,,,0
+6653,MMS5,MMS BAY 05,7952 E 33RD ST S,36.113918,-95.888974,,,,,0
+6654,MBAY6,MMS BAY 06,7952 E 33RD ST S,36.114062,-95.888976,,,,,0
+6655,MMS 07,MMS BAY 07,7952 E 33RD ST S,36.114062,-95.889147,,,,,0
+6656,MBAY8,MMS Bay8,7952 E 33RD ST S,36.113889,-95.889145,,,,,0
+6658,MMS 10,MMS Bay10,7952 E 33RD ST S,36.113781,-95.888596,,,,,0
+6661,Ma43Pl,E Main St & E 43rd Pl S,400 E Main St\E 43rd Pl S & S 4th St,36.022502,-95.965477,,,,,0
+6662,Aqua,Aquarium Dr & EB St,,36.024467,-95.959133,,,,,0
+6663,Lew81St,S Lewis Ave&E 81st St S,8318 S Lewis Ave & E 81st St S,36.046073,-95.957952,,,,,0
+6664,Lew81St,S Lewis Ave & E 81st St S,8226 S Lewis Ave & E 81st St S,36.043556,-95.957881,,,,,0
+6665,71StLou,E 71st St S & S Louisville Ave,3599 E 71st St S & S Louisville Ave/S Oswego Ave,36.060985,-95.935155,,,,,0
+6666,49av3st,S 49th W Ave & W 3rd St,316 S 49th W Ave & W 3rd St,36.152314,-96.047271,,,,,0
+6667,49av3st,S 49th W Ave & W 3rd St,259 S 49th W Ave & W 3rd St,36.153291,-96.047128,,,,,0
+6668,CCIndp,Country Club Dr & W Independence St,796 Country Club Dr & W Independence St,36.165596,-96.003235,,,,,0
+6669,CCHask,Country Club Dr & Haskell Pl,773 Country Club Dr & Haskell Pl,36.165562,-96.003125,,,,,0
+6670,57st33av,W 57th St & S 33rd W Ave,3333 W 57th St & S 33rd W Ave,36.080878,-96.030094,,,,,0
+6671,41av55pl,S 41st W Ave & W 55th Pl,5556 S 41st W Ave & W 55th Pl,36.082982,-96.038612,,,,,0
+6673,Taco51st,S Tacoma Ave & W 51st St,4900 S Tacoma Ave & W 51st St,36.090208,-96.010228,,,,,0
+6674,Taco51st,S Tacoma Ave & W 51st St,4927 S Tacoma Ave & W 51st St,36.090627,-96.010103,,,,,0
+6675,49stOlym,W 49th St & S Olympia Ave,1000 W 49th St & S Olympia Ave,36.092291,-96.004598,,,,,0
+6676,49stmayb,W 49th St & S Maybelle Ave,800 W 49th St & S Maybelle Ave,36.09228,-96.001773,,,,,0
+6677,Peo55st,S Peoria Ave & E 55th St S,5327 S Peoria Ave & E 55th St S,36.084551,-95.975679,,,,,0
+6678,Ya51st,S Yale Ave & E 51st St S,5102 S Yale Ave & E 51st St S,36.089425,-95.922446,,,,,0
+6679,61stYa,E 61st St S & S Yale Ave,4900 E 61st St S & S Yale Ave,36.075206,-95.921665,,,,,0
+6680,51stSher,E 51st St S & S Sheridan Rd,6113 E 51st St S & S Sheridan Rd,36.089971,-95.905261,,,,,0
+6681,Sher44st,S Sheridan Rd & E 44th St S,4374 S Sheridan Rd & E 44th St S,36.099821,-95.904599,,,,,0
+6682,38stLkwd,E 38th St S & S Lakewood Ave,3801 E 38th St S & S Lakewood Ave,36.109086,-95.908395,,,,,0
+6683,Mem53st,S Memorial Dr & E 53rd St S,5332 S Memorial Dr & E 53rd St S,36.087049,-95.886675,,,,,0
+6684,Mem58st,S Memorial Dr & E 58th St S,5800 S Memorial Dr & E 58th St S,36.080176,-95.886603,,,,,0
+6685,107a109a,S 107th E Ave & 63rd St S,6219 S 107th E Ave/S109th E Ave,36.073429,-95.857682,,,,,0
+6686,71st73av,E 71st St S & S 73rd E Ave,7300 E 71st St S & S 73rd E Ave,36.060732,-95.895145,,,,,0
+6687,71st78av,E 71st St S & S 78th E Ave,7800 E 71st St S & S 78th E Ave,36.060736,-95.89006,,,,,0
+6688,Garn48ST,S Garnett Rd & E 48th St S,4750 S Garnett Rd & E 48th St S,36.093256,-95.851208,,,,,0
+6689,Mem46Pl,S Memorial Dr & E 46th Pl S,4423 S Memorial Dr & E 46th Pl S,36.098164,-95.886429,,,,,0
+6690,Mem44st,S Memorial Dr & E 44th St S,4343 S Memorial Dr & E 44th St S,36.099769,-95.886405,,,,,0
+6691,Mem42st,S Memorial Dr & E 42nd St S,4201 S Memorial Dr & E 42nd St S,36.102907,-95.886446,,,,,0
+6692,Mngo41st,S Mingo Rd & E 41st St S,4100 S Mingo Rd & E 41st St S,36.104126,-95.868798,,,,,0
+6693,Mngo42st,S Mingo Rd & E 42rd St S,4201 S Mingo Rd & E 42rd St S,36.10217,-95.868779,,,,,0
+6694,31st116a,E 31st St S & S 116th E Ave,11656 E 31st St S & S 116th E Ave,36.118864,-95.845756,,,,,0
+6695,31st120p,E 31st St S & S 120th E Pl,12048 E 31st St S & S 120th E Pl,36.118857,-95.842513,,,,,0
+6697,GarnArch,N Garnett Rd & E Archer St,153 N Garnett Rd & E archer St,36.163629,-95.851067,,,,,0
+6698,GarnArch,N Garnett Rd & E Archer Pl,11200 N Garnett Rd & & E Archer Pl,36.163629,-95.851274,,,,,0
+6699,129a7st,S 129th E Ave & E 7th St,702 S 129th E Ave & E 7th St,36.151208,-95.833379,,,,,0
+6700,11st107a,E 11th St S & S 107th E Ave,10543 E 11th St S & S 107th E Ave,36.148152,-95.858169,,,,,0
+6701,137a31st,S 137th E Ave & E 31st St S,3065 S 137th E Ave & E 31st St S,36.119146,-95.823704,,,,,0
+6702,31st129a,E 31st St S & S 129th E Ave,12920 E 31st St S & S 129th E Ave,36.118356,-95.831793,,,,,0
+6703,31st124a,E 31st st S & S 124th E Ave,12224 E 31st St S & S 124th E Ave,36.119094,-95.839181,,,,,0
+6704,MemAdm,Memorial & Admiral,2 S Memorial Dr & E Admiral Pl,36.159959,-95.886845,,,,,0
+6705,Mem2st,S Memorial Dr & East 2nd St,218 S Memorial Dr & East 2nd St,36.157794,-95.886839,,,,,0
+6706,Mem7st,S Memorial Dr & East 7th St,700 S Memorial Dr & East 7th St,36.151276,-95.886791,,,,,0
+6707,Mem15st,S Memorial Dr&E 15th St S,1510 S Memorial Dr & E 15th St S,36.14037,-95.886772,,,,,0
+6708,Sher21st,S Sheridan rd & E 21st St S,2104 S Sheridan rd & E 21st St S,36.132955,-95.904698,,,,,0
+6709,15stSher,S Sheridan Rd&E 15th St S,6247 E 15th St S & S Sheridan Rd,36.140792,-95.905256,,,,,0
+6710,15stSher,E 15th St S & S Sheridan Rd,6101 E 15th St S & S Sheridan Rd,36.140739,-95.908175,,,,,0
+6711,15stJop,E 15th St S & S Joplin Ave,6116 E 15th St S & S Joplin Ave,36.140589,-95.908373,,,,,0
+6712,AdmLkwd,E Admiral Pl & N lakewood Ave,5931 E Admiral Pl & N lakewood Ave,36.160912,-95.910057,,,,,0
+6713,4plPitt,E 4th Pl S & S Pittsburg Ave,3929 E 4th Pl S & S Pittsburg Ave,36.155124,-95.931807,,,,,0
+6714,Harv11st,S Harvard Ave&E 11Th St S,1100 S Harvard Ave & E 11th St S,36.147592,-95.940494,,,,,0
+6715,Harv21st,S Harvard Ave&E 21st St S,1943 S Harvard Ave & E 21st St S,36.133564,-95.940218,,,,,0
+6716,Harv13st,S Harvard Ave & E 13th St S,1300 S Harvard Ave & E 13th St S,36.143811,-95.940486,,,,,0
+6717,21stLou,E 21st St S & S Louisville Ave,3664 E 21st St S & S Louisville Ave,36.133222,-95.936114,,,,,0
+6718,Harv30st,S Harvard Ave & E 30th St S,3000 S Harvard Ave & E 30th St S,36.120396,-95.940414,,,,,0
+6719,Harv31st,S Harvard Ave & E 31st St S,3112 S Harvard Ave & E 31st St S,36.11818,-95.94039,,,,,0
+6721,PineVand,E Pine St & N Vandalia Ave,4704 E Pine St & N Vandalia Ave,36.177054,-95.924456,,,,,0
+6722,PineLou,E Pine St & N Louisville Ave,3601 E Pine St & N Louisville Ave,36.177203,-95.937607,,,,,0
+6723,PineBmAv,E Pine St & N Birmiingham Pl,2600 E Pine St & N Birmiingham Pl,36.177087,-95.953022,,,,,0
+6724,PeoRead,N Peoria Ave & E Reading St,1717 N Peoria Ave & E Reading St,36.180573,-95.975665,,,,,0
+6725,CinOkla,Martin Luther King Jr Blvd  & E Oklahoma Pl,1400 N Cincinatti Ave & E Oklahoma Pl,36.17568,-95.993635,,,,,0
+6726,MHKBCin,Mohawk Blvd & Martin Luther King Jr Blvd,200 Mohawk Blvd & N Cincinatti Ave E,36.192401,-95.993066,,,,,0
+6727,MHKBFkft,Mohawk Blvd & N Frankfort Ave,500 Mohawk Blvd & N Frankfort Ave,36.192519,-95.988738,,,,,0
+6728,Lew30st,N Lewis Ave & East 30th St N,3009 N Lewis Ave & East 30th St N,36.197526,-95.958078,,,,,0
+6729,Lew36st,N Lewis Ave & E 36th St N,3520 N Lewis Ave & E 36th St N,36.205831,-95.95834,,,,,0
+6730,Peo33st,N Peoria Ave & East 33rd St N,3248 N Peoria Ave & East 33rd St N,36.202117,-95.97567,,,,,0
+6731,36stGarr,E 36th St N & N Garrison Ave,558 E 36th St N & N Garrison Ave,36.205887,-95.986274,,,,,0
+6732,36stGarr,E 36th St N & N Garrison Ave,541 E 36th St N & N Garrison Ave,36.206025,-95.986332,,,,,0
+6733,36stGarr,E 36th St N & N Garrison Ave,401 E 36th St N & N Garrison Ave,36.206027,-95.988634,,,,,0
+6734,36stElg,E 36th St N & N Elgin Ave,400 E 36th St N & N Elgin Ave,36.205877,-95.989336,,,,,0
+6735,Cin51pl,Martin Luther King Jr Blvd & E 51st Pl N,5117 N Cincinati Ave & E 51st Pl N,36.228346,-95.993463,,,,,0
+6736,Hart51pl,N Hartford Ave & E 51st Pl N,5016 N Hartford Ave & E 51st Pl N,36.227806,-95.984584,,,,,0
+6737,Cin54st,Martin Luther King Jr Blvd & E 54th St N,5401 N Cincinati Ave & E 54th St N,36.231605,-95.993465,,,,,0
+6738,Cin55st,Martin Luther King Jr Blvd & E 55th Pl N,5501 N Cincinati Ave & E 55th Pl N,36.234029,-95.993467,,,,,0
+6739,15stBos,E 15th St S & S Boston Ave,23 E 15th St S & S Boston Ave,36.140676,-95.98533,,,,,0
+6740,Bld16st,S Boulder Ave W & W 16th St S,1600 S Boulder Ave W & W 16th St S,36.13943,-95.988531,,,,,0
+6741,Bld17st,S Boulder Ave W & W 17th St S,1700 S Boulder Ave W & W 17th St S,36.137699,-95.988561,,,,,0
+6742,21stCin,E 21st St S & S Cincinatti Ave,,36.133476,-95.98314,,,,,0
+6743,Bld21st,S Boulder Park Dr & W 21st St S,1867 S Boulder Park Dr & W 21st St S,36.134431,-95.988856,,,,,0
+6744,Peo52st,N Peoria Ave & E 52nd St N,5130 N Peoria Ave & E 52nd St N,36.229495,-95.975653,,,,,0
+6746,Hart46st,N Hartford Ave & E 46th St N,4532 N Hartford Ave & E 46th St N,36.22014,-95.984595,,,,,0
+6747,IndpElg,E Independence St & N Elgin Ave,266 E Independence St & N Elgin Ave,36.166031,-95.991503,,,,,0
+6750,41stBmPl,E 41st St S & S Birmingham Pl,2601 E 41st St S & S Birmingham Pl,36.104325,-95.952761,,,,,0
+6751,101S/Elm,101ST S & ELM PL (EAST SIDE),,36.016905,-95.79691,,,,,0
+6753,121_ELM,121st St S & Elm,,35.988589,-95.79723,,,,,0
+6756,FLAG50,E 3RD ST S&S ROCKFORD AVE,,36.156594,-95.971674,,,,,0
+6758,66_MING,E 66th St S&S Mingo Rd,E 66TH ST S & S MINGO RD,36.068242,-95.868486,,,,,0
+6759,ARDBAY3,ARRIVE DAS BAY 3,,36.151666,-95.993684,,,,,0
+6760,ARDBAY7,ARRIVE DAS 7,,36.151899,-95.994013,,,,,0
+6762,ADAS10,ARRIVE DAS BAY 10,,36.152095,-95.993461,,,,,0
+6763,OU CLIN,OU CLINIC,,36.206966,-95.98499,,,,,0
+6765,ARDBAY2,ARRIVE DAS BAY 2,,36.151711,-95.993471,,,,,0
+6766,FLAG 52,WESTVIEW VIEW CLINIC - TO DOWNTOWN,,36.206773,-95.995067,,,,,0
+6767,FLAG 53,OSAGE CASINO (EB),,36.207929,-96.002416,,,,,0
+6768,FLAG 54,OU WAYMAN TISDALE CLINIC,,36.207128,-95.984956,,,,,0
+6769,FLAG 55,AIRPORT,,36.190014,-95.890038,,,,,0
+6770,FLAG 56,ST. FRANCIS EASTBOUND,,36.073054,-95.918041,,,,,0
+6771,FLAG 57,ST. FRANCIS WESTBOUND,,36.073116,-95.918086,,,,,0
+6772,FLAG 58,WOODLAND HILLS MALL 318 FROM MID,,36.065239,-95.882349,,,,,0
+6773,FLAG 59,WOODLAND HILLS MALL EB471,,36.065203,-95.882349,,,,,0
+6774,FLAG 60,WOODLAND HILLS MALL WB 471,,36.065194,-95.882248,,,,,0
+6775,CRSTVIEW,CRESTVIEW FROM DOWNTOWN,,36.20292,-95.99338,,,,,0
+6776,CRESTV,CRESTVIEW TO DOWNTOWN,,36.20292,-95.993357,,,,,0
+6777,FLAG 63,508 CC TCC,,36.04555,-95.863295,,,,,0
+6778,FLAG 64,508 CL 101ST E AVE /UNNAMED,,36.036305,-95.86472,,,,,0
+6779,FLAG 65,508 CL 101ST E AVE & 88TH ST S,,36.034751,-95.864716,,,,,0
+6780,MEM93RD ,MEMORIAL AND 93RD,,36.0282,-95.886371,,,,,0
+6781,SWW17,SOUTHWEST BLVD & W 17TH NB,,36.137903,-96.006829,,,,,0
+6782,UNIW78,S UNION AVE & W 78TH STREET S,,36.050763,-96.011738,,,,,0
+6783,BLD15THW,BOULDER & 15TH STREET WESTSIDE,,36.140905,-95.988595,,,,,0
+6784,BLD17,BOULDER AND 17TH EAST SIDE,,36.13816,-95.988375,,,,,0
+6785,BLD18,BOULDER AND 18TH STREET EAST,,36.136267,-95.988407,,,,,0
+6786,36NLEW,36TH STREET NORTH & LEWIS FD FLAG STOP,,36.206396,-95.957769,,,,,0
+6787,36NPEO,36TH ST N & PEORIA FD FLAG STOP,,36.206285,-95.97511,,,,,0
+6793,FLAG68,PITTSBURGH AND ADMRIAL OUTBOUND,,36.160642,-95.931416,,,,,0
+6794,FLAG68,3RD AND LEWIS EB,,36.156506,-95.959146,,,,,0
+6795,FLAG69,3RD AND LEWIS SB,,36.15647,-95.958141,,,,,0
+6799,COLLBACD,COLLBACD,,36.053369,-95.793564,,,,,0
+6803,3RD&LEW,3RDLEWIS,,36.15626,-95.95829,,,,,0
+6804,4TH&LEW,4TH&LEWIS,,36.15549,-95.9583,,,,,0
+6805,LEW&4TH,LEWIS&4TH,,36.155436,-95.958154,,,,,0
+6806,LEW&6TH,LEWIS&6TH,,36.15194,-95.95809,,,,,0
+6807,FLAG72,PEORIA & 5TH,,36.154746,-95.975548,,,,,0
+6808,FLAG 73,PEORIA & 6TH,,36.152102,-95.97564,,,,,0
+6809,SSREASOR,SAND SPG REASORS,,36.108158,-96.115104,,,,,0
+6825,36THINDP,S INDIANAPOLIS& E 36TH ST,,36.11149,-95.93877,,,,,0
+6826,36THLOU,S LOUISVILLE & E 36TH ST,,36.11153,-95.93572,,,,,0
+6827,36THOSW,S OSWEGO & E 36TH ST,,36.11154,-95.93221,,,,,0
+6828,YA36ST,S YALE & E 36TH ST,,36.11165,-95.92282,,,,,0
+6829,36THPITT,S PITTSBURGH & E 36TH ST,,36.11165,-95.93126,,,,,0
+6830,36THNHVN,S NEW HAVEN & E 36TH ST,,36.11165,-95.93396,,,,,0
+6831,36THLOU,S LOUISVILLE & E 36TH ST,,36.11164,-95.93648,,,,,0
+6832,36THINDP,S INDIANAPOLIS & E 36TH ST,,36.11163,-95.93936,,,,,0
+6834,PINEZUNI,E PINE ST & N ZUNIS,,36.17723,-95.95969,,,,,0

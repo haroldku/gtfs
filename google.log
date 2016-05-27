@@ -1,0 +1,144 @@
+Interface Name: GoogleExport
+Service Name: GoogleExport
+
+Export To: \\Thunder2\it-gis\GTFS Feed\APR2016_rev\
+Log File: \\Thunder2\it-gis\GTFS Feed\APR2016_rev\google.log
+
+Format: Delimiter
+Delimiter: ,
+Qualifier: "
+
+Selected Files: 
+	agency.txt
+	stops.txt
+	routes.txt
+	trips.txt
+	stop times.txt
+	calendar.txt
+	calendar dates.txt
+	shapes.txt
+
+SignUp Period:
+	APRIL 2016
+
+ServiceGroup(s):
+	1 Weekday
+	2 Saturday
+
+Line(s):
+	100 - Admiral
+	101 - Suburban Acres
+	105 - Peoria
+	111 - 11th Street
+	112 - Lewis/Jenks
+	114 - Charles Page/SAND SPRINGS
+	117 - Union/Southwest Blvd
+	118 - 33rd W Ave 
+	203 - Airport
+	210 - Harvard
+	215 - 15th Street
+	221 - 21st Street
+	222C - PINE/41ST STREET 
+	251 - Fast Track
+	306 - Southeast Industrial
+	318 - Memorial
+	471 - 71st Street
+	508 - Broken Arrow Connection
+	508FLEX - 508 FLEX Broken Arrow
+	840 - North Nightline
+	860 - East Nightline
+	860S - 860 Saturday 
+	870 - South Nightline
+	880 - Southeast Nightline
+	890 - West Nightline 
+	902 - Broken Arrow Express
+	909 - Union Express
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Date      time   Message                                                           
+--------  -----  ------------------------------------------------------------------
+05-23-16  14:45  Start export.                                                     
+05-23-16  14:45  Loaded 0 supplementary Records.                                   
+05-23-16  14:45  Loaded signup.                                                    
+05-23-16  14:45  Loaded 164 Headsigns.                                             
+05-23-16  14:45  Loaded 2 Calendar_dates.                                          
+05-23-16  14:45  Loaded 7069 stop pattern distances.                               
+05-23-16  14:45  Loaded 2 ServiceGroups.                                           
+05-23-16  14:45  Loaded 0 rows of ServiceGroup/ExcCombo Info.                      
+05-23-16  14:45  Loaded 27 lines.                                                  
+05-23-16  14:45  Loaded 1021 trips.                                                
+05-23-16  14:45  Loaded 1740 stops.                                                
+05-23-16  14:45  Session 1 was created.                                            
+05-23-16  14:45  Exported agency file.                                             
+05-23-16  14:45  Exported 1740 stops records.                                      
+05-23-16  14:45  Exported 27 route records.                                        
+05-23-16  14:45  Exported 1021 trip records.                                       
+05-23-16  14:45  Exported 1460 stop time records from trip 0 to 29.                
+05-23-16  14:45  Got 1431 stop times from trip 30 to 59.                           
+05-23-16  14:45  Got 1195 stop times from trip 60 to 89.                           
+05-23-16  14:45  Got 1905 stop times from trip 90 to 119.                          
+05-23-16  14:45  Got 2678 stop times from trip 120 to 149.                         
+05-23-16  14:45  Got 2168 stop times from trip 150 to 179.                         
+05-23-16  14:45  Got 2314 stop times from trip 180 to 209.                         
+05-23-16  14:45  Got 1976 stop times from trip 210 to 239.                         
+05-23-16  14:45  Got 962 stop times from trip 240 to 269.                          
+05-23-16  14:45  Got 929 stop times from trip 270 to 299.                          
+05-23-16  14:45  Got 830 stop times from trip 300 to 329.                          
+05-23-16  14:45  Got 1996 stop times from trip 330 to 359.                         
+05-23-16  14:45  Got 2320 stop times from trip 360 to 389.                         
+05-23-16  14:46  Got 1726 stop times from trip 390 to 419.                         
+05-23-16  14:46  Got 1962 stop times from trip 420 to 449.                         
+05-23-16  14:46  Got 3332 stop times from trip 450 to 479.                         
+05-23-16  14:46  Got 2946 stop times from trip 480 to 509.                         
+05-23-16  14:46  Got 60 stop times from trip 510 to 539.                           
+05-23-16  14:46  Got 694 stop times from trip 540 to 569.                          
+05-23-16  14:46  Got 896 stop times from trip 570 to 599.                          
+05-23-16  14:46  Got 1221 stop times from trip 600 to 629.                         
+05-23-16  14:46  Got 715 stop times from trip 630 to 659.                          
+05-23-16  14:46  Got 1819 stop times from trip 660 to 689.                         
+05-23-16  14:46  Got 1178 stop times from trip 690 to 719.                         
+05-23-16  14:46  Got 1520 stop times from trip 720 to 749.                         
+05-23-16  14:46  Got 2458 stop times from trip 750 to 779.                         
+05-23-16  14:46  Got 2022 stop times from trip 780 to 809.                         
+05-23-16  14:46  Got 859 stop times from trip 810 to 839.                          
+05-23-16  14:46  Got 1764 stop times from trip 840 to 869.                         
+05-23-16  14:46  Got 1881 stop times from trip 870 to 899.                         
+05-23-16  14:46  Got 3264 stop times from trip 900 to 929.                         
+05-23-16  14:46  Got 503 stop times from trip 930 to 959.                          
+05-23-16  14:46  Got 927 stop times from trip 960 to 989.                          
+05-23-16  14:46  Got 1765 stop times from trip 990 to 1019.                        
+05-23-16  14:46  Got 38 stop times from trip 1020 to 1020.                         
+05-23-16  14:46  Exported 54254 stop time records.                                 
+05-23-16  14:46  Exported 2 calendar records.                                      
+05-23-16  14:46  Exported 4 calendar date records.                                 
+05-23-16  14:46  Exported 3133 shapes from Pat 0 to 20.                            
+05-23-16  14:46  Got 3290 shapes - pattern 21 to 41.                               
+05-23-16  14:46  Got 3181 shapes - pattern 42 to 56.                               
+05-23-16  14:46    *Warning* Pattern 15024 lost shape between sequence 155 and 156.
+05-23-16  14:46    *Warning* Pattern 15025 lost shape between sequence 155 and 156.
+05-23-16  14:46    *Warning* Pattern 15026 lost shape between sequence 155 and 156.
+05-23-16  14:46    *Warning* Pattern 15027 lost shape between sequence 65 and 66.  
+05-23-16  14:46    *Warning* Pattern 15028 lost shape between sequence 65 and 66.  
+05-23-16  14:46  Got 3015 shapes - pattern 57 to 67.                               
+05-23-16  14:46  Got 3050 shapes - pattern 68 to 80.                               
+05-23-16  14:46    *Warning* Pattern 15049 lost shape between sequence 102 and 103.
+05-23-16  14:46    *Warning* Pattern 15050 lost shape between sequence 97 and 98.  
+05-23-16  14:46    *Warning* Pattern 15051 lost shape between sequence 97 and 98.  
+05-23-16  14:46    *Warning* Pattern 15052 lost shape between sequence 120 and 121.
+05-23-16  14:46    *Warning* Pattern 15053 lost shape between sequence 114 and 115.
+05-23-16  14:46    *Warning* Pattern 15054 lost shape between sequence 114 and 115.
+05-23-16  14:46  Got 3209 shapes - pattern 81 to 96.                               
+05-23-16  14:46  Got 3068 shapes - pattern 97 to 111.                              
+05-23-16  14:46  Got 3233 shapes - pattern 112 to 125.                             
+05-23-16  14:46    *Warning* Pattern 15104 lost shape between sequence 330 and 331.
+05-23-16  14:46    *Warning* Pattern 15105 lost shape between sequence 392 and 393.
+05-23-16  14:46    *Warning* Pattern 15112 lost shape between sequence 183 and 184.
+05-23-16  14:46  Got 3138 shapes - pattern 126 to 144.                             
+05-23-16  14:46    *Warning* Pattern 15113 lost shape between sequence 183 and 184.
+05-23-16  14:46    *Warning* Pattern 15114 lost shape between sequence 56 and 57.  
+05-23-16  14:46    *Warning* Pattern 15115 lost shape between sequence 56 and 57.  
+05-23-16  14:46  Got 2967 shapes - pattern 145 to 163.                             
+05-23-16  14:46  Exported 28151 shape records.                                     
+05-23-16  14:46  Closed seeeion 1.                                                 
+

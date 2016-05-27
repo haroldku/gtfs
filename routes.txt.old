@@ -1,0 +1,27 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+3654,Tulsa,100,Admiral,,3,,C4FFC4,FFFFFF
+3655,Tulsa,101,Suburban Acres,,3,,800000,FFFFFF
+3656,Tulsa,105,Peoria,,3,,FF00FF,FFFFFF
+3657,Tulsa,111,11th Street,,3,,808000,FFFFFF
+3658,Tulsa,112,Lewis/Jenks,,3,,800080,FFFFFF
+3659,Tulsa,114,Charles Page/SAND SPRINGS,,3,,008080,FFFFFF
+3660,Tulsa,117,Union/Southwest Blvd,,3,,3A6EA5,FFFFFF
+3661,Tulsa,118,33rd W Ave,,3,,800080,FFFFFF
+3662,Tulsa,203,Airport,,3,,FFFF00,FFFFFF
+3663,Tulsa,210,Harvard,,3,,008080,FFFFFF
+3664,Tulsa,215,15th Street,,3,,00FFFF,FFFFFF
+3665,Tulsa,221,21st Street,,3,,A0A0A4,FFFFFF
+3666,Tulsa,222C,PINE/41ST STREET,,3,,FFFF00,FFFFFF
+3667,Tulsa,251,Fast Track,,3,,00FF00,FFFFFF
+3668,Tulsa,306,Southeast Industrial,,3,,C0C0C0,FFFFFF
+3669,Tulsa,318,Memorial,,3,,00FF80,FFFFFF
+3670,Tulsa,471,71st Street,,3,,800080,FFFFFF
+3671,Tulsa,508,Broken Arrow Connection,,3,,0000FF,FFFFFF
+3674,Tulsa,840,North Nightline,,3,,8080C0,FFFFFF
+3676,Tulsa,860,East Nightline,,3,,808040,FFFFFF
+3678,Tulsa,860S,860 Saturday,,3,,000080,FFFFFF
+3680,Tulsa,870,South Nightline,,3,,C0C0C0,FFFFFF
+3682,Tulsa,880,Southeast Nightline,,3,,C0C0C0,FFFFFF
+3684,Tulsa,890,West Nightline,,3,,00FF00,FFFFFF
+3686,Tulsa,902,Broken Arrow Express,,3,,00FF00,FFFFFF
+3687,Tulsa,909,Union Express,,3,,FF8000,FFFFFF
